@@ -1,0 +1,12 @@
+ 423 mimetype=vnd.android.cursor.item/group_membership
+ 416 mimetype=vnd.android.cursor.item/name
+ 415 mimetype=vnd.android.cursor.item/note
+ 415 mimetype=vnd.android.cursor.item/nickname
+ 329 mimetype=vnd.android.cursor.item/phone_v2
+ 131 mimetype=vnd.android.cursor.item/email_v2
+  38 mimetype=vnd.android.cursor.item/identity
+  30 mimetype=vnd.android.cursor.item/photo
+   8 mimetype=vnd.sec.cursor.item/profile_card
+   8 mimetype=vnd.android.cursor.item/contact_event
+   6 mimetype=vnd.android.cursor.item/organization
+   1 mimetype=vnd.android.cursor.item/postal-address_v2
