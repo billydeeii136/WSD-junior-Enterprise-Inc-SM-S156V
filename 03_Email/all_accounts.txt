@@ -1,0 +1,265 @@
+User UserInfo{0:Owner:4c13}:
+  Accounts: 20
+    Account {name=billydeeii136@gmail.com, type=com.google}
+    Account {name=williamscottdavisii136@gmail.com, type=com.google}
+    Account {name=williamscottdavis136@gmail.com, type=com.google}
+    Account {name=Meet, type=com.google.android.apps.tachyon}
+    Account {name=billydeeii136@gmail.com, type=com.osp.app.signin}
+    Account {name=Facebook, type=com.facebook.auth.login}
+    Account {name=61579828298835, type=com.facebook.auth.login}
+    Account {name=Microsoft 365, type=com.microsoft.office}
+    Account {name=billydeeii@hotmail.com, type=com.microsoft.skydrive}
+    Account {name=billydeeii136@gmail.com, type=com.yahoo.mobile.client.share.account}
+    Account {name=billydeeii136, type=com.yahoo.mobile.client.share.account}
+    Account {name=WhatsApp, type=com.whatsapp}
+    Account {name=billydeeii136@yahoo.com, type=com.google.android.gm.legacyimap}
+    Account {name=billydeeii@hotmail.com, type=com.google.android.gm.legacyimap}
+    Account {name=Work account, type=com.microsoft.workaccount}
+    Account {name=billydeeii@hotmail.com, type=com.microsoft.workaccount}
+    Account {name=williamscottdavis136@outlook.com, type=com.microsoft.workaccount}
+    Account {name=Messenger, type=com.facebook.messenger}
+    Account {name=WPS Office, type=cn.wps.moffice}
+    Account {name=Alibaba.com, type=sourcing.keep_progress_alive.account}
+  
+  AccountId, Action_Type, timestamp, UID, TableName, Key
+  Accounts History
+  85,action_called_account_remove,2026-03-17 23:40:04,10365,accounts,48
+  85,action_account_remove,2026-03-17 23:40:04,1000,accounts,49
+  86,action_account_add,2026-03-17 23:40:04,10365,accounts,50
+  86,action_called_account_remove,2026-03-17 23:40:04,10365,accounts,51
+  86,action_account_remove,2026-03-17 23:40:05,1000,accounts,52
+  87,action_account_add,2026-03-17 23:40:05,10365,accounts,53
+  87,action_called_account_remove,2026-03-18 00:06:31,10365,accounts,54
+  87,action_account_remove,2026-03-18 00:06:31,1000,accounts,55
+  88,action_account_add,2026-03-18 00:06:31,10365,accounts,56
+  49,action_authenticator_remove,2026-03-18 02:29:58,1000,accounts,57
+  -1,action_called_account_add,2026-03-19 17:22:56,10250,accounts,58
+  89,action_account_add,2026-03-19 17:27:20,10231,accounts,59
+  89,action_clear_password,2026-03-19 17:27:21,10231,accounts,60
+  -1,action_called_account_add,2026-03-19 17:28:28,10250,accounts,61
+  1,action_clear_password,2026-03-19 17:34:57,10231,accounts,62
+  90,action_account_add,2026-03-20 08:47:54,10469,accounts,0
+  91,action_account_add,2026-03-22 03:39:37,10434,accounts,63
+  92,action_account_add,2026-03-25 10:40:53,10402,accounts,1
+  -1,action_called_account_add,2026-03-31 15:50:20,10231,accounts,2
+  93,action_account_add,2026-04-07 16:38:20,10392,accounts,3
+  5,action_called_account_remove,2026-04-13 02:20:26,10110,accounts,4
+  5,action_account_remove,2026-04-13 02:20:27,10110,accounts,5
+  88,action_called_account_remove,2026-04-15 16:26:30,10365,accounts,6
+  88,action_account_remove,2026-04-15 16:26:30,1000,accounts,7
+  94,action_account_add,2026-04-15 16:26:30,10365,accounts,8
+  94,action_called_account_remove,2026-04-15 16:26:38,10365,accounts,9
+  94,action_account_remove,2026-04-15 16:26:39,1000,accounts,10
+  95,action_account_add,2026-04-15 16:26:39,10365,accounts,11
+  96,action_account_add,2026-04-16 12:38:18,10199,accounts,12
+  -1,action_called_account_add,2026-04-19 05:28:21,10231,accounts,13
+  -1,action_called_account_add,2026-04-25 17:19:58,10250,accounts,14
+  91,action_authenticator_remove,2026-05-10 07:52:36,1000,accounts,15
+  -1,action_called_account_add,2026-05-11 06:06:20,10250,accounts,16
+  -1,action_called_account_add,2026-05-16 20:17:14,10250,accounts,17
+  -1,action_called_account_add,2026-05-16 20:18:31,10250,accounts,18
+  -1,action_called_account_add,2026-05-20 11:09:48,10250,accounts,19
+  8,action_authenticator_remove,2026-05-23 10:43:42,1000,accounts,20
+  92,action_authenticator_remove,2026-05-23 10:43:42,1000,accounts,21
+  93,action_authenticator_remove,2026-05-23 10:43:42,1000,accounts,22
+  95,action_authenticator_remove,2026-05-23 10:43:42,1000,accounts,23
+  72,action_authenticator_remove,2026-05-23 17:16:21,1000,accounts,24
+  -1,action_sync_de_ce_accounts,2026-05-23 17:16:51,1000,accounts,25
+  -1,action_called_account_add,2026-05-27 20:32:03,10250,accounts,26
+  -1,action_called_account_add,2026-05-28 05:19:22,1000,accounts,27
+  -1,action_called_account_add,2026-05-28 20:31:42,1000,accounts,28
+  97,action_account_add,2026-06-01 01:56:24,10418,accounts,29
+  98,action_account_add,2026-06-01 06:34:39,10385,accounts,30
+  -1,action_called_account_add,2026-06-04 08:26:01,1000,accounts,31
+  -1,action_called_account_add,2026-06-04 08:26:11,1000,accounts,32
+  -1,action_called_account_add,2026-06-04 08:27:19,1000,accounts,33
+  -1,action_called_account_add,2026-06-05 04:18:59,1000,accounts,34
+  -1,action_called_account_add,2026-06-05 04:19:13,1000,accounts,35
+  -1,action_called_account_add,2026-06-05 04:31:06,1000,accounts,36
+  -1,action_called_account_add,2026-06-05 20:20:02,1000,accounts,37
+  -1,action_called_account_add,2026-06-06 06:13:25,1000,accounts,38
+  99,action_account_add,2026-06-06 07:18:18,10231,accounts,39
+  99,action_clear_password,2026-06-06 07:18:18,10231,accounts,40
+  -1,action_called_account_add,2026-06-06 09:17:43,1000,accounts,41
+  -1,action_called_account_add,2026-06-06 22:37:20,1000,accounts,42
+  -1,action_called_account_add,2026-06-08 06:13:39,1000,accounts,43
+  -1,action_called_account_add,2026-06-08 06:14:24,1000,accounts,44
+  -1,action_called_account_add,2026-06-08 06:14:34,1000,accounts,45
+  -1,action_called_account_add,2026-06-08 06:16:01,1000,accounts,46
+  -1,action_called_account_add,2026-06-11 09:40:35,1000,accounts,47
+  
+  Active Sessions: 0
+  
+  RegisteredServicesCache: 25 services
+    ServiceInfo: AuthenticatorDescription {type=com.google.android.apps.tachyon}, ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.contacts.sync.DuoAccountService}, uid 10234, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.yahoo.mobile.client.share.account}, ComponentInfo{com.yahoo.mobile.client.android.mail/com.oath.mobile.platform.phoenix.core.AuthenticatorService}, uid 10395, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.vcast.mediamanager.account}, ComponentInfo{com.vcast.mediamanager/com.newbay.syncdrive.android.model.nab.AccountAuthenticatorService}, uid 10426, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.workaccount.authapp}, ComponentInfo{com.azure.authenticator/com.microsoft.identity.broker.accountmanager.AccountManagerServiceForWorkAccounts}, uid 10469, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.samsung.android.mobileservice}, ComponentInfo{com.samsung.android.mobileservice/com.samsung.android.mobileservice.social.calendar.presentation.service.background.account.AuthenticatorService}, uid 10110, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.facebook.messenger}, ComponentInfo{com.facebook.orca/com.facebook.messaging.phonebookintegration.account.MessengerAuthenticatorService}, uid 10199, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.google.android.gm.exchange}, ComponentInfo{com.google.android.gm/com.android.email.service.EasAuthenticatorService}, uid 10250, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.emmx}, ComponentInfo{com.microsoft.emmx/org.chromium.chrome.browser.edge_signin.system_account.EdgeAccountAuthenticatorService}, uid 10471, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.oculus.twilight.accesslibrary}, ComponentInfo{com.oculus.twilight/libraries.accessv2.src.authenticator.AccessLibraryAuthenticatorService}, uid 10314, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.authapppassthroughbackup}, ComponentInfo{com.azure.authenticator/com.microsoft.identity.broker.activebrokerselection.backupipc.service.AccountManagerIpcServiceForRequestsTargetingSpecificBrokerApp}, uid 10469, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.oath.mobile.phoenix}, ComponentInfo{com.aol.mobile.aolapp/com.oath.mobile.platform.phoenix.core.AuthenticatorService}, uid 10435, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.entra}, ComponentInfo{com.azure.authenticator/com.microsoft.workaccount.authenticatorservice.EntraAuthenticatorService}, uid 10469, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.msa.authapp}, ComponentInfo{com.azure.authenticator/com.microsoft.identity.broker.accountmanager.AccountManagerServiceForPersonalAccounts}, uid 10469, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=sourcing.keep_progress_alive.account}, ComponentInfo{com.alibaba.intl.android.apps.poseidon/com.alibaba.intl.android.as.account.AccountAuthService}, uid 10385, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.skydrive}, ComponentInfo{com.microsoft.skydrive/com.microsoft.authorization.AuthenticationService}, uid 10101, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.whatsapp}, ComponentInfo{com.whatsapp/com.whatsapp.accountsync.AccountAuthenticatorService}, uid 10491, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.google.android.gm.pop3}, ComponentInfo{com.google.android.gm/com.android.email.service.Pop3AuthenticatorService}, uid 10250, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.google}, ComponentInfo{com.google.android.gms/com.google.android.gms.auth.account.authenticator.GoogleAccountAuthenticatorService}, uid 10231, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.workaccount}, ComponentInfo{com.azure.authenticator/com.microsoft.workaccount.authenticatorservice.AuthenticatorService}, uid 10469, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.github.android}, ComponentInfo{com.github.android/com.github.service.auth.AuthenticatorService}, uid 10415, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.osp.app.signin}, ComponentInfo{com.osp.app.signin/com.samsung.android.samsungaccount.authentication.service.OspAuthenticationService}, uid 10106, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.samsung.android.coreapps}, ComponentInfo{com.samsung.android.mobileservice/com.samsung.android.mobileservice.social.buddy.account.presentation.service.AuthenticationService}, uid 10110, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.facebook.auth.login}, ComponentInfo{com.facebook.katana/com.facebook.katana.platform.FacebookAuthenticationService}, uid 10158, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.google.android.gm.legacyimap}, ComponentInfo{com.google.android.gm/com.android.email.service.LegacyImapAuthenticatorService}, uid 10250, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.microsoft.office.outlook.USER_ACCOUNT}, ComponentInfo{com.microsoft.office.outlook/com.acompli.acompli.contacts.sync.OutlookAuthenticatorService}, uid 10299, lastUpdateTime -1
+  
+  Account visibility:
+    billydeeii136@gmail.com
+      com.samsung.android.app.telephonyui, 2
+      com.sec.android.app.shealth, 2
+      com.samsung.android.callassistant, 2
+    billydeeii136@gmail.com
+      com.google.android.apps.translate, 2
+      com.google.android.setupwizard, 2
+      com.server.auditor.ssh.client, 2
+      com.google.ar.core, 2
+      com.linkedin.android, 2
+      com.bitcoin.mwallet, 2
+      com.google.android.apps.restore, 2
+      com.microsoft.office.outlook, 2
+      com.google.android.apps.books, 2
+      com.google.android.apps.walletnfcrel, 2
+      com.google.android.apps.docs.editors.docs, 2
+      com.emn8.mobilem8.nativeapp.bk, 2
+      com.snapchat.android, 2
+      com.twitter.android, 2
+      com.mcdonalds.app, 2
+      com.experian.android, 2
+      com.stddating.positivesingles, 2
+      com.google.android.apps.searchlite, 2
+      com.surfshark.vpnclient.android, 2
+      com.yahoo.mobile.client.android.mail, 2
+      com.indeed.android.jobsearch, 2
+      com.einnovation.temu, 2
+      com.google.android.apps.photos, 2
+      com.google.android.apps.docs, 2
+      com.google.android.apps.chromecast.app, 2
+      com.google.earth, 2
+      com.google.android.youtube, 2
+      com.google.android.apps.subscriptions.red, 2
+      com.paypal.android.p2pmobile, 2
+      com.tradingview.tradingviewapp, 2
+      com.google.android.apps.maps, 2
+      com.google.android.apps.tachyon, 2
+      com.google.android.apps.dynamite, 2
+      com.wendys.nutritiontool, 2
+      com.spotify.music, 2
+      com.google.android.apps.messaging, 2
+      com.google.android.videos, 2
+      com.google.android.googlequicksearchbox, 2
+      com.google.android.apps.googlevoice, 2
+      com.adobe.reader, 2
+      com.alibaba.intl.android.apps.poseidon, 2
+      com.waze, 2
+      com.google.android.apps.cloudconsole, 2
+      cn.wps.moffice_eng, 2
+      com.reportyourrent.app, 2
+      com.anthropic.claude, 2
+      com.deepseek.chat, 2
+      com.google.android.apps.authenticator2, 2
+      com.google.android.calendar, 2
+    williamscottdavisii136@gmail.com
+      com.google.android.apps.maps, 2
+      com.google.android.apps.translate, 2
+      com.google.android.apps.tachyon, 2
+      com.google.android.apps.docs.editors.docs, 2
+      com.google.android.apps.dynamite, 2
+      com.google.android.setupwizard, 2
+      com.google.android.apps.searchlite, 2
+      com.google.ar.core, 2
+      com.google.android.apps.cloudconsole, 2
+      com.google.android.apps.messaging, 2
+      com.google.android.googlequicksearchbox, 2
+      com.google.android.apps.photos, 2
+      com.google.android.apps.googlevoice, 2
+      com.google.android.apps.restore, 2
+      com.google.android.apps.docs, 2
+      com.google.android.apps.chromecast.app, 2
+      com.google.android.apps.authenticator2, 2
+      com.google.android.youtube, 2
+      com.google.android.apps.subscriptions.red, 2
+      com.google.android.apps.books, 2
+      com.google.android.apps.walletnfcrel, 2
+      com.google.android.calendar, 2
+    williamscottdavis136@gmail.com
+      com.google.android.apps.maps, 2
+      com.google.android.apps.tachyon, 2
+      com.google.android.apps.docs.editors.docs, 2
+      com.google.android.setupwizard, 2
+      com.google.ar.core, 2
+      com.google.android.apps.cloudconsole, 2
+      com.google.android.apps.messaging, 2
+      com.google.android.googlequicksearchbox, 2
+      com.google.android.apps.photos, 2
+      com.google.android.apps.restore, 2
+      com.google.android.apps.docs, 2
+      com.google.android.apps.authenticator2, 2
+      com.google.android.youtube, 2
+      com.google.android.apps.books, 2
+      com.google.android.calendar, 2
+  
+User UserInfo{95:DUAL_APP:20001010}:
+  Accounts: 0
+  
+  AccountId, Action_Type, timestamp, UID, TableName, Key
+  Accounts History
+  1,action_account_add,2026-02-28 20:31:54,9510491,accounts,0
+  1,action_authenticator_remove,2026-03-14 16:49:10,1000,accounts,1
+  
+  Active Sessions: 0
+  
+  RegisteredServicesCache: 1 services
+    ServiceInfo: AuthenticatorDescription {type=com.google}, ComponentInfo{com.google.android.gms/com.google.android.gms.auth.account.authenticator.GoogleAccountAuthenticatorService}, uid 9510231, lastUpdateTime -1
+  
+  Account visibility:
+  
+User UserInfo{150:Secure Folder:61010}:
+  Accounts: 0
+  
+  AccountId, Action_Type, timestamp, UID, TableName, Key
+  Accounts History
+  -1,action_called_account_add,2026-06-08 06:17:05,1000,accounts,0
+  -1,action_called_account_add,2026-06-08 06:17:36,15010231,accounts,1
+  -1,action_called_account_add,2026-06-08 06:18:06,15010231,accounts,2
+  
+  Active Sessions: 0
+  
+  RegisteredServicesCache: 4 services
+    ServiceInfo: AuthenticatorDescription {type=com.google}, ComponentInfo{com.google.android.gms/com.google.android.gms.auth.account.authenticator.GoogleAccountAuthenticatorService}, uid 15010231, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.osp.app.signin}, ComponentInfo{com.osp.app.signin/com.samsung.android.samsungaccount.authentication.service.OspAuthenticationService}, uid 15010106, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.samsung.android.coreapps}, ComponentInfo{com.samsung.android.mobileservice/com.samsung.android.mobileservice.social.buddy.account.presentation.service.AuthenticationService}, uid 15010110, lastUpdateTime -1
+    ServiceInfo: AuthenticatorDescription {type=com.samsung.android.mobileservice}, ComponentInfo{com.samsung.android.mobileservice/com.samsung.android.mobileservice.social.calendar.presentation.service.background.account.AuthenticatorService}, uid 15010110, lastUpdateTime -1
+  
+  Account visibility:
+  
+Account event dump: 
+  description=validateAccountsInternal 0 isCeDatabaseAttached=false userUnLocked=false date=2026/06/28 10:09:02 
+  description=Accounts cache is created: user 0 date=2026/06/28 10:09:02 
+  description=Accounts cache exists. There is no need to use db date=2026/06/28 10:09:02 
+  description=validateAccountsInternal 150 isCeDatabaseAttached=false userUnLocked=false date=2026/06/28 10:09:03 
+  description=Accounts cache is created: user 150 date=2026/06/28 10:09:03 
+  description=validateAccountsInternal 95 isCeDatabaseAttached=false userUnLocked=false date=2026/06/28 10:09:26 
+  description=Accounts cache is created: user 95 date=2026/06/28 10:09:26 
+  description=validateAccountsInternal 0 isCeDatabaseAttached=true userUnLocked=true date=2026/06/28 10:09:44 
+  description=Accounts cache is created: user 0 date=2026/06/28 10:09:50 
+  description=validateAccountsInternal 95 isCeDatabaseAttached=true userUnLocked=true date=2026/06/28 10:09:57 
+  description=Accounts cache exists. There is no need to use db date=2026/06/28 10:09:57 
+  description=Accounts cache is created: user 95 date=2026/06/28 10:09:57 
+  description=validateAccountsInternal 150 isCeDatabaseAttached=true userUnLocked=true date=2026/06/28 10:09:58 
+  description=Accounts cache exists. There is no need to use db date=2026/06/28 10:09:59 
+  description=Accounts cache is created: user 150 date=2026/06/28 10:09:59 
+

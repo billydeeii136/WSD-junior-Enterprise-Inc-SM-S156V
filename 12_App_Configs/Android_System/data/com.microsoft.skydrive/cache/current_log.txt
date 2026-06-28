@@ -1,0 +1,481 @@
+Sun Jun 28 08:30:31 EDT 2026 DATA com.microsoft.skydrive.content.MetadataContentProvider delete NOT_CURRENT_USER: result=0 
+Sun Jun 28 08:30:31 EDT 2026 DATA AccountCleanupJob numRowsDeleted=0 
+Sun Jun 28 08:30:31 EDT 2026 I dp.i cleanUpAccountsCache 
+Sun Jun 28 08:30:31 EDT 2026 I SubscriptionRefreshWorker Push Notifications Scheduling refresh_subscription job in 0 seconds 
+Sun Jun 28 08:30:31 EDT 2026 DATA OnThisDayBackgroundProcessor Cancelling job 
+Sun Jun 28 08:30:31 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 08:30:31 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 08:30:31 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 08:30:31 EDT 2026 DATA OnThisDayAlarmBasedNotifier Canceling job 
+Sun Jun 28 08:30:32 EDT 2026 DATA MojNotificationsAvailabilityHelper Cancelling MoJ notification worker 
+Sun Jun 28 08:30:32 EDT 2026 DATA AiMoJNotificationBackgroundWorker cancelWork() 
+Sun Jun 28 08:30:32 EDT 2026 DATA TopFacesNotificationAvailabilityHelper scheduleWorkIfNeeded() - cancelling worker 
+Sun Jun 28 08:30:32 EDT 2026 DATA TopFacesNotificationWorker cancelWork() 
+Sun Jun 28 08:30:32 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 08:30:32 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 08:30:32 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 08:30:32 EDT 2026 DATA SubscriptionRefreshJob Push Notifications Refreshing all subscriptions, isWorker : true 
+Sun Jun 28 08:30:32 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService Found buckets number: 6 | Enabled buckets number: 2 
+Sun Jun 28 08:30:32 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 08:30:32 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 08:30:32 EDT 2026 V g Google Api Availability return code: 0 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA g FCM: RegistrationId changed: false 
+Sun Jun 28 08:30:32 EDT 2026 DATA g FCM: Saving registrationId 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA CameraRollProvider/AutoUploadService Including videos in camera roll media. 
+Sun Jun 28 08:30:32 EDT 2026 DATA ActivityFeedNotificationSubscriber Adding OnThisDayPhoto to supported scenarios 
+Sun Jun 28 08:30:32 EDT 2026 DATA NotificationSubscription requireRefresh: isRegistrationIdChanged = false 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 I SubscriptionRefreshWorker Push Notifications Scheduling refresh_subscription job in 1783698348 seconds 
+Sun Jun 28 08:30:32 EDT 2026 DATA BlurryPhotosDiscoveryAvailability Updated unseen count: 3 at baseMaxItemId=0 
+Sun Jun 28 08:30:32 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 08:30:32 EDT 2026 DATA BlurryPhotosDiscoveryWorker scheduleWork() 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 I com.microsoft.skydrive.camerabackup.AutoUploadedMediaLog AutoUploadedMediaLog::ensureMediaLog succeeds. 
+Sun Jun 28 08:30:32 EDT 2026 I k90.i refreshMetadata onComplete() 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 08:30:32 EDT 2026 DATA BlurryPhotosDiscoveryWorker Decision: Skip(reason=no permission) 
+Sun Jun 28 08:30:32 EDT 2026 DATA BlurryPhotosDiscoveryWorker Skipping: no permission 
+Sun Jun 28 08:30:32 EDT 2026 DATA DeviceAndApplicationInfo Network status is: WifiConnection 
+Sun Jun 28 08:30:32 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication Device network status is: WifiConnection 
+Sun Jun 28 08:30:32 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SingularEventTracker SingularEventTracker: seeded 1 known account(s) 
+Sun Jun 28 08:30:32 EDT 2026 DATA SingularManagerImpl SingularManagerImpl: ramp OFF 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (I) Singular/InitSkipped RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils Querying for Samsung migration status took: 28 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils Migration state sync - Migrated 
+Sun Jun 28 08:30:32 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Cache MISS for Command by Drive Id (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commanddbhelper.cpp:134) 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils Existing migration state = Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (I) SAboundAccountState/Matching RequiredServiceData null null true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils logMigrationStateChangeQos was invoked on a state update, but no QoS logging is performed because state change was Migrated->Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 08:30:32 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:32 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:32 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.localmoj.notifications.LocalMojSystemBroadcastsReceiver 
+Sun Jun 28 08:30:32 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.receiver.BootAtStartupReceiver 
+Sun Jun 28 08:30:32 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.upload.SdCardMountReceiver 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder isAppInForeground for packageName: com.microsoft.skydrive 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder isAppInForeground found processName: com.microsoft.skydrive 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder importance: 230 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder importanceReasonCode: 2 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder importanceReasonPid: 7765 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder importanceReasonComponent: ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.camerabackup.CameraRollSyncService} 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder AppBootDetectForeground found in background 
+Sun Jun 28 08:30:32 EDT 2026 I AppBootRecorder startWaitingForWarmActivity in background, waiting for WarmActivity 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Closing cursor with 1 items 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService startBackup finished. 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mSyncScenario:                 LOCAL_MAPPING_ONLY 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mSessionId:                 0 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService isBackupInterrupted:        false 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService cancellationSource:         No cancellation source 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeGetAllMediaItems:      0.074 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemScanned:          11 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTotalSizeHashed:           1884243 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsHashed:          5 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeTotalHashing:          0.628 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mMetadataQueried:           5 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeMetadataQueried:       0.628 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataQueried:       11 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataQueried:   0.101 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mSyncMetadataUpdates:       0 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeSyncMetadataUpdates:   0.0 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeForProcessing:         2.824 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTimeForMetadataRefreshing: 0.158 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mTotalItemsEnqueuedForUpload: 0 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mQueuedItems:  
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService mIsSamsungSdCardBackup: false 
+Sun Jun 28 08:30:33 EDT 2026 DATA OneDrivePrivacyDelegate (I) Performance/AutoUploadDetection RequiredServiceData null null true 
+Sun Jun 28 08:30:33 EDT 2026 DATA OneDrivePrivacyDelegate (I) Auto Upload/FileProcessingStarted RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 08:30:33 EDT 2026 DATA CRBMetrics Log CRB File Processing - properties - {FileProcessingTotalFilesHashed=5, MobileNetworkSetting=true, AuthEnvironment=Unknown, FileProcessingTime=2824, OneDSCollectorUrl=null, AutoUploadFileFoundDelay=0, ChargerSetting=false, FileProcessingState=Complete, FileProcessingTotalSizeHashed=1884243, IsConvergedODC=true, HasManagedAccount=False, AriaCollectorUrl=null, AccountType=Consumer, Workload=ODC, ariaAIDataValidate=8790c5ff-5807-4e10-a46e-62ffb1c61686, UserId=4bdcbc1dccff86a0, FileProcessingNumberOfFilesProcessed=11, VideoUploadSetting=true, PLACE_VERSION=ODC, FileProcessingErrorCode=0, SessionId=fbb383a5-688d-4d6a-b5cb-6746cb339367, PhoneOrEmailSigninType=EMAIL} 
+Sun Jun 28 08:30:33 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:33 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 08:30:33 EDT 2026 DATA FileUploadUtils scheduleCameraSyncJob 
+Sun Jun 28 08:30:33 EDT 2026 DATA FileProcessingWorker Schedule new file processing work, waitForNewPhoto=true 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService Query local files matches time: 0.021 
+Sun Jun 28 08:30:33 EDT 2026 DATA CameraRollBackupProcessor/AutoUploadService Initial completed sync items with matched local files: 6 
+Sun Jun 28 08:30:33 EDT 2026 I CameraRollBackupProcessor/AutoUploadService Local files not existing anymore: 0 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:33 EDT 2026 DATA QueryBasedCursor Cursor closed 
+Sun Jun 28 08:30:34 EDT 2026 DATA UpdateMetadataForOfflineFilesJob StreamCache refresh called 
+Sun Jun 28 08:30:34 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface StreamCache::scheduleRefreshTasks refreshSyncRoots:  true , itemsRefreshed:  0 , cobOwnItemsSkipped:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:778) 
+Sun Jun 28 08:30:34 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface StreamCache::scheduleRefreshTasks refreshSyncRoots:  false , itemsRefreshed:  0 , cobOwnItemsSkipped:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:778) 
+Sun Jun 28 08:30:34 EDT 2026 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:09:50 EDT 2026 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sun Jun 28 10:09:50 EDT 2026 DATA RampManager Initialize ramps called with 368 ramps, 8 device level experiments, ecsConfigTags:  
+Sun Jun 28 10:09:51 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sun Jun 28 10:09:51 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:09:51 EDT 2026 DATA OneDSUtils PrivacyGuard is not enabled 
+Sun Jun 28 10:09:51 EDT 2026 DATA OneDSUtils Sanitizer enabled: true 
+Sun Jun 28 10:09:52 EDT 2026 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sun Jun 28 10:09:52 EDT 2026 DATA RampManager getAllRampsState took 0ms 
+Sun Jun 28 10:09:52 EDT 2026 DATA uo.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sun Jun 28 10:09:52 EDT 2026 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sun Jun 28 10:09:52 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsurface_util_jni.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libcrypto.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libssl.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5Core.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5Network.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sun Jun 28 10:09:53 EDT 2026 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:17) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:99) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:96) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:21) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using rhash with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:17) 
+Sun Jun 28 10:09:55 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4689) 
+Sun Jun 28 10:09:55 EDT 2026 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  252 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:5392) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:167) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 2580480 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:80) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:49) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:145) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:151) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:161) 
+Sun Jun 28 10:09:56 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:533) 
+Sun Jun 28 10:09:59 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - startType: 1 Start Reason: 5 Process intent: Intent { cmp=com.microsoft.skydrive/.jobs.UpdateMetadataForOfflineFilesJob } 
+Sun Jun 28 10:09:59 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - Importance: 400 [BACKGROUND INIT] 
+Sun Jun 28 10:09:59 EDT 2026 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sun Jun 28 10:09:59 EDT 2026 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sun Jun 28 10:10:20 EDT 2026 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sun Jun 28 10:10:21 EDT 2026 DATA RampManager Initialize ramps called with 368 ramps, 8 device level experiments, ecsConfigTags:  
+Sun Jun 28 10:10:21 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sun Jun 28 10:10:21 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:10:21 EDT 2026 DATA OneDSUtils PrivacyGuard is not enabled 
+Sun Jun 28 10:10:21 EDT 2026 DATA OneDSUtils Sanitizer enabled: true 
+Sun Jun 28 10:10:21 EDT 2026 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sun Jun 28 10:10:21 EDT 2026 DATA RampManager getAllRampsState took 1ms 
+Sun Jun 28 10:10:22 EDT 2026 DATA uo.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsurface_util_jni.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libcrypto.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libssl.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5Core.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5Network.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sun Jun 28 10:10:22 EDT 2026 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:17) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:99) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:96) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:21) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using rhash with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:17) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4689) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  252 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:5392) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:167) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 2580480 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sun Jun 28 10:10:23 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:80) 
+Sun Jun 28 10:10:24 EDT 2026 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:49) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:145) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:151) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:161) 
+Sun Jun 28 10:10:24 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:533) 
+Sun Jun 28 10:10:24 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - startType: 1 Start Reason: 5 Process intent: Intent { cmp=com.microsoft.skydrive/com.microsoft.crossplaform.interop.WifiAvailableJob } 
+Sun Jun 28 10:10:24 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - Importance: 400 [BACKGROUND INIT] 
+Sun Jun 28 10:10:24 EDT 2026 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sun Jun 28 10:13:17 EDT 2026 DATA SkyDriveBuildFlavor[main] Sweeping context does nothing in main build flavor 
+Sun Jun 28 10:13:17 EDT 2026 DATA RampManager Initialize ramps called with 368 ramps, 8 device level experiments, ecsConfigTags:  
+Sun Jun 28 10:13:17 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication initializeRampSettings complete with proof = 500 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDSUtils PrivacyGuard is not enabled 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDSUtils Sanitizer enabled: true 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDSCacheClear OneDS cache clearance is not needed or disabled by ramp 
+Sun Jun 28 10:13:17 EDT 2026 DATA RampManager getAllRampsState took 1ms 
+Sun Jun 28 10:13:17 EDT 2026 DATA uo.f Oneauth AAD ramp state is set and locked to true for remainder of this session 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneAuth Set configuration in SkyDriveApplication#attachBaseContext 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDSUtils OneDS mitigation checks passed 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libMicrosoft.AugLoop.Client.Jni.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libOneAuth.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libPdfControl.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libQt.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libandroidx.graphics.path.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libc++_shared.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libcore.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libdatastore_shared_counter.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libfmt.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libgoogle_breakpad.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libimage_processing_util_jni.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmaesdk.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmip_unified.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libmlkitcommonpipeline.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpcre2-8.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpdf_mip.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpixsdk.OfficeLensProductivity.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libpugixml.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/librhash.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsqlite3.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libsurface_util_jni.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libtensorflowlite_jni_gms_client.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libvroom.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 DATA OneDriveCore Found library lib/arm64-v8a/libxml2.so in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libcrypto.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libssl.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5Core.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5AndroidExtras.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5Network.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5Sql.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5Xml.so not found in APK 
+Sun Jun 28 10:13:17 EDT 2026 W OneDriveCore Library libQt5Concurrent.so not found in APK 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpApplication (uses asio) (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpapplicationmanager.cpp:17) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Performing time-extensive initialization (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:96) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface IApplication has been started (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/onedrivelib.cpp:99) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Setting max thread count to 16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:19) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Creating XpThreadPool with max thread count:  16 (/Users/runner/work/1/s/CrossPlatform/Qt/concurrency/xpconcurrent.cpp:21) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Initializing XPCryptographicHash using rhash with fileHashBufferSizeInKB= 0 (/Users/runner/work/1/s/CrossPlatform/Qt/cryptographic/xpcryptographichash.cpp:17) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  /data/user/0/com.microsoft.skydrive/files/QTMetadata.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:4689) 
+Sun Jun 28 10:13:18 EDT 2026 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  252 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/database/metadatadatabase.cpp:5392) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:167) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db size: 2580480 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal size: 0 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: /data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm size: 32768 bytes permission: 384 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/metadatadatabaseutils.cpp:172) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/telemetry/fullsynceventtracker.cpp:40) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening offline database  /data/user/0/com.microsoft.skydrive/files/OfflineSelection.db (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlinedatabase.cpp:80) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface OfflineSelectionDatabaseStorage loading all explicit offline items from the metadata database (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/offline/offlineselectiondatabasestorage.cpp:49) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:167) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/commentdbhelper.cpp:175) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:145) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:151) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/dbhelpers/listscommentsdbhelper.cpp:161) 
+Sun Jun 28 10:13:18 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/streamcache/streamcache.cpp:533) 
+Sun Jun 28 10:13:18 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - startType: 1 Start Reason: 3 Process intent: Intent { act=android.intent.action.MEDIA_MOUNTED dat=file:///... cmp=com.microsoft.skydrive/.upload.SdCardMountReceiver } 
+Sun Jun 28 10:13:18 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication onCreate - Importance: 400 [BACKGROUND INIT] 
+Sun Jun 28 10:13:18 EDT 2026 DATA OneAuth Init oneauth in SkyDriveApplication start - Skip adal secret key setup 
+Sun Jun 28 10:13:18 EDT 2026 DATA InstallReferrerProcessor processGooglePlayInstallReferrer exited early: install referrer ramp or oneauth ramps disabled or referrer already processed. 
+Sun Jun 28 10:13:18 EDT 2026 DATA XiaomiPreinstallUtils checkIsPreinstalled =  
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f InitOneAuthPreReqs 
+Sun Jun 28 10:13:18 EDT 2026 I ConvergenceSyncHelper Start check the personal account migration status. 
+Sun Jun 28 10:13:18 EDT 2026 DATA RampManager getAllRampsState took 0ms 
+Sun Jun 28 10:13:18 EDT 2026 DATA RampManager getAllRampsState took 0ms 
+Sun Jun 28 10:13:18 EDT 2026 DATA PartnerAttributionProvider Not a Xiaomi preinstall device 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f migrateADALCacheKey was skipped because it has already been performed 19572203134ms ago 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f Oneauth MSA ramp state is set and locked to true for remainder of this session 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f Initializing OneAuth TSL 
+Sun Jun 28 10:13:18 EDT 2026 DATA AppBootRecorder installedPackages: {com.microsoft.windowsintune.companyportal=NotInstalled, com.azure.authenticator=6.2606.3817}  
+Sun Jun 28 10:13:18 EDT 2026 I AppBootRecorder startWaitingForActivity in foreground, started ColdActivity 
+Sun Jun 28 10:13:18 EDT 2026 DATA OneAuthMigration Starting first discoverAccounts call to find accounts and make them known to OneAuth's stack 
+Sun Jun 28 10:13:18 EDT 2026 DATA mv.e Build model matches: false 
+Sun Jun 28 10:13:18 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f OneAuth telemetry audienceType: Production 
+Sun Jun 28 10:13:18 EDT 2026 DATA RampManager getAllRampsState took 1ms 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f Attempting to configure OneAuth with flight ANDROID_BROKER_FOR_MSA to enable broker 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f Attempting to configure OneAuth with flight REFRESH_TOKEN_ALLOWED_WITH_BROKER to enable client as fallback from broker refreshes 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f OneAuth configuration with MSA Broker ramp: true 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f OneAuth redirectURI : msauth://com.microsoft.skydrive/gSoqzhbCjkyvI%2Fl7kC7IdG7KbPU%3D 
+Sun Jun 28 10:13:18 EDT 2026 DATA SdCardMountReceiver onReceive: android.intent.action.MEDIA_MOUNTED 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f OneAuth setFlightValues succeeded 
+Sun Jun 28 10:13:18 EDT 2026 DATA SdCardMountReceiver onReceive: android.intent.action.MEDIA_MOUNTED 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungMigrationStateBroadcastReceiver Received SA Migration state Migrated 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungAuthUtils Migration state sync - Migrated 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f OneAuth configured without errors 
+Sun Jun 28 10:13:18 EDT 2026 DATA uo.f Configuration of OneAuth (not including migration, etc.) took 114 ms 
+Sun Jun 28 10:13:18 EDT 2026 DATA MOJTitlePredictorSession isPremiumAccount set to false 
+Sun Jun 28 10:13:18 EDT 2026 DATA DeviceAndApplicationInfo Pre: false 
+Sun Jun 28 10:13:18 EDT 2026 DATA DeviceAndApplicationInfo Pre: true 
+Sun Jun 28 10:13:18 EDT 2026 DATA DeviceAndApplicationInfo activeNetwork is not connected or connecting 
+Sun Jun 28 10:13:18 EDT 2026 DATA DeviceAndApplicationInfo mobileNetworkInfo is not connected or connecting 
+Sun Jun 28 10:13:18 EDT 2026 DATA DeviceAndApplicationInfo Network status is: UnknownConnection 
+Sun Jun 28 10:13:18 EDT 2026 V [Auth]OneDriveAuthenticator getAuthToken - Cached valid token available for: service::onedrivemobile.live.com::MBI_SSL 
+Sun Jun 28 10:13:18 EDT 2026 DATA UpdateUserInfo All user facts already synced; skipping GetUserInfo round-trip. 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:18 EDT 2026 DATA FileUploadUtils scheduleCameraSyncJob 
+Sun Jun 28 10:13:18 EDT 2026 DATA FileProcessingWorker Schedule new file processing work, waitForNewPhoto=true 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungAuthUtils Querying for Samsung migration status took: 59 
+Sun Jun 28 10:13:18 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungMigrationUpsellJob Samsung migration info is not null and migration is supported 
+Sun Jun 28 10:13:18 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 10:13:18 EDT 2026 I SamsungMigrationUpsellJob User is already on a paid plan, cancelling job 
+Sun Jun 28 10:13:18 EDT 2026 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Sun Jun 28 10:13:18 EDT 2026 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sun Jun 28 10:13:18 EDT 2026 DATA MeridianUpsellJob isEnabled: false, timesShown: 1, allAppsSetUp: false, areNotificationsEnabled, false, isChannelEnabled: true 
+Sun Jun 28 10:13:18 EDT 2026 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sun Jun 28 10:13:18 EDT 2026 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Sun Jun 28 10:13:18 EDT 2026 DATA ExperimentEventHelper Exposing LocalUpsellNotificationExperiment__2026_01_20 to CONTROL with h6j6j131. 
+Sun Jun 28 10:13:18 EDT 2026 DATA OneDrivePrivacyDelegate (Q) Experiment RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungBonusNotificationWorker Job is queued 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.authorization.cloudaccounts.c Read ServiceConnections list from preferences: 0 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.authorization.cloudaccounts.c Read hidden cloud account IDs list from preferences: 0 
+Sun Jun 28 10:13:19 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 10:13:19 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.skydrive.content.MetadataContentProvider delete NOT_CURRENT_USER: accountIds count=1 (from AccountManager) 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.skydrive.content.MetadataContentProvider delete NOT_CURRENT_USER: driveSelection is 'accountId NOT IN (?)' 
+Sun Jun 28 10:13:19 EDT 2026 I com.microsoft.odsp.crossplatform.core.LogWriterInterface DrivesProvider::deleteContent deletes all drives (/Users/runner/work/1/s/CrossPlatform/OneDriveCore/providers/drivesprovider.cpp:420) 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.skydrive.content.MetadataContentProvider delete NOT_CURRENT_USER: result=0 
+Sun Jun 28 10:13:19 EDT 2026 DATA AccountCleanupJob numRowsDeleted=0 
+Sun Jun 28 10:13:19 EDT 2026 I dp.i cleanUpAccountsCache 
+Sun Jun 28 10:13:19 EDT 2026 I SubscriptionRefreshWorker Push Notifications Scheduling refresh_subscription job in 0 seconds 
+Sun Jun 28 10:13:19 EDT 2026 DATA OnThisDayBackgroundProcessor Cancelling job 
+Sun Jun 28 10:13:19 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA OnThisDayBackgroundWorker cancelWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA OnThisDayAlarmBasedNotifier Canceling job 
+Sun Jun 28 10:13:19 EDT 2026 DATA MojNotificationsAvailabilityHelper Cancelling MoJ notification worker 
+Sun Jun 28 10:13:19 EDT 2026 DATA AiMoJNotificationBackgroundWorker cancelWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA TopFacesNotificationAvailabilityHelper scheduleWorkIfNeeded() - cancelling worker 
+Sun Jun 28 10:13:19 EDT 2026 DATA TopFacesNotificationWorker cancelWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA BlurryPhotosDiscoveryAvailability Updated unseen count: 3 at baseMaxItemId=0 
+Sun Jun 28 10:13:19 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 10:13:19 EDT 2026 DATA BlurryPhotosDiscoveryWorker scheduleWork() 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA DeviceAndApplicationInfo activeNetwork is not connected or connecting 
+Sun Jun 28 10:13:19 EDT 2026 DATA DeviceAndApplicationInfo mobileNetworkInfo is not connected or connecting 
+Sun Jun 28 10:13:19 EDT 2026 DATA DeviceAndApplicationInfo Network status is: UnknownConnection 
+Sun Jun 28 10:13:19 EDT 2026 DATA com.microsoft.skydrive.SkyDriveApplication Device network status is: UnknownConnection 
+Sun Jun 28 10:13:19 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SingularEventTracker SingularEventTracker: seeded 1 known account(s) 
+Sun Jun 28 10:13:19 EDT 2026 DATA SingularManagerImpl SingularManagerImpl: ramp OFF 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (I) Singular/InitSkipped RequiredServiceData null null true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils Existing migration state = Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils Querying for Samsung migration status took: 25 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils Migration state sync - Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (I) SAboundAccountState/Matching RequiredServiceData null null true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils logMigrationStateChangeQos was invoked on a state update, but no QoS logging is performed because state change was Migrated->Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:19 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:19 EDT 2026 DATA SamsungAuthUtils Existing migration state = Migrated 
+Sun Jun 28 10:13:19 EDT 2026 DATA SubscriptionRefreshJob Push Notifications Refreshing all subscriptions, isWorker : true 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:20 EDT 2026 DATA InAppPurchaseUtils isValueNotEmpty = true and hasPaidPlan is true 
+Sun Jun 28 10:13:20 EDT 2026 DATA BlurryPhotosDiscoveryWorker Decision: Skip(reason=no permission) 
+Sun Jun 28 10:13:20 EDT 2026 DATA BlurryPhotosDiscoveryWorker Skipping: no permission 
+Sun Jun 28 10:13:20 EDT 2026 DATA LocalMojSystemBroadcastsReceiver onReceive: android.intent.action.BOOT_COMPLETED 
+Sun Jun 28 10:13:20 EDT 2026 E BucketInfo - parse Illegal bucketInfoString length: 2 
+Sun Jun 28 10:13:20 EDT 2026 DATA BootAtStartupReceiver onReceive: android.intent.action.BOOT_COMPLETED 
+Sun Jun 28 10:13:20 EDT 2026 I BootAtStartupReceiver onReceive android.intent.action.BOOT_COMPLETED, resuming sync workers 
+Sun Jun 28 10:13:20 EDT 2026 DATA SyncServiceManager onStartJob-resume sync workers 
+Sun Jun 28 10:13:20 EDT 2026 V g Google Api Availability return code: 0 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Jun 28 10:13:20 EDT 2026 DATA g FCM: RegistrationId changed: false 
+Sun Jun 28 10:13:20 EDT 2026 DATA g FCM: Saving registrationId 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (I) SAboundAccountState/Matching RequiredServiceData null null true 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils logMigrationStateChangeQos was invoked on a state update, but no QoS logging is performed because state change was Migrated->Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA ActivityFeedNotificationSubscriber Adding OnThisDayPhoto to supported scenarios 
+Sun Jun 28 10:13:20 EDT 2026 DATA NotificationSubscription requireRefresh: isRegistrationIdChanged = false 
+Sun Jun 28 10:13:20 EDT 2026 I SubscriptionRefreshWorker Push Notifications Scheduling refresh_subscription job in 1783698348 seconds 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAccountManagerUtils Successfully retrieved samsung account 
+Sun Jun 28 10:13:20 EDT 2026 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData OneDriveAccount 4bdcbc1dccff86a0 true 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA SamsungAuthUtils retrieved SA-MSA migration status =Migrated 
+Sun Jun 28 10:13:20 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.localmoj.notifications.LocalMojSystemBroadcastsReceiver 
+Sun Jun 28 10:13:20 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.receiver.BootAtStartupReceiver 
+Sun Jun 28 10:13:20 EDT 2026 DATA PIPLFREActivity setBroadcastReceiverEnabledSettingBasedOnPIPLStatus: 1, cls: com.microsoft.skydrive.upload.SdCardMountReceiver 
+Sun Jun 28 10:13:20 EDT 2026 I AppBootRecorder isAppInForeground for packageName: com.microsoft.skydrive 

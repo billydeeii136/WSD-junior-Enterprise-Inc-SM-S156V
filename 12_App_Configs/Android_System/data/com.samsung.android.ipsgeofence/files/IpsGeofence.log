@@ -1,0 +1,166 @@
+2025.08.22 PM 05:41:57:955	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=, IPS is not available
+2025.08.22 PM 05:41:58:326	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.01.01 AM 12:00:13:778	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=, IPS is not available
+2025.01.01 AM 12:00:14:025	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.01.01 AM 12:00:15:676	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.01.01 AM 12:00:15:815	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.01.01 AM 12:00:15:817	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.01.01 AM 12:00:15:859	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 AM 09:17:50:618	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is not available
+2025.06.27 AM 09:17:50:717	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.06.27 AM 09:17:50:784	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.06.27 AM 09:17:50:844	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 AM 09:17:50:846	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.06.27 AM 09:17:51:008	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.06.27 AM 09:17:51:030	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.06.27 AM 09:17:51:052	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 AM 09:17:51:055	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.06.27 AM 09:17:51:089	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 PM 03:34:15:280	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.06.27 PM 03:34:15:417	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.06.27 PM 03:34:15:486	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.06.27 PM 03:34:15:557	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 PM 03:34:15:559	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.06.27 PM 03:34:15:690	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.06.27 PM 03:34:15:704	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.06.27 PM 03:34:15:751	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 PM 03:34:15:753	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.06.27 PM 03:34:15:769	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 PM 03:37:20:308	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.06.27 PM 03:37:20:418	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.06.27 PM 03:37:20:504	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.06.27 PM 03:37:20:574	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 PM 03:37:20:576	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.06.27 PM 03:37:20:696	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 PM 03:37:20:698	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 PM 03:37:20:699	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.06.27 PM 03:37:20:705	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.06.27 PM 03:37:20:720	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.06.27 PM 03:37:20:730	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.06.27 PM 03:37:20:733	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.06.27 PM 03:37:20:742	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.13 PM 02:11:25:583	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.13 PM 02:11:25:677	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.13 PM 02:11:25:761	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.13 PM 02:11:25:828	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.13 PM 02:11:25:830	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.13 PM 02:11:25:976	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.13 PM 02:11:26:014	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.13 PM 02:11:26:029	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.13 PM 02:11:26:032	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.13 PM 02:11:26:052	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:08:844	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.14 AM 09:30:08:940	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.14 AM 09:30:09:017	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:15:072	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.14 AM 09:30:15:171	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.14 AM 09:30:15:192	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:15:564	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:15:576	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:15:581	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:15:592	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.14 AM 09:30:15:595	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.14 AM 09:30:16:014	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:23:819	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.14 AM 09:30:24:389	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.14 AM 09:30:24:434	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.14 AM 09:30:24:479	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.14 AM 09:30:38:660	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.14 AM 09:30:39:247	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.14 AM 09:30:39:261	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.14 AM 09:30:39:290	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:01:214	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 AM 01:07:01:451	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.17 AM 01:07:01:619	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:13:199	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 AM 01:07:13:377	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.17 AM 01:07:13:411	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:41:185	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 AM 01:07:41:396	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.17 AM 01:07:41:399	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.17 AM 01:07:41:680	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:41:682	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:41:684	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:41:697	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:44:597	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 AM 01:07:44:825	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.17 AM 01:07:44:860	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.17 AM 01:07:44:894	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 AM 01:07:45:269	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.17 AM 01:07:45:276	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.17 AM 01:07:45:285	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:39:00:535	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 PM 09:39:00:662	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.17 PM 09:39:00:732	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:35:850	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 PM 09:40:35:944	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.17 PM 09:40:35:960	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:51:655	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.17 PM 09:40:52:133	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:52:144	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.17 PM 09:40:52:147	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.17 PM 09:40:52:635	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:52:638	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:52:640	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:54:698	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.17 PM 09:40:54:712	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.17 PM 09:40:54:782	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.17 PM 09:40:55:122	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.17 PM 09:40:55:129	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.17 PM 09:40:55:157	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:12:55:993	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 12:12:56:113	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.18 AM 12:12:56:192	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:00:906	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 12:16:01:026	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.18 AM 12:16:01:053	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:24:814	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 12:16:25:327	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:25:341	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.18 AM 12:16:25:350	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.18 AM 12:16:25:813	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:25:823	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:25:832	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:41:969	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 12:16:42:125	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.18 AM 12:16:42:164	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.18 AM 12:16:42:191	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:42:863	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:42:874	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:42:877	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 12:16:42:889	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.18 AM 12:16:42:892	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.18 AM 12:16:42:907	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:34:44:278	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 01:34:44:376	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.18 AM 01:34:44:443	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:37:52:323	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 01:37:52:437	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.18 AM 01:37:52:469	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:14:649	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 01:38:15:504	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:15:604	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.18 AM 01:38:15:609	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.18 AM 01:38:16:258	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:16:261	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:16:274	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:36:870	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 01:38:37:020	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.18 AM 01:38:37:036	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.18 AM 01:38:37:051	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.18 AM 01:38:49:341	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.18 AM 01:38:49:674	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.18 AM 01:38:49:678	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.18 AM 01:38:49:689	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.19 AM 03:43:37:753	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.19 AM 03:43:37:964	[IPSA] BootEventReceiver: action=com.samsung.intent.action.LAZY_BOOT_COMPLETE, version=4.1.02.24, 
+2025.11.19 AM 03:43:38:080	[IPSA-C] IpsApplication: onTrimMemory : level=40
+2025.11.19 AM 03:45:38:984	[IPSA-C] IpsApplication: onCreate : version = 4.1.02.24, is official=false, is debug=false, feature_vi=false, mcc=311, IPS is available
+2025.11.19 AM 03:45:39:333	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=119300060004
+2025.11.19 AM 03:45:39:523	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.19 AM 03:45:39:533	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=0001000F618202
+2025.11.19 AM 03:45:40:053	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=1193000D0200005DC000000000
+2025.11.19 AM 03:45:40:113	[IPSA-C] SipcEvent: sendSipcEvent : SIPC_TX. Send SIPC message to CP. Data=11930007040000
+2025.11.19 AM 03:45:40:247	[IPSA-C] IpsCpReceiver: onReceive : idDeviceIdleMode? false, isPowerSaveMode()? false
+2025.11.19 AM 03:45:40:301	[IPSA-C] IpsCpReceiver: SIPC_RX. Receive SIPC message from CP. Data=030200
+2025.11.19 AM 03:45:40:726	[IPSA-C] IpsApplication: onTrimMemory : level=40

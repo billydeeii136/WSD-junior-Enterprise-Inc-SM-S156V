@@ -1,0 +1,604 @@
+[2025-11-27 21:25:08.104][14025][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-11-27 21:25:08.104][14025][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-11-27 21:25:08.194][14025][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-11-27 21:25:08.234][16752][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-11-27 21:25:08.234][16752][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-11-27 21:25:08.235][16752][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-11-27 21:25:08.710][16752][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-11-27 21:25:08.734][16752][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367456508337944
+[2025-11-27 21:25:08.734][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-11-27 21:25:08.735][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-11-27 21:25:08.736][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-11-27 21:25:08.737][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-11-27 21:25:08.737][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-11-27 21:25:08.738][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-11-27 21:25:08.738][16752][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367451057340464}"
+[2025-11-27 21:25:08.738][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-11-27 21:25:08.738][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-11-27 21:25:08.740][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-11-27 21:25:08.740][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-11-27 21:25:08.862][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-11-27 21:25:09.144][16752][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************JmI=","channelId":"f8c6430f529a166039f91ee813432812","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":1}}"
+[2025-11-27 21:25:09.146][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-11-27 21:25:10.231][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17798}}"
+[2025-11-27 21:25:10.233][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-11-27 21:25:36.585][19862][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17798,"setupMode":2}}"
+[2025-11-27 21:25:36.595][19862][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-11-27 21:25:36.595][19862][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-11-27 21:25:36.595][19862][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367451057340464}"
+[2025-11-27 21:25:36.595][19862][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-11-27 21:25:36.596][19862][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-11-27 21:25:36.768][19862][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-11-27 21:25:37.065][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-11-27 21:25:37.066][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-11-27 21:25:37.068][16752][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-11-27 21:30:27.306][16752][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-11-27 21:30:27.883][16752][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-11-27 21:30:27.909][16752][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367456508337688
+[2025-11-27 21:30:27.909][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-11-27 21:30:27.910][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-11-27 21:30:27.911][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-11-27 21:30:27.912][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-11-27 21:30:27.913][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-11-27 21:30:27.914][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-11-27 21:30:27.914][16752][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367451266577008}"
+[2025-11-27 21:30:27.914][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-11-27 21:30:27.914][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-11-27 21:30:27.915][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-11-27 21:30:27.916][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-11-27 21:30:27.930][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-11-27 21:30:28.371][16752][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************0Q==","channelId":"437a47aae377f3123872f1923bdf3aeb","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":1}}"
+[2025-11-27 21:30:28.373][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-11-27 21:30:29.066][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17810}}"
+[2025-11-27 21:30:29.069][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-11-27 21:30:41.467][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17810,"setupMode":2}}"
+[2025-11-27 21:30:41.477][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-11-27 21:30:41.477][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-11-27 21:30:41.478][16752][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367451266577008}"
+[2025-11-27 21:30:41.478][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-11-27 21:30:41.478][16752][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-11-27 21:30:41.653][16752][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-11-27 21:30:41.694][24085][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-11-27 21:30:41.694][24085][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-11-27 21:30:41.701][24085][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-02 02:39:05.748][8434][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-02 02:39:05.748][8434][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-02 02:39:05.898][8434][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-02 02:39:05.939][29088][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-02 02:39:05.940][29088][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-02 02:39:05.940][29088][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-02 02:39:06.373][29088][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-02 02:39:06.406][29088][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367439380744216
+[2025-12-02 02:39:06.406][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-02 02:39:06.407][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-02 02:39:06.411][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-02 02:39:06.411][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-02 02:39:06.414][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-02 02:39:06.415][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-02 02:39:06.416][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-02 02:39:06.417][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-02 02:39:06.417][29088][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367439384907520}"
+[2025-12-02 02:39:06.417][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-02 02:39:06.417][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-02 02:39:06.418][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-02 02:39:06.418][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-02 02:39:06.532][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-02 02:39:07.558][29088][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Myt/","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-02 02:39:07.559][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-02 02:39:08.987][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17518}}"
+[2025-12-02 02:39:08.991][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-02 02:39:33.763][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17518,"setupMode":2}}"
+[2025-12-02 02:39:33.764][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-02 02:39:33.769][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-02 02:39:33.769][29088][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367439384907520}"
+[2025-12-02 02:39:33.769][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-02 02:39:33.769][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-02 02:39:33.815][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-02 02:39:33.833][29088][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-02 02:39:33.833][29088][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-02 02:39:33.835][29088][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-03 20:28:18.739][11658][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-03 20:28:18.739][11658][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-03 20:28:18.827][11658][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-03 20:28:19.049][15163][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-03 20:28:19.053][15163][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-03 20:28:19.053][15163][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-03 20:28:19.501][15163][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-03 20:28:19.533][15163][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367446384328728
+[2025-12-03 20:28:19.533][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-03 20:28:19.535][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-03 20:28:19.538][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-03 20:28:19.539][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-03 20:28:19.542][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-03 20:28:19.544][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-03 20:28:19.544][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-03 20:28:19.545][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-03 20:28:19.545][15163][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367451383965568}"
+[2025-12-03 20:28:19.545][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-03 20:28:19.545][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-03 20:28:19.546][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-03 20:28:19.546][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-03 20:28:19.674][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-03 20:28:20.867][15163][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Vysr","channelId":"a5de682ee331ed1aae8ea71369cfb1dd","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-03 20:28:20.874][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-03 20:28:22.235][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17354}}"
+[2025-12-03 20:28:22.236][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 20:28:49.291][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-03 20:28:49.353][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-03 20:28:49.563][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17354,"setupMode":2}}"
+[2025-12-03 20:28:49.563][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 20:28:49.907][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-03 20:28:49.907][15163][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367451383965568}"
+[2025-12-03 20:28:49.908][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-03 20:28:49.909][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-03 20:28:49.912][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-03 20:28:49.919][15163][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-03 20:28:49.920][15163][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-03 20:28:49.925][15163][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-03 20:36:20.992][23588][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-03 20:36:21.534][23588][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-03 20:36:21.557][23588][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367446392150296
+[2025-12-03 20:36:21.557][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-03 20:36:21.558][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-03 20:36:21.558][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-03 20:36:21.559][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-03 20:36:21.562][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-03 20:36:21.563][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-03 20:36:21.563][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-03 20:36:21.564][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-03 20:36:21.564][23588][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367451383965664}"
+[2025-12-03 20:36:21.564][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-03 20:36:21.564][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-03 20:36:21.565][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-03 20:36:21.565][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-03 20:36:21.574][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-03 20:36:22.695][23588][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Yg==","channelId":"a5de682ee331ed1aae8ea71369cfb1dd","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-03 20:36:22.698][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-03 20:36:23.760][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":14946}}"
+[2025-12-03 20:36:23.763][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 20:36:34.845][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":14946,"setupMode":2}}"
+[2025-12-03 20:36:34.846][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 20:36:35.021][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18482}}"
+[2025-12-03 20:36:35.022][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 20:36:43.106][23588][I][iris_rtc_api_engine.cc:438] api name RtcEngine_muteLocalAudioStream_5039d15 params "{"mute":true}"
+[2025-12-03 20:36:43.112][23588][I][iris_rtc_api_engine.cc:504] api name RtcEngine_muteLocalAudioStream_5039d15 result 0 outdata {"result":0}
+[2025-12-03 20:36:43.124][23956][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":93302933,"view":18738},"connection":{"channelId":"a5de682ee331ed1aae8ea71369cfb1dd"}}"
+[2025-12-03 20:36:43.127][23956][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-03 20:36:58.038][23956][I][iris_rtc_api_engine.cc:438] api name RtcEngine_muteLocalAudioStream_5039d15 params "{"mute":false}"
+[2025-12-03 20:36:58.045][23956][I][iris_rtc_api_engine.cc:504] api name RtcEngine_muteLocalAudioStream_5039d15 result 0 outdata {"result":0}
+[2025-12-03 20:41:18.772][25546][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-03 20:41:18.779][25546][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-03 20:41:44.044][25546][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-03 20:41:44.045][25546][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-03 20:57:10.495][29081][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-03 20:57:10.499][29081][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-03 20:57:27.963][29081][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-03 20:57:27.963][29081][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-03 21:06:44.523][3666][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":93302933,"view":18738,"setupMode":2},"connection":{"channelId":"a5de682ee331ed1aae8ea71369cfb1dd"}}"
+[2025-12-03 21:06:44.606][3666][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-03 21:06:44.967][3666][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18482,"setupMode":2}}"
+[2025-12-03 21:06:44.971][3666][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-03 21:06:45.009][3666][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-03 21:06:45.009][3666][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367451383965664}"
+[2025-12-03 21:06:45.010][3666][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-03 21:06:45.010][3666][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-03 21:06:45.299][3666][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-03 21:06:45.338][3725][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-03 21:06:45.338][3725][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-03 21:06:45.342][3725][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 01:59:10.773][8306][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 01:59:10.773][8306][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 01:59:10.862][8306][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 01:59:11.097][10142][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 01:59:11.099][10142][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 01:59:11.099][10142][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 01:59:11.457][10142][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 01:59:11.482][10142][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367440374674968
+[2025-12-07 01:59:11.482][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 01:59:11.483][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 01:59:11.484][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 01:59:11.485][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 01:59:11.486][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 01:59:11.486][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367442964744320}"
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 01:59:11.487][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 01:59:11.578][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 01:59:12.017][10142][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Kirl","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 01:59:12.022][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 01:59:13.067][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17390}}"
+[2025-12-07 01:59:13.068][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 01:59:29.628][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17390,"setupMode":2}}"
+[2025-12-07 01:59:29.649][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 01:59:30.324][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18434}}"
+[2025-12-07 01:59:30.325][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 01:59:30.963][10142][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":91086060,"view":18294},"connection":{"channelId":"c276758d79b3e1e9b329bff0593c510d"}}"
+[2025-12-07 01:59:30.967][10142][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-07 02:20:53.215][347][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":91086060,"view":18294,"setupMode":2},"connection":{"channelId":"c276758d79b3e1e9b329bff0593c510d"}}"
+[2025-12-07 02:20:53.232][347][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-07 02:20:53.386][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18434,"setupMode":2}}"
+[2025-12-07 02:20:53.388][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:20:53.458][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 02:20:53.458][347][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367442964744320}"
+[2025-12-07 02:20:53.459][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:20:53.459][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:20:53.724][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:20:54.766][592][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 02:20:54.767][592][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 02:20:54.773][592][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 02:21:07.522][347][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 02:21:08.342][347][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 02:21:08.382][347][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367447040597272
+[2025-12-07 02:21:08.382][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 02:21:08.382][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 02:21:08.384][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 02:21:08.385][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 02:21:08.388][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 02:21:08.389][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 02:21:08.390][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 02:21:08.391][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 02:21:08.391][347][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367447040400768}"
+[2025-12-07 02:21:08.391][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:21:08.391][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 02:21:08.392][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 02:21:08.392][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 02:21:08.422][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 02:21:08.848][347][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Kxc=","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 02:21:08.857][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 02:21:09.817][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":21402}}"
+[2025-12-07 02:21:09.818][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:21:38.238][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:21:38.304][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:21:38.350][347][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":21402,"setupMode":2}}"
+[2025-12-07 02:21:38.351][347][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:21:38.735][4415][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 02:21:38.735][4415][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367447040400768}"
+[2025-12-07 02:21:38.735][4415][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:21:38.735][4415][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:21:38.737][4415][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:21:38.746][4415][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 02:21:38.746][4415][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 02:21:38.750][4415][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 02:24:28.322][6835][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:24:28.323][6835][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:24:28.408][6835][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 02:24:28.681][7464][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 02:24:28.682][7464][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:24:28.682][7464][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:24:29.119][7464][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 02:24:29.136][7464][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367440165369112
+[2025-12-07 02:24:29.137][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 02:24:29.137][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 02:24:29.138][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 02:24:29.139][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 02:24:29.142][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 02:24:29.143][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 02:24:29.144][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 02:24:29.144][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 02:24:29.144][7464][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367440165945712}"
+[2025-12-07 02:24:29.144][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:24:29.144][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 02:24:29.147][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 02:24:29.148][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 02:24:29.281][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 02:24:29.462][7464][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************DA==","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 02:24:29.477][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 02:24:30.146][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17478}}"
+[2025-12-07 02:24:30.147][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:24:58.885][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:24:58.926][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:24:58.975][7464][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17478,"setupMode":2}}"
+[2025-12-07 02:24:58.975][7464][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:24:59.219][7903][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 02:24:59.219][7903][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367440165945712}"
+[2025-12-07 02:24:59.219][7903][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:24:59.219][7903][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:24:59.220][7903][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:24:59.229][7903][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 02:24:59.229][7903][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 02:24:59.231][7903][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 02:34:49.068][7149][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:34:49.068][7149][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:34:49.145][7149][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 02:34:49.363][7987][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 02:34:49.364][7987][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:34:49.364][7987][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:34:49.747][7987][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 02:34:49.764][7987][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367439889259032
+[2025-12-07 02:34:49.764][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 02:34:49.765][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 02:34:49.768][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 02:34:49.768][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 02:34:49.773][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 02:34:49.774][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 02:34:49.774][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 02:34:49.774][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 02:34:49.774][7987][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367440334985040}"
+[2025-12-07 02:34:49.774][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:34:49.775][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 02:34:49.779][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 02:34:49.779][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 02:34:49.890][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 02:34:50.266][7987][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************KsM=","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 02:34:50.269][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 02:34:50.899][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17358}}"
+[2025-12-07 02:34:50.900][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:35:19.621][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:35:19.761][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:35:19.768][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17358,"setupMode":2}}"
+[2025-12-07 02:35:19.771][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:35:20.107][9579][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 02:35:20.107][9579][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367440334985040}"
+[2025-12-07 02:35:20.107][9579][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:35:20.107][9579][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 02:35:20.112][9579][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 02:35:20.144][7987][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 02:35:20.144][7987][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 02:35:20.152][9579][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 02:47:12.515][28090][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:47:12.515][28090][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:47:12.587][28090][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 02:47:12.742][29265][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 02:47:12.744][29265][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 02:47:12.744][29265][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 02:47:13.110][29265][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 02:47:13.129][29265][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367439754808600
+[2025-12-07 02:47:13.129][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 02:47:13.130][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 02:47:13.131][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 02:47:13.132][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 02:47:13.139][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 02:47:13.143][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 02:47:13.144][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 02:47:13.145][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 02:47:13.145][29265][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367439758227216}"
+[2025-12-07 02:47:13.145][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 02:47:13.146][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 02:47:13.150][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 02:47:13.150][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 02:47:13.229][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 02:47:13.562][29265][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************Kig=","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 02:47:13.567][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 02:47:14.092][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17258}}"
+[2025-12-07 02:47:14.093][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:47:32.208][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17258,"setupMode":2}}"
+[2025-12-07 02:47:32.220][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:47:32.869][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18118}}"
+[2025-12-07 02:47:32.869][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 02:47:33.344][29265][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":91086060,"view":18102},"connection":{"channelId":"c276758d79b3e1e9b329bff0593c510d"}}"
+[2025-12-07 02:47:33.349][29265][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-07 02:48:55.902][32419][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-07 02:48:55.909][32419][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-07 02:49:07.376][32419][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-07 02:49:07.376][32419][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-07 02:49:14.840][32419][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-07 02:49:14.840][32419][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-07 02:49:21.869][32419][I][iris_rtc_api_engine.cc:438] api name RtcEngine_switchCamera params "{}"
+[2025-12-07 02:49:21.869][32419][I][iris_rtc_api_engine.cc:504] api name RtcEngine_switchCamera result 0 outdata {"result":0}
+[2025-12-07 03:06:27.966][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngineEx_setupRemoteVideoEx_522a409 params "{"canvas":{"uid":91086060,"view":18102,"setupMode":2},"connection":{"channelId":"c276758d79b3e1e9b329bff0593c510d"}}"
+[2025-12-07 03:06:27.997][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngineEx_setupRemoteVideoEx_522a409 result 0 outdata {"result":0}
+[2025-12-07 03:06:27.998][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18118,"setupMode":2}}"
+[2025-12-07 03:06:28.000][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:06:28.000][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:06:28.001][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367439758227216}"
+[2025-12-07 03:06:28.001][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:06:28.001][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:06:28.230][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:06:28.271][12741][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:06:28.272][12741][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:06:28.291][12741][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 03:06:43.284][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 03:06:43.716][12740][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 03:06:43.769][12740][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367446805409816
+[2025-12-07 03:06:43.769][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 03:06:43.769][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 03:06:43.770][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 03:06:43.770][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 03:06:43.772][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 03:06:43.774][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 03:06:43.777][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 03:06:43.777][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 03:06:43.777][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367446804046864}"
+[2025-12-07 03:06:43.777][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:06:43.778][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 03:06:43.778][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 03:06:43.778][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 03:06:43.790][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 03:06:44.199][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************QA==","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 03:06:44.204][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 03:06:44.743][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":20298}}"
+[2025-12-07 03:06:44.744][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:07:14.151][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:07:14.168][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:07:14.239][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":20298,"setupMode":2}}"
+[2025-12-07 03:07:14.240][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:07:14.532][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:07:14.533][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367446804046864}"
+[2025-12-07 03:07:14.533][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:07:14.533][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:07:14.535][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:07:14.687][13425][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:07:14.687][13425][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:07:14.688][13425][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 03:07:27.404][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 03:07:27.563][12740][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 03:07:27.578][12740][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367446805412376
+[2025-12-07 03:07:27.579][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 03:07:27.582][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 03:07:27.583][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 03:07:27.584][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 03:07:27.586][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 03:07:27.586][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 03:07:27.587][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 03:07:27.587][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 03:07:27.587][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367441866612576}"
+[2025-12-07 03:07:27.587][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:07:27.588][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 03:07:27.588][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 03:07:27.589][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 03:07:27.596][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 03:07:28.177][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************K5Q=","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 03:07:28.179][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 03:07:28.702][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17614}}"
+[2025-12-07 03:07:28.702][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:07:58.373][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:07:58.412][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:07:58.460][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17614,"setupMode":2}}"
+[2025-12-07 03:07:58.461][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:07:58.702][14095][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:07:58.702][14095][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367441866612576}"
+[2025-12-07 03:07:58.702][14095][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:07:58.703][14095][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:07:58.706][14095][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:07:58.715][14095][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:07:58.715][14095][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:07:58.716][14095][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 03:08:17.049][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 03:08:17.232][12740][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 03:08:17.247][12740][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367440354664216
+[2025-12-07 03:08:17.247][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 03:08:17.248][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 03:08:17.249][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 03:08:17.249][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 03:08:17.251][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 03:08:17.252][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 03:08:17.253][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 03:08:17.255][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 03:08:17.255][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367441866612624}"
+[2025-12-07 03:08:17.256][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:08:17.256][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 03:08:17.256][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 03:08:17.257][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 03:08:17.262][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 03:08:17.616][12740][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************LBQ=","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 03:08:17.617][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 03:08:17.958][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18122}}"
+[2025-12-07 03:08:17.958][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:08:48.008][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:08:48.058][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:08:48.118][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":18122,"setupMode":2}}"
+[2025-12-07 03:08:48.120][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:08:48.329][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:08:48.329][12740][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367441866612624}"
+[2025-12-07 03:08:48.330][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:08:48.330][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:08:48.334][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:08:48.339][12740][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:08:48.340][12740][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:08:48.341][15023][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 03:23:32.809][29902][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 03:23:32.809][29902][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 03:23:32.892][29902][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 03:23:33.113][31181][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 03:23:33.122][31181][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 03:23:33.122][31181][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 03:23:33.472][31181][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 03:23:33.494][31181][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367439957112856
+[2025-12-07 03:23:33.494][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 03:23:33.494][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 03:23:33.496][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 03:23:33.496][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 03:23:33.498][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 03:23:33.499][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 03:23:33.499][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367440288674752}"
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 03:23:33.500][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 03:23:33.586][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 03:23:34.254][31181][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************aClh","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 03:23:34.256][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 03:23:35.338][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17658}}"
+[2025-12-07 03:23:35.340][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:24:03.407][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:24:03.530][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:24:03.608][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17658,"setupMode":2}}"
+[2025-12-07 03:24:03.611][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:24:03.953][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:24:03.954][31181][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367440288674752}"
+[2025-12-07 03:24:03.954][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:24:03.954][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:24:03.959][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:24:03.966][31181][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:24:03.967][31181][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:24:03.970][31181][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-07 03:31:35.351][17177][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 03:31:35.351][17177][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 03:31:35.680][17177][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-07 03:31:35.809][17731][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-07 03:31:35.810][17731][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-07 03:31:35.810][17731][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-07 03:31:36.600][17731][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-07 03:31:36.657][17731][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367446276856856
+[2025-12-07 03:31:36.657][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-07 03:31:36.659][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-07 03:31:36.671][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-07 03:31:36.672][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-07 03:31:36.679][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-07 03:31:36.683][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-07 03:31:36.683][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-07 03:31:36.685][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-07 03:31:36.685][17731][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367452346483984}"
+[2025-12-07 03:31:36.686][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:31:36.686][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-07 03:31:36.687][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-07 03:31:36.687][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-07 03:31:36.906][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-07 03:31:38.013][17731][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************RA==","channelId":"c276758d79b3e1e9b329bff0593c510d","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-07 03:31:38.018][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-07 03:31:39.528][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17234}}"
+[2025-12-07 03:31:39.533][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:32:05.144][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:32:05.615][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:32:05.833][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17234,"setupMode":2}}"
+[2025-12-07 03:32:05.836][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-07 03:32:06.610][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-07 03:32:06.611][17731][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367452346483984}"
+[2025-12-07 03:32:06.612][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-07 03:32:06.613][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-07 03:32:06.615][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-07 03:32:07.201][17731][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-07 03:32:07.202][17731][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-07 03:32:07.220][17731][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0
+[2025-12-13 11:13:46.826][6089][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-13 11:13:46.826][6089][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-13 11:13:46.928][6089][I][iris_jni_rtc.cc:116] loaded extensions: agora_ai_echo_cancellation_extension,agora_ai_echo_cancellation_ll_extension,agora_ai_noise_suppression_extension,agora_ai_noise_suppression_ll_extension,agora_audio_beauty_extension,agora_clear_vision_extension,agora_content_inspect_extension,agora_face_capture_extension,agora_face_detection_extension,agora_lip_sync_extension,agora_screen_capture_extension,agora_segmentation_extension,agora_spatial_audio_extension,agora_video_av1_decoder_extension,agora_video_av1_encoder_extension,agora_video_decoder_extension,agora_video_encoder_extension,agora_video_quality_analyzer_extension,
+[2025-12-13 11:13:47.145][6798][I][iris_rtc_api_engine.cc:436] api name RtcEngine_initialize_0320339 params "{"context":{"appId":"fed***************418"}}"
+[2025-12-13 11:13:47.146][6798][I][iris_logger.cc:157] reset logger to /storage/emulated/0/Android/data/com.stddating.positivesingles/files/agora-iris.log
+[2025-12-13 11:13:47.146][6798][I][iris_logger.cc:159] iris version: 4.5.2-build.1 commit: 4eee5cf6a97f30848b12b95873f7a3ba72e710cf build: 34812
+[2025-12-13 11:13:47.557][6798][I][iris_rtc_rendering_impl.cc:64] initialize rendering
+[2025-12-13 11:13:47.580][6798][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 12970367413118167576
+[2025-12-13 11:13:47.581][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_initialize_0320339 result 0 outdata {"result":0}
+[2025-12-13 11:13:47.582][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setAppType params "{"appType":4}"
+[2025-12-13 11:13:47.583][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setAppType result 0 outdata {"result":0}
+[2025-12-13 11:13:47.584][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setChannelProfile_a78fa4f params "{"profile":0}"
+[2025-12-13 11:13:47.585][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setChannelProfile_a78fa4f result 0 outdata {"result":0}
+[2025-12-13 11:13:47.586][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setLogFilter_2626ac7 params "{"filter":15}"
+[2025-12-13 11:13:47.586][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setLogFilter_2626ac7 result 0 outdata {"result":0}
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_registerEventHandler_5fc0465 params "{}"
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:490] api name RtcEngine_registerEventHandler_5fc0465 extened params "{"event":12970367407021748928}"
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_registerEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_enableVideo params "{}"
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_enableVideo result 0 outdata {"result":0}
+[2025-12-13 11:13:47.587][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_startPreview_4fd718e params "{"sourceType":0}"
+[2025-12-13 11:13:47.685][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_startPreview_4fd718e result 0 outdata {"result":0}
+[2025-12-13 11:13:48.054][6798][I][iris_rtc_api_engine.cc:436] api name RtcEngine_joinChannel_cdbb747 params "{"token":"007e***************WA==","channelId":"e679d454d902d3d6161949321d4321fa","uid":93275703,"options":{"publishCameraTrack":true,"publishMicrophoneTrack":true,"autoSubscribeAudio":true,"autoSubscribeVideo":true,"clientRoleType":1,"channelProfile":0}}"
+[2025-12-13 11:13:48.065][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_joinChannel_cdbb747 result 0 outdata {"result":0}
+[2025-12-13 11:13:48.908][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17606}}"
+[2025-12-13 11:13:48.909][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-13 11:14:08.894][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_setupLocalVideo_acc9c38 params "{"canvas":{"uid":0,"view":17606,"setupMode":2}}"
+[2025-12-13 11:14:08.904][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_setupLocalVideo_acc9c38 result 0 outdata {"result":0}
+[2025-12-13 11:14:08.904][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_unregisterEventHandler_5fc0465 params "{}"
+[2025-12-13 11:14:08.905][6798][I][iris_rtc_api_engine.cc:490] api name RtcEngine_unregisterEventHandler_5fc0465 extened params "{"event":12970367407021748928}"
+[2025-12-13 11:14:08.905][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_unregisterEventHandler_5fc0465 result 0 outdata {"result":0}
+[2025-12-13 11:14:08.905][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_leaveChannel params "{"options":null}"
+[2025-12-13 11:14:09.061][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_leaveChannel result 0 outdata {"result":0}
+[2025-12-13 11:14:09.078][6798][I][iris_rtc_api_engine.cc:438] api name RtcEngine_release params "{"sync":false}"
+[2025-12-13 11:14:09.078][6798][I][iris_rtc_api_engine.cc:504] api name RtcEngine_release result 0 outdata {"result":0}
+[2025-12-13 11:14:09.082][6798][I][iris_rtc_rendering_impl.cc:49] register video frame renderer observer 0

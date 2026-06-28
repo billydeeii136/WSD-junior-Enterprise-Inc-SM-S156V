@@ -1,0 +1,574 @@
+Fri Mar 20 2026 at 11:41; null; WebView implementation: com.google.android.webview, versionName: 145.0.7632.162
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; Set en
+Fri Mar 20 2026 at 11:41; null; Current language: en
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_chart_news : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_1st_april : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_trade_button_text : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_alert_open : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config new_explore : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config drawing_mode : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config Layout_manage : true
+Fri Mar 20 2026 at 11:41; null; manufacturer: samsung
+Fri Mar 20 2026 at 11:41; null; RootActivity is retrieving presenter tag from saved state
+Fri Mar 20 2026 at 11:41; null; Network 102 is available.
+Fri Mar 20 2026 at 11:41; null; Available networks count 1
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Fetch profile from StartUpInteractor
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; RootPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.root.presenter.RootPresenter:RootActivitya8afa52c-8e9a-43c3-82db-5359c95b3da0, presenter: 43287784
+Fri Mar 20 2026 at 11:41; null; after add size map:0
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; MainFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; MainPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.main.presenter.MainPresenter:MainFragment53af53e9-bf59-4623-b23c-448cf90d323b, presenter: 5688328
+Fri Mar 20 2026 at 11:41; null; after add size map:1
+Fri Mar 20 2026 at 11:41; null; WatchListTabFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; WatchListTabPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.watchlist.WatchListTabPresenter:WatchListTabFragmentc8685d9a-bb3d-404a-88d8-3fc05a007e47, presenter: 186314515
+Fri Mar 20 2026 at 11:41; null; after add size map:2
+Fri Mar 20 2026 at 11:41; null; WatchlistFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; WatchlistPresenter is creating
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Session stopped
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.watchlist.impl.module.symbols.presenter.WatchlistPresenter:WatchlistFragmente4df9475-ed25-41a4-8679-1ce052b11976, presenter: 237322768
+Fri Mar 20 2026 at 11:41; null; after add size map:3
+Fri Mar 20 2026 at 11:41; null; WatchlistFragment is creating
+Fri Mar 20 2026 at 11:41; null; WatchListTabFragment is creating
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; ChartTabFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; ChartTabPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.chart.ChartTabPresenter:ChartTabFragmentee153592-6eb4-4eaa-b7be-3a621594346e, presenter: 47477681
+Fri Mar 20 2026 at 11:41; null; after add size map:4
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; ChartFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; ChartPresenter is creating
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Current chart state WebPageState(isReady=false, isLoading=false, error=null)
+Fri Mar 20 2026 at 11:41; null; Current chart state WebPageState(isReady=false, isLoading=true, error=null)
+Fri Mar 20 2026 at 11:41; null; start web chart connect
+Fri Mar 20 2026 at 11:41; null; start web chart connect
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; chart_loading_trace started
+Fri Mar 20 2026 at 11:41; null; Current chart state WebPageState(isReady=false, isLoading=true, error=null)
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.chart.impl.module.chart.presenter.ChartPresenter:ChartFragment4df582b9-8437-4d09-bb74-11fa9c75baeb, presenter: 141534518
+Fri Mar 20 2026 at 11:41; null; after add size map:5
+Fri Mar 20 2026 at 11:41; null; ChartFragment is creating
+Fri Mar 20 2026 at 11:41; null; ChartTabFragment is creating
+Fri Mar 20 2026 at 11:41; null; MarketsTabFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; MarketsTabPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.markets.MarketsTabPresenter:MarketsTabFragment645b1a9f-99a7-4628-a687-c42eec034b95, presenter: 161032138
+Fri Mar 20 2026 at 11:41; null; after add size map:6
+Fri Mar 20 2026 at 11:41; null; MarketFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; MarketPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.market.module.feed.presenter.MarketPresenter:MarketFragmentcb5be680-b89d-477f-85d2-40966060735c, presenter: 236162147
+Fri Mar 20 2026 at 11:41; null; after add size map:7
+Fri Mar 20 2026 at 11:41; null; MarketFragment is creating
+Fri Mar 20 2026 at 11:41; null; MarketsTabFragment is creating
+Fri Mar 20 2026 at 11:41; null; CommunityTabFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; CommunityTabPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.community.CommunityTabPresenter:CommunityTabFragmentea9597b1-5756-4ee3-afbd-a6a46f80f191, presenter: 91632567
+Fri Mar 20 2026 at 11:41; null; after add size map:8
+Fri Mar 20 2026 at 11:41; null; CommunityFeedFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; CommunityFeedPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.community.impl.feed.presenter.CommunityFeedPresenter:CommunityFeedFragment3c52b793-2196-46f3-bbdc-22b244a6708b, presenter: 49255289
+Fri Mar 20 2026 at 11:41; null; after add size map:9
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.ideas.impl.list.ideasfeed.base.presenter.IdeasFeedIdeasListPresenter:IdeasFeedIdeasListFragment146f0ae9-4c4e-45f3-83a2-1d1f9f0783d5, presenter: 141270790
+Fri Mar 20 2026 at 11:41; null; after add size map:10
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is creating
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.ideas.impl.list.ideasfeed.base.presenter.IdeasFeedIdeasListPresenter:IdeasFeedIdeasListFragment8c845c32-a107-47b1-ba3a-a9ee5406dc0a, presenter: 186367301
+Fri Mar 20 2026 at 11:41; null; after add size map:11
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is creating
+Fri Mar 20 2026 at 11:41; null; CommunityFeedFragment is creating
+Fri Mar 20 2026 at 11:41; null; CommunityTabFragment is creating
+Fri Mar 20 2026 at 11:41; null; MenuTabFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; MenuTabPresenter is creating
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.menu.MenuTabPresenter:MenuTabFragmentb34a6dcc-bc80-4c3c-bbb1-fac638efa480, presenter: 11639428
+Fri Mar 20 2026 at 11:41; null; after add size map:12
+Fri Mar 20 2026 at 11:41; null; MenuFragment is retrieving presenter tag from saving state
+Fri Mar 20 2026 at 11:41; null; MenuPresenter is creating
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; put presenter key:com.tradingview.tradingviewapp.feature.menu.impl.presenter.MenuPresenter:MenuFragment7e2bc471-c465-4dd4-bcbc-6d7e1a881ad4, presenter: 102669094
+Fri Mar 20 2026 at 11:41; null; after add size map:13
+Fri Mar 20 2026 at 11:41; null; MenuFragment is creating
+Fri Mar 20 2026 at 11:41; null; MenuTabFragment is creating
+Fri Mar 20 2026 at 11:41; null; Billing library: not ready
+Fri Mar 20 2026 at 11:41; null; MainFragment is creating
+Fri Mar 20 2026 at 11:41; null; Billing library: start connection
+Fri Mar 20 2026 at 11:41; null; RootActivity is creating
+Fri Mar 20 2026 at 11:41; null; Billing library: create client
+Fri Mar 20 2026 at 11:41; null; Billing library: create listener
+Fri Mar 20 2026 at 11:41; null; MainFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; isInMultiWindowMode = false
+Fri Mar 20 2026 at 11:41; null; WatchListTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; Pool is empty. Inflating view in Main Thread
+Fri Mar 20 2026 at 11:41; null; market_debug_tag current visible scanner blocks: 
+Fri Mar 20 2026 at 11:41; null; market_debug_tag current blocks last update time: 
+Fri Mar 20 2026 at 11:41; null; market_debug_tag checking for scanner blocks updates...
+Fri Mar 20 2026 at 11:41; null; WatchlistFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; send ~m~35~m~{"m":"set_auth_token","p":["****"]}
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; send ~m~34~m~{"m":"set_locale","p":["en","US"]}
+Fri Mar 20 2026 at 11:41; null; blank sessions recreate blank-session_fb50aa91
+Fri Mar 20 2026 at 11:41; null; send ~m~35~m~{"m":"set_auth_token","p":["****"]}
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; send ~m~34~m~{"m":"set_locale","p":["en","US"]}
+Fri Mar 20 2026 at 11:41; null; ChartTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; blank session stopped blank-session_fb50aa91
+com.tradingview.tradingviewapp.core.base.exception.CancellationException: restart chart blank session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invokeSuspend(SourceFile:29)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:41; null; send ~m~199~m~{"m":"quote_set_fields","p":["qs-an-chart-reel_b95cb871","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name"]}
+Fri Mar 20 2026 at 11:41; null; blank sessions recreate blank-session_88ea9cca
+Fri Mar 20 2026 at 11:41; null; send ~m~696~m~{"m":"quote_set_fields","p":["qs-an-watchlist_5a2c289a","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:41; null; send ~m~693~m~{"m":"quote_set_fields","p":["qs-an-market_b5cce791","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:41; null; quote session stopped qs-an-watchlist_5a2c289a
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: restart quote session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invokeSuspend(SourceFile:73)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:41; null; blank session stopped blank-session_88ea9cca
+com.tradingview.tradingviewapp.core.base.exception.CancellationException: restart quote black session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invokeSuspend(SourceFile:30)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:41; null; blank sessions recreate blank-session_18f986dd
+Fri Mar 20 2026 at 11:41; null; blank sessions recreate blank-session_aea459a4
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; send ~m~696~m~{"m":"quote_set_fields","p":["qs-an-watchlist_5b079a59","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:41; null; ChartFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; MarketsTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; MarketFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; market_debug_tag current visible scanner blocks: 
+Fri Mar 20 2026 at 11:41; null; market_debug_tag current blocks last update time: 
+Fri Mar 20 2026 at 11:41; null; market_debug_tag checking for scanner blocks updates...
+Fri Mar 20 2026 at 11:41; null; CommunityTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; CommunityFeedFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; IdeasFeedIdeasListFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; MenuTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; MenuFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; RootActivity is attached to ViewHolder
+Fri Mar 20 2026 at 11:41; null; App open (restored)
+Fri Mar 20 2026 at 11:41; null; Remote config was not updated, using cached values
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri Mar 20 2026 at 11:41; null; MobileOffersRetryScheduler: retry count was reset!
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_chart_news : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_1st_april : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_trade_button_text : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_alert_open : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config new_explore : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config drawing_mode : true
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri Mar 20 2026 at 11:41; null; RemoteConfig. Init config Layout_manage : true
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Session is connected
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:41; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:41; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:41; null; Set cookie to webManager, has cookie: true
+Fri Mar 20 2026 at 11:41; null; Billing library: connection successfully established
+Fri Mar 20 2026 at 11:41; null; send ~m~57~m~{"m":"quote_hibernate_all","p":["qs-an-market_b5cce791"]}
+Fri Mar 20 2026 at 11:41; null; View with id sort_type_tv is null.
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; load url https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark
+Fri Mar 20 2026 at 11:41; null; onBeforeStartLoadingUrl https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark
+Fri Mar 20 2026 at 11:41; null; try to close connection
+Fri Mar 20 2026 at 11:41; null; isConnectionManagerInited = false
+Fri Mar 20 2026 at 11:41; null; channelState = null
+Fri Mar 20 2026 at 11:41; null; send ~m~60~m~{"m":"quote_hibernate_all","p":["qs-an-watchlist_5b079a59"]}
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; send ~m~277~m~{"m":"quote_add_symbols","p":["qs-an-chart-reel_b95cb871","CBOE:VIX","NASDAQ:TSLA","BITSTAMP:ETHUSD","BINANCE:BTCUSDT","BITSTAMP:BTCUSD","FX:GBPUSD","FX:USDJPY","NASDAQ:AAPL","TVC:USOIL","TVC:NDQ","FX:EURUSD","SP:SPX","TVC:DXY","TVC:GOLD","TVC:DJI","NASDAQ:NFLX","TVC:SILVER"]}
+Fri Mar 20 2026 at 11:41; null; send ~m~276~m~{"m":"quote_add_symbols","p":["qs-an-watchlist_5b079a59","CBOE:VIX","NASDAQ:TSLA","BITSTAMP:ETHUSD","BINANCE:BTCUSDT","BITSTAMP:BTCUSD","FX:GBPUSD","FX:USDJPY","NASDAQ:AAPL","TVC:USOIL","TVC:NDQ","FX:EURUSD","SP:SPX","TVC:DXY","TVC:GOLD","TVC:DJI","NASDAQ:NFLX","TVC:SILVER"]}
+Fri Mar 20 2026 at 11:41; null; onPageStarted url:https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark 219815285
+Fri Mar 20 2026 at 11:41; null; Google play available = true
+Fri Mar 20 2026 at 11:41; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:41; null; send ~m~61~m~{"m":"quote_hibernate_all","p":["qs-an-chart-reel_b95cb871"]}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:LOG:subscribeToDocumentReady
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:LOG:TradingViewApi is ready
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:Received connection message {"isTrusted":true}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:Connection has been established
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:LOG:TradingViewApi is ready!
+Fri Mar 20 2026 at 11:41; null; onPageFinished url:https://www.tradingview.com/chart/LNRHZERq/?mobileapp_new=true&theme=dark null
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeConnectionResult(messageType=CONNECTION, data=Data(uuid=null, fn=null, params=null, result="https://www.tradingview.com/chart/LNRHZERq/?mobileapp_new=true&theme=dark", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onReady
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"1722b4f4-94ea-43e1-af5b-0b46c0f13807","fn":"Chart$onReady","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:subscription result undefined
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=1722b4f4-94ea-43e1-af5b-0b46c0f13807, fn=Chart$onReady, params=null, result=null, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; save web url https://www.tradingview.com/chart/LNRHZERq/?mobileapp_new=true&theme=dark
+Fri Mar 20 2026 at 11:41; null; chart_loading_trace result is success
+Fri Mar 20 2026 at 11:41; null; chart_loading_trace stopped. Loading time is 1.7740214E9
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnInitialError
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"d9561653-7316-40bf-bb89-d3dc8574ebd0","fn":"Chart$subscribeOnInitialError","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onGoProDialog
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"f1ee9f4d-0bcd-4f04-861c-67a468ffa3c0","fn":"Chart$onGoProDialog","params":{"hiddenFeaturesArray":{"supportedFeatures":["flaggedSymbols","alerts","studyLimit","secondsIntervals","alertsNoExpiration","barReplayIntraday","savedChartsLimit","multipleCharts","kagiRenko","DelayToRealtime","studyTemplates","intradaySpread","studyOnStudy","volumeProfile","TickByTick","deepFundamentalsNotification","primitiveAlerts","complexAlerts","customIntervals","alertsWebhook","idcFreeUser","savedChartsForAlertLimit","useBarMagnifier","adFree","chartPatterns","volumeCandles","fundamentalsOnChart","TPOChartStyle","TPOPeriodic","BATSToRealtime","socialActivity","volumeFootprint","SVPChartStyle","tickIntervals"]}}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$requestChartBufferData
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"bbdc8983-c480-405e-8ac4-d29d90ab3fce","fn":"Chart$requestChartBufferData","params":{}}
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=bbdc8983-c480-405e-8ac4-d29d90ab3fce, fn=Chart$requestChartBufferData, params=null, result={"symbol":"NASDAQ:AAPL","metadata":{"ext":{"symbol":"AAPL","full_name":"BATS:AAPL","exchange":"Cboe One","description":"Apple Inc.","type":"stock","pro_name":"NASDAQ:AAPL","typespecs":["common"]},"nameMappings":[]},"selectedInterval":{"source":"D","isEnabled":true},"chartType":1,"layoutName":"Unnamed","hasChanges":false}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Current chart state WebPageState(isReady=true, isLoading=false, error=null)
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartTradingTicketInteractorStateSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"96ac0221-c5fa-46c9-bfd2-984a9136862e","fn":"ChartTradingTicketInteractorStateSubscription","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartIdeaPublishingInteractorIsIdeaPublishingStateSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"edc6471d-5d4b-4933-aff4-4bed6d6b9e07","fn":"ChartIdeaPublishingInteractorIsIdeaPublishingStateSubscription","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartStatusInteractorToggleStatusTooltipSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"34bff831-e966-4465-ada3-21a5b307423d","fn":"ChartStatusInteractorToggleStatusTooltipSubscription","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogClose
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"82a3eee1-0870-4e32-95e8-d0d55eb5815c","fn":"ChartDialogClose","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogFullscreenOn
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"b621dfb4-9543-41b2-8a6b-27395c6a7475","fn":"ChartDialogFullscreenOn","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogClose
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"8c813eaa-1a9c-4c28-8acd-a01d27b103a6","fn":"ChartDialogClose","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogFullscreenOn
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"9594545d-d917-4962-ad19-9b550e5ff9a0","fn":"ChartDialogFullscreenOn","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$isBrokerFilterEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"f3f421e4-c4af-445b-9c37-88c6e4f8f9f1","fn":"Chart$isBrokerFilterEnabled","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartIsTradingEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"62926aec-837f-4436-8146-cca9f24913b3","fn":"ChartIsTradingEnabled","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogClose
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"d99203c5-0eba-44ff-a27a-aa125979796e","fn":"ChartDialogClose","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartDialogFullscreenOn
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"c3ed70dc-fc95-4ef8-b9c9-58903418defc","fn":"ChartDialogFullscreenOn","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$requestFavoriteBarVisibility
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"4bbe631e-6627-492e-a2f4-9dabb6cf8f31","fn":"Chart$requestFavoriteBarVisibility","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$setNativeMenuEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"88e44ead-b1f1-420e-a550-39025646167c","fn":"Chart$setNativeMenuEnabled","params":{"isEnabled":true}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnNewsLollipopClicked
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"bf3cd4cf-bd01-4398-9ca2-c521534e7319","fn":"OnNewsLollipopClicked","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onAlertRunning
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"74b64668-da1c-4365-941c-582af42a6751","fn":"Chart$onAlertRunning","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onPublishChartResult
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"2caf1a5a-648c-4c6b-8130-f56513b8cf1f","fn":"Chart$onPublishChartResult","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onAuthRequest
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"6b26de06-7bd7-493e-8ded-575fd5bea871","fn":"Chart$onAuthRequest","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartWaitTrading
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"5bb81e9f-a318-408c-b2c4-9663654dbeec","fn":"ChartWaitTrading","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnMenuOptionsChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"7cb8a37f-73c8-4704-8e37-757f225c8360","fn":"Chart$subscribeOnMenuOptionsChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnMenuItemUpdated
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"667f4a09-14a9-4537-b3a4-a1d2987bc718","fn":"Chart$subscribeOnMenuItemUpdated","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnMenuVisibilityChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"23ec5285-2da3-4878-a72d-49131ecf6e11","fn":"Chart$subscribeOnMenuVisibilityChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function GetAvailableAutoplayDelayList
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"00ea2eac-7d34-4b46-93a0-b32f9b1bcc61","fn":"GetAvailableAutoplayDelayList","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayResolutionsChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"a2ca99ef-6620-43bc-8058-00fa4a3dc841","fn":"OnBarReplayResolutionsChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayCurrentResolutionChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"2eb06c77-cf2f-4c3d-9cba-126a22f265c2","fn":"OnBarReplayCurrentResolutionChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayAutoResolutionChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"8b92ed83-76cb-4519-8a60-58be0da3ffa3","fn":"OnBarReplayAutoResolutionChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayRealizedPLChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"36b77c0e-34d9-4c87-b4e6-407c7cc3bb95","fn":"OnBarReplayRealizedPLChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayAutoplayStarted
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"e82e53d1-bd1a-43e4-a3c3-a23905ad7242","fn":"OnBarReplayAutoplayStarted","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayStarted
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"7e1bb6c4-db75-4fc6-9c41-b9c9180213fa","fn":"OnBarReplayStarted","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnReplayTimingModeChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"689cad71-7e34-44eb-92c0-37fc97e2b124","fn":"OnReplayTimingModeChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayAvailableChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"a7457caa-8e37-4320-b0ea-b5a3c74ee51b","fn":"OnBarReplayAvailableChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayAutoplayDelayChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"4e7436dd-a415-4950-b5d0-ae5be5dfed12","fn":"OnBarReplayAutoplayDelayChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayJumpToBarModeChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"0a004fc4-97fe-48ad-bd26-3551480a2c61","fn":"OnBarReplayJumpToBarModeChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayIsReadyToPlay
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"cef4d00f-bc58-44cb-b67b-99d99876c833","fn":"OnBarReplayIsReadyToPlay","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplayPositionChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"22050382-16f3-40cf-8492-53c10fcb26f8","fn":"OnBarReplayPositionChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnBarReplaySymbolInfoChange
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"63fb78cb-1f18-4126-bf8c-3d1b825cdc36","fn":"OnBarReplaySymbolInfoChange","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnCurrencyMenuShow
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"33d95633-0dcc-425a-baa3-b37724313cfa","fn":"OnCurrencyMenuShow","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription OnUnitsMenuShow
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"8d36363a-f4f5-4e86-8e6e-c7c8500163a5","fn":"OnUnitsMenuShow","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnActiveChartChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"f2b2ca47-b52d-44f2-9050-c0d62e3c66e1","fn":"Chart$subscribeOnActiveChartChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnHasChartChanges
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"de67b9f3-7b38-4f41-8768-257d2c429a61","fn":"Chart$subscribeOnHasChartChanges","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnChartNameIsChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"41aa3ab7-04a3-4907-9098-007c707fd2d7","fn":"Chart$subscribeOnChartNameIsChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnUndoRedoStateChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"9d4b1fa5-b905-4011-9eaf-684c911e8180","fn":"Chart$subscribeOnUndoRedoStateChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$getActiveChartId
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"a0ffcec3-0890-4cf6-9589-da9b9c604b48","fn":"Chart$getActiveChartId","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$technicalsCanBeShown
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"bb5041c3-4ef9-4b41-b7e9-d1ae0e023624","fn":"Chart$technicalsCanBeShown","params":{"symbolName":""}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$forecastCanBeShown
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"068697cd-65d8-476b-b505-b0994bdbedeb","fn":"Chart$forecastCanBeShown","params":{"symbolName":""}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartSubscribeOnSymbolChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"5cffb700-dede-4951-b787-04eda9ff4e4c","fn":"ChartSubscribeOnSymbolChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onFavoriteIntervalsChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"c82d4205-d77e-4381-abeb-e1b1158a4063","fn":"Chart$onFavoriteIntervalsChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnActiveChartChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"824b01ff-bcee-4dd8-a4a0-4c1a400d60d7","fn":"Chart$subscribeOnActiveChartChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$getFavoriteIntervals
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"beccbdff-96ed-419e-bfb4-823c87c9f841","fn":"Chart$getFavoriteIntervals","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function AnalyticsShouldAffectUserInteractorGetValueMethod
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"b2486ef7-2b22-4c72-b198-da1ca3fec253","fn":"AnalyticsShouldAffectUserInteractorGetValueMethod","params":{"context":"DrawingCreations","coeff":0.1}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription DrawingSelectionInteractorSelectionSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"d6f55cfb-60f4-45e1-a601-ec16b2e886e5","fn":"DrawingSelectionInteractorSelectionSubscription","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onSelectedLineToolChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"c8aafbc3-1cea-4477-b7bf-e6066e8fcf43","fn":"Chart$onSelectedLineToolChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnFontIconsSettingsDrawerState
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"637c7980-b575-4eee-9a6e-c3948d6df9ee","fn":"Chart$subscribeOnFontIconsSettingsDrawerState","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$requestSelectedLineTool
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"b15a98ec-f116-45a8-810b-ddd0daeb887c","fn":"Chart$requestSelectedLineTool","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:LOG:AN-10406 request selected line
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:LOG:AN-10406 result is cursor
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onSelectedLineToolChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"e9d39e58-23e0-41ba-8ab4-46ce7923e9b2","fn":"Chart$onSelectedLineToolChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartIsTradingEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"4fe8f2ee-d252-4337-a711-d838d8378557","fn":"ChartIsTradingEnabled","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onLayoutChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"839fb1c0-44b0-4de1-9d36-87b00c22fa7f","fn":"Chart$onLayoutChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnViewModeChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"1fcead82-955b-4ffd-b633-f30d8beece36","fn":"Chart$subscribeOnViewModeChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$requestLayoutInfo
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"c44481b0-4e89-436a-8584-5eeed9f02e80","fn":"Chart$requestLayoutInfo","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onMagnetModeChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"1b0b14aa-d80d-4689-bb67-6be034ecf6a7","fn":"Chart$onMagnetModeChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onHideModeInfoChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"2c24be29-cd10-4db2-8928-b09c963d6948","fn":"Chart$onHideModeInfoChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$technicalsCanBeShown
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"1ac8b223-307a-420d-81df-0df84eb1b958","fn":"Chart$technicalsCanBeShown","params":{"symbolName":"NASDAQ:AAPL"}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$forecastCanBeShown
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"ba0a61ee-bbf7-4b87-8d0a-146acf5528fa","fn":"Chart$forecastCanBeShown","params":{"symbolName":"NASDAQ:AAPL"}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartConnectionStatusChangedInteractorConnectionStatusSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"77b43b7b-4f8e-433d-8cab-edb59ad3d1a5","fn":"ChartConnectionStatusChangedInteractorConnectionStatusSubscription","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$getDrawingToolsInfo
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"551b4352-2cb6-4516-b332-8819f03c5189","fn":"Chart$getDrawingToolsInfo","params":{}}
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=edc6471d-5d4b-4933-aff4-4bed6d6b9e07, fn=ChartIdeaPublishingInteractorIsIdeaPublishingStateSubscription, params=null, result="\"CLOSED\"", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=f3f421e4-c4af-445b-9c37-88c6e4f8f9f1, fn=Chart$isBrokerFilterEnabled, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=62926aec-837f-4436-8146-cca9f24913b3, fn=ChartIsTradingEnabled, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=5bb81e9f-a318-408c-b2c4-9663654dbeec, fn=ChartWaitTrading, params=null, result=null, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=00ea2eac-7d34-4b46-93a0-b32f9b1bcc61, fn=GetAvailableAutoplayDelayList, params=null, result=[{"label":"10x","description":"10 upd per 1 sec","value":100},{"label":"7x","description":"7 upd per 1 sec","value":143},{"label":"5x","description":"5 upd per 1 sec","value":200},{"label":"3x","description":"3 upd per 1 sec","value":300},{"label":"1x","description":"1 upd per 1 sec","value":1000},{"label":"0.5x","description":"1 upd per 2 sec","value":2000},{"label":"0.3x","description":"1 upd per 3 sec","value":3000},{"label":"0.2x","description":"1 upd per 5 sec","value":5000},{"label":"0.1x","description":"1 upd per 10 sec","value":10000}], message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=a2ca99ef-6620-43bc-8058-00fa4a3dc841, fn=OnBarReplayResolutionsChange, params=null, result=[], message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=2eb06c77-cf2f-4c3d-9cba-126a22f265c2, fn=OnBarReplayCurrentResolutionChange, params=null, result=null, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=8b92ed83-76cb-4519-8a60-58be0da3ffa3, fn=OnBarReplayAutoResolutionChange, params=null, result="1D", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=36b77c0e-34d9-4c87-b4e6-407c7cc3bb95, fn=OnBarReplayRealizedPLChange, params=null, result={"value":null,"currency":""}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=36b77c0e-34d9-4c87-b4e6-407c7cc3bb95, fn=OnBarReplayRealizedPLChange, params=null, result={}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=e82e53d1-bd1a-43e4-a3c3-a23905ad7242, fn=OnBarReplayAutoplayStarted, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=7e1bb6c4-db75-4fc6-9c41-b9c9180213fa, fn=OnBarReplayStarted, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=689cad71-7e34-44eb-92c0-37fc97e2b124, fn=OnReplayTimingModeChanged, params=null, result="manual", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=a7457caa-8e37-4320-b0ea-b5a3c74ee51b, fn=OnBarReplayAvailableChange, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=4e7436dd-a415-4950-b5d0-ae5be5dfed12, fn=OnBarReplayAutoplayDelayChange, params=null, result={"label":"1x","description":"1 upd per 1 sec","value":1000}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=0a004fc4-97fe-48ad-bd26-3551480a2c61, fn=OnBarReplayJumpToBarModeChange, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=cef4d00f-bc58-44cb-b67b-99d99876c833, fn=OnBarReplayIsReadyToPlay, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=22050382-16f3-40cf-8492-53c10fcb26f8, fn=OnBarReplayPositionChange, params=null, result=null, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=a0ffcec3-0890-4cf6-9589-da9b9c604b48, fn=Chart$getActiveChartId, params=null, result="1", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=beccbdff-96ed-419e-bfb4-823c87c9f841, fn=Chart$getFavoriteIntervals, params=null, result=[], message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=b2486ef7-2b22-4c72-b198-da1ca3fec253, fn=AnalyticsShouldAffectUserInteractorGetValueMethod, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=b15a98ec-f116-45a8-810b-ddd0daeb887c, fn=Chart$requestSelectedLineTool, params=null, result="cursor", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=4fe8f2ee-d252-4337-a711-d838d8378557, fn=ChartIsTradingEnabled, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=c44481b0-4e89-436a-8584-5eeed9f02e80, fn=Chart$requestLayoutInfo, params=null, result={"chartsCount":1,"viewMode":"force-fullscreen"}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=551b4352-2cb6-4516-b332-8819f03c5189, fn=Chart$getDrawingToolsInfo, params=null, result={"isAllDrawingsLocked":false,"selectedLineTool":"cursor","isMagnetModeActive":false,"magnetMode":0,"isAllIndicatorsHidden":false,"isAllDrawingsHidden":false,"canZoomOut":false,"isPositionsAndOrdersHidden":false,"isStayInDrawingModeActionActive":false,"chartDrawingsCount":0,"chartIndicatorsCount":1}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartOnBrokerConnectionStatus
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"64342799-d456-47cb-a8c8-4ae911da0409","fn":"ChartOnBrokerConnectionStatus","params":{}}
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Connection established
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartIsTradingEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"315528e4-866a-4284-bd00-1a1911e40245","fn":"ChartIsTradingEnabled","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnAnyDialogVisibilityChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"9288931f-9fe8-4514-8282-5b67433d85e5","fn":"Chart$subscribeOnAnyDialogVisibilityChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:subscription result {"dialogOrPanelType":"TRADING","isVisible":false}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:subscription result {"dialogOrPanelType":"TRADING_ORDER_PANEL","isVisible":false}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$onChartTypeChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"2d98eb5f-e5fc-41a3-9154-2cd2ad5b05b0","fn":"Chart$onChartTypeChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartSubscribeOnSymbolChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"98c7ba26-901c-4224-a613-d267a8f41eec","fn":"ChartSubscribeOnSymbolChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$subscribeOnIntervalChanged
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"358eab51-f3cd-41c7-88e2-35cca69d42ee","fn":"Chart$subscribeOnIntervalChanged","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription ChartOnBrokerConnectionStatus
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"77da1119-0241-4bbe-bebf-5c2389bdfdcd","fn":"ChartOnBrokerConnectionStatus","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartIsTradingEnabled
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"77cc5c6c-f5e8-4813-a08c-f4226dd614f3","fn":"ChartIsTradingEnabled","params":{}}
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=4bbe631e-6627-492e-a2f4-9dabb6cf8f31, fn=Chart$requestFavoriteBarVisibility, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=315528e4-866a-4284-bd00-1a1911e40245, fn=ChartIsTradingEnabled, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=9288931f-9fe8-4514-8282-5b67433d85e5, fn=Chart$subscribeOnAnyDialogVisibilityChanged, params=null, result={"dialogOrPanelType":"TRADING","isVisible":false}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=9288931f-9fe8-4514-8282-5b67433d85e5, fn=Chart$subscribeOnAnyDialogVisibilityChanged, params=null, result={"dialogOrPanelType":"TRADING_ORDER_PANEL","isVisible":false}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=77cc5c6c-f5e8-4813-a08c-f4226dd614f3, fn=ChartIsTradingEnabled, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::SubscriptionCancellation ChartConnectionStatusChangedInteractorConnectionStatusSubscription
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"77b43b7b-4f8e-433d-8cab-edb59ad3d1a5","fn":"ChartConnectionStatusChangedInteractorConnectionStatusSubscription"}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Subscription Chart$observePriceAlertsStream
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"cb1d029b-27fc-4dee-a402-77f337e48269","fn":"Chart$observePriceAlertsStream","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartBrokerConnectionStatus
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"f79fccdc-1d18-4a98-9882-053dfe9bfbd9","fn":"ChartBrokerConnectionStatus","params":{}}
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:function Message::Function ChartBrokerConnectionStatus
+Fri Mar 20 2026 at 11:41; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"cfecf94c-1549-47b4-84a4-be40244d66e1","fn":"ChartBrokerConnectionStatus","params":{}}
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeUnsubscribeResult(messageType=UNSUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=null, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=bb5041c3-4ef9-4b41-b7e9-d1ae0e023624, fn=Chart$technicalsCanBeShown, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=f79fccdc-1d18-4a98-9882-053dfe9bfbd9, fn=ChartBrokerConnectionStatus, params=null, result=3, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=cfecf94c-1549-47b4-84a4-be40244d66e1, fn=ChartBrokerConnectionStatus, params=null, result=3, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=1ac8b223-307a-420d-81df-0df84eb1b958, fn=Chart$technicalsCanBeShown, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=068697cd-65d8-476b-b505-b0994bdbedeb, fn=Chart$forecastCanBeShown, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:41; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=ba0a61ee-bbf7-4b87-8d0a-146acf5528fa, fn=Chart$forecastCanBeShown, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; java.lang.IllegalStateException: Can't track time on app stopped! No tracked screen detected.
+	at com.tradingview.tradingviewapp.component.openscreen.ScreenTimeTrackerImpl.trackTimeOnAppStop(SourceFile:107)
+	at com.tradingview.tradingviewapp.component.openscreen.ScreenTimeTrackerImpl.access$trackTimeOnAppStop(SourceFile:24)
+	at com.tradingview.tradingviewapp.component.openscreen.ScreenTimeTrackerImpl$onActivityStopped$1.invokeSuspend(SourceFile:69)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:832)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:42; null; MainFragment is saving state
+Fri Mar 20 2026 at 11:42; null; MenuTabFragment is saving state
+Fri Mar 20 2026 at 11:42; null; MenuFragment is saving state
+Fri Mar 20 2026 at 11:42; null; ChartTabFragment is saving state
+Fri Mar 20 2026 at 11:42; null; ChartFragment is saving state
+Fri Mar 20 2026 at 11:42; null; WatchListTabFragment is saving state
+Fri Mar 20 2026 at 11:42; null; WatchlistFragment is saving state
+Fri Mar 20 2026 at 11:42; null; CommunityTabFragment is saving state
+Fri Mar 20 2026 at 11:42; null; CommunityFeedFragment is saving state
+Fri Mar 20 2026 at 11:42; null; IdeasFeedIdeasListFragment is saving state
+Fri Mar 20 2026 at 11:42; null; IdeasFeedIdeasListFragment is saving state
+Fri Mar 20 2026 at 11:42; null; MarketsTabFragment is saving state
+Fri Mar 20 2026 at 11:42; null; MarketFragment is saving state
+Fri Mar 20 2026 at 11:42; null; send ~m~60~m~{"m":"quote_hibernate_all","p":["qs-an-watchlist_5b079a59"]}
+Fri Mar 20 2026 at 11:42; null; App minimized
+Fri Mar 20 2026 at 11:42; null; exception handled
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: app closed
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.network.webchart.WebChartConnect$loopRestartSocket$1$3.invokeSuspend(SourceFile:268)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:99)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:42; null; exception handled
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: app closed
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.network.webchart.WebChartConnect$loopRestartSocket$1$3.invokeSuspend(SourceFile:268)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:99)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:42; null; stop web chart connect
+Fri Mar 20 2026 at 11:42; null; stop web chart connect
+Fri Mar 20 2026 at 11:42; null; start web chart connect
+Fri Mar 20 2026 at 11:42; null; start web chart connect
+Fri Mar 20 2026 at 11:42; null; Session updating
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Inactive subscription triggered the action
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Inactive subscription triggered the action
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=true, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Inactive subscription triggered the action
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=5cffb700-dede-4951-b787-04eda9ff4e4c, fn=ChartSubscribeOnSymbolChanged, params=null, result="AAPL", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=98c7ba26-901c-4224-a613-d267a8f41eec, fn=ChartSubscribeOnSymbolChanged, params=null, result="AAPL", message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=63fb78cb-1f18-4126-bf8c-3d1b825cdc36, fn=OnBarReplaySymbolInfoChange, params=null, result={"isNonTradable":false,"symbol":"NASDAQ:AAPL"}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Inactive subscription triggered the action
+Fri Mar 20 2026 at 11:42; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$getFavoriteIntervals
+Fri Mar 20 2026 at 11:42; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"01e3612a-c3c5-433c-8fef-b3c28ec3b94a","fn":"Chart$getFavoriteIntervals","params":{}}
+Fri Mar 20 2026 at 11:42; null; [CHART CONSOLE]: 1:TIP:function Message::Function Chart$requestChartBufferData
+Fri Mar 20 2026 at 11:42; null; [CHART CONSOLE]: 1:TIP:data {"uuid":"9d8d292a-b7e7-44bf-a45a-7b934839ceab","fn":"Chart$requestChartBufferData","params":{}}
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=01e3612a-c3c5-433c-8fef-b3c28ec3b94a, fn=Chart$getFavoriteIntervals, params=null, result=[], message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeFunctionResult(messageType=FUNCTION_RESULT, data=Data(uuid=9d8d292a-b7e7-44bf-a45a-7b934839ceab, fn=Chart$requestChartBufferData, params=null, result={"symbol":"NASDAQ:AAPL","metadata":{"ext":{"symbol":"AAPL","full_name":"BATS:AAPL","exchange":"Cboe One","description":"Apple Inc.","type":"stock","pro_name":"NASDAQ:AAPL","typespecs":["common"]},"nameMappings":[]},"selectedInterval":{"source":"D","isEnabled":true},"chartType":1,"layoutName":"Unnamed","hasChanges":false}, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Received message from web: BridgeSubscribeResult(messageType=SUBSCRIBE_RESULT, data=Data(uuid=77b43b7b-4f8e-433d-8cab-edb59ad3d1a5, fn=ChartConnectionStatusChangedInteractorConnectionStatusSubscription, params=null, result=false, message=null, logLevel=null, standardGson=false))
+Fri Mar 20 2026 at 11:42; null; Inactive subscription triggered the action

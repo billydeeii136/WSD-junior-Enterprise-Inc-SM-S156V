@@ -1,0 +1,339 @@
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; WebView implementation: com.google.android.webview, versionName: 145.0.7632.162
+Fri Mar 20 2026 at 11:12; null; Set en
+Fri Mar 20 2026 at 11:12; null; Current language: en
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_chart_news : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_1st_april : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_trade_button_text : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_alert_open : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config new_explore : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config drawing_mode : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config Layout_manage : true
+Fri Mar 20 2026 at 11:12; null; manufacturer: samsung
+Fri Mar 20 2026 at 11:12; null; RootActivity is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; Network 110 is available.
+Fri Mar 20 2026 at 11:12; null; Available networks count 2
+Fri Mar 20 2026 at 11:12; null; Network 102 is available.
+Fri Mar 20 2026 at 11:12; null; Available networks count 2
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Fetch profile from StartUpInteractor
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; RootPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.root.presenter.RootPresenter:RootActivitya8afa52c-8e9a-43c3-82db-5359c95b3da0, presenter: 168401731
+Fri Mar 20 2026 at 11:12; null; after add size map:0
+Fri Mar 20 2026 at 11:12; null; RootActivity is creating
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; RootActivity is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; App open 
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; MobileOffersRetryScheduler: retry count was reset!
+Fri Mar 20 2026 at 11:12; null; Billing library: not ready
+Fri Mar 20 2026 at 11:12; null; Billing library: start connection
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Billing library: create client
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; MainFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; MainPresenter is creating
+Fri Mar 20 2026 at 11:12; null; Billing library: create listener
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.main.presenter.MainPresenter:MainFragment53af53e9-bf59-4623-b23c-448cf90d323b, presenter: 56706784
+Fri Mar 20 2026 at 11:12; null; after add size map:1
+Fri Mar 20 2026 at 11:12; null; MainFragment is creating
+Fri Mar 20 2026 at 11:12; null; MainFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; WatchListTabFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; WatchListTabPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.watchlist.WatchListTabPresenter:WatchListTabFragmentc8685d9a-bb3d-404a-88d8-3fc05a007e47, presenter: 196731710
+Fri Mar 20 2026 at 11:12; null; after add size map:2
+Fri Mar 20 2026 at 11:12; null; WatchListTabFragment is creating
+Fri Mar 20 2026 at 11:12; null; ChartTabFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; ChartTabPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.chart.ChartTabPresenter:ChartTabFragmentee153592-6eb4-4eaa-b7be-3a621594346e, presenter: 153561965
+Fri Mar 20 2026 at 11:12; null; after add size map:3
+Fri Mar 20 2026 at 11:12; null; ChartTabFragment is creating
+Fri Mar 20 2026 at 11:12; null; MarketsTabFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; MarketsTabPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.markets.MarketsTabPresenter:MarketsTabFragment645b1a9f-99a7-4628-a687-c42eec034b95, presenter: 94131847
+Fri Mar 20 2026 at 11:12; null; after add size map:4
+Fri Mar 20 2026 at 11:12; null; MarketsTabFragment is creating
+Fri Mar 20 2026 at 11:12; null; CommunityTabFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; CommunityTabPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.community.CommunityTabPresenter:CommunityTabFragmentea9597b1-5756-4ee3-afbd-a6a46f80f191, presenter: 171113292
+Fri Mar 20 2026 at 11:12; null; after add size map:5
+Fri Mar 20 2026 at 11:12; null; CommunityTabFragment is creating
+Fri Mar 20 2026 at 11:12; null; MenuTabFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; MenuTabPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.tabs.impl.menu.MenuTabPresenter:MenuTabFragmentb34a6dcc-bc80-4c3c-bbb1-fac638efa480, presenter: 216196173
+Fri Mar 20 2026 at 11:12; null; after add size map:6
+Fri Mar 20 2026 at 11:12; null; MenuTabFragment is creating
+Fri Mar 20 2026 at 11:12; null; isInMultiWindowMode = false
+Fri Mar 20 2026 at 11:12; null; WatchListTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; ChartTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; MarketsTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; CommunityTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; MenuTabFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; WatchlistFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; WatchlistPresenter is creating
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Session stopped
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.watchlist.impl.module.symbols.presenter.WatchlistPresenter:WatchlistFragmente4df9475-ed25-41a4-8679-1ce052b11976, presenter: 33860028
+Fri Mar 20 2026 at 11:12; null; after add size map:7
+Fri Mar 20 2026 at 11:12; null; WatchlistFragment is creating
+Fri Mar 20 2026 at 11:12; null; Pool is empty. Inflating view in Main Thread
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; WatchlistFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; ChartFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; ChartPresenter is creating
+Fri Mar 20 2026 at 11:12; null; Current chart state WebPageState(isReady=false, isLoading=false, error=null)
+Fri Mar 20 2026 at 11:12; null; Current chart state WebPageState(isReady=false, isLoading=true, error=null)
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; chart_loading_trace started
+Fri Mar 20 2026 at 11:12; null; Current chart state WebPageState(isReady=false, isLoading=true, error=null)
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.chart.impl.module.chart.presenter.ChartPresenter:ChartFragment4df582b9-8437-4d09-bb74-11fa9c75baeb, presenter: 35305605
+Fri Mar 20 2026 at 11:12; null; after add size map:8
+Fri Mar 20 2026 at 11:12; null; ChartFragment is creating
+Fri Mar 20 2026 at 11:12; null; start web chart connect
+Fri Mar 20 2026 at 11:12; null; start web chart connect
+Fri Mar 20 2026 at 11:12; null; ChartFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; quote session stopped qs-an-watchlist_e817a457
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: restart quote session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invokeSuspend(SourceFile:73)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.quotesession.QuoteSessionServiceImpl$connect$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; blank session stopped blank-session_dcc556f9
+com.tradingview.tradingviewapp.core.base.exception.CancellationException: restart chart blank session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invokeSuspend(SourceFile:29)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:12; null; blank session stopped blank-session_8653ed7a
+com.tradingview.tradingviewapp.core.base.exception.CancellationException: restart quote black session
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invokeSuspend(SourceFile:30)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.service.common.WebChartSocketsServiceImpl$warmUpSockets$1.invoke(SourceFile:0)
+	at com.tradingview.tradingviewapp.core.base.util.SafeContextScopeKt$launchSafely$1.invokeSuspend(SourceFile:32)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:101)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; send ~m~35~m~{"m":"set_auth_token","p":["****"]}
+Fri Mar 20 2026 at 11:12; null; send ~m~34~m~{"m":"set_locale","p":["en","US"]}
+Fri Mar 20 2026 at 11:12; null; blank sessions recreate blank-session_1e58a6d1
+Fri Mar 20 2026 at 11:12; null; send ~m~199~m~{"m":"quote_set_fields","p":["qs-an-chart-reel_ce0c420a","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name"]}
+Fri Mar 20 2026 at 11:12; null; send ~m~696~m~{"m":"quote_set_fields","p":["qs-an-watchlist_1fe6f114","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:12; null; MarketFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; MarketPresenter is creating
+Fri Mar 20 2026 at 11:12; null; send ~m~35~m~{"m":"set_auth_token","p":["****"]}
+Fri Mar 20 2026 at 11:12; null; send ~m~34~m~{"m":"set_locale","p":["en","US"]}
+Fri Mar 20 2026 at 11:12; null; blank sessions recreate blank-session_375661be
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.market.module.feed.presenter.MarketPresenter:MarketFragmentcb5be680-b89d-477f-85d2-40966060735c, presenter: 98318502
+Fri Mar 20 2026 at 11:12; null; after add size map:9
+Fri Mar 20 2026 at 11:12; null; MarketFragment is creating
+Fri Mar 20 2026 at 11:12; null; send ~m~693~m~{"m":"quote_set_fields","p":["qs-an-market_46480d52","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:12; null; market_debug_tag current visible scanner blocks: 
+Fri Mar 20 2026 at 11:12; null; market_debug_tag current blocks last update time: 
+Fri Mar 20 2026 at 11:12; null; market_debug_tag checking for scanner blocks updates...
+Fri Mar 20 2026 at 11:12; null; send ~m~693~m~{"m":"quote_set_fields","p":["qs-an-market_46480d52","current_session","logoid","currency-logoid","base-currency-logoid","short_name","provider_id","type","typespecs","pro_name","original_name","ch","chp","description","local_description","language","exchange","fractional","is_tradable","lp","lp_time","minmov","minmove2","pricescale","formatter","update_mode","volume","country_code","rtc","rch","rchp","market_cap_basic","currency_code","listed_exchange","earnings_per_share_basic_ttm","unit_id","value_unit_id","measure","is-primary-listing","exchange-info","first_bar_time_1d","has_bonds","ipo_offer_time","ipo_offer_date","ipo_blank_check_flag","has_ipo_data","has_ipo_details_visible"]}
+Fri Mar 20 2026 at 11:12; null; MarketFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; market_debug_tag current visible scanner blocks: 
+Fri Mar 20 2026 at 11:12; null; market_debug_tag current blocks last update time: 
+Fri Mar 20 2026 at 11:12; null; market_debug_tag checking for scanner blocks updates...
+Fri Mar 20 2026 at 11:12; null; CommunityFeedFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; CommunityFeedPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.community.impl.feed.presenter.CommunityFeedPresenter:CommunityFeedFragment3c52b793-2196-46f3-bbdc-22b244a6708b, presenter: 164401326
+Fri Mar 20 2026 at 11:12; null; after add size map:10
+Fri Mar 20 2026 at 11:12; null; CommunityFeedFragment is creating
+Fri Mar 20 2026 at 11:12; null; CommunityFeedFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; MenuFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; MenuPresenter is creating
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.menu.impl.presenter.MenuPresenter:MenuFragment7e2bc471-c465-4dd4-bcbc-6d7e1a881ad4, presenter: 132712756
+Fri Mar 20 2026 at 11:12; null; after add size map:11
+Fri Mar 20 2026 at 11:12; null; MenuFragment is creating
+Fri Mar 20 2026 at 11:12; null; MenuFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; Trying to track time. Navigated from null screen to watchlist screen. Spent 0 seconds.
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Billing library: connection successfully established
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.ideas.impl.list.ideasfeed.base.presenter.IdeasFeedIdeasListPresenter:IdeasFeedIdeasListFragment146f0ae9-4c4e-45f3-83a2-1d1f9f0783d5, presenter: 240198947
+Fri Mar 20 2026 at 11:12; null; after add size map:12
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is creating
+Fri Mar 20 2026 at 11:12; null; Pool is empty. Inflating view in Main Thread
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is generating presenter tag
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListPresenter is creating
+Fri Mar 20 2026 at 11:12; null; put presenter key:com.tradingview.tradingviewapp.feature.ideas.impl.list.ideasfeed.base.presenter.IdeasFeedIdeasListPresenter:IdeasFeedIdeasListFragment8c845c32-a107-47b1-ba3a-a9ee5406dc0a, presenter: 124836175
+Fri Mar 20 2026 at 11:12; null; after add size map:13
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is creating
+Fri Mar 20 2026 at 11:12; null; Pool is empty. Inflating view in Main Thread
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is attached to ViewHolder
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; View with id sort_type_tv is null.
+Fri Mar 20 2026 at 11:12; null; send ~m~57~m~{"m":"quote_hibernate_all","p":["qs-an-market_46480d52"]}
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Remote config was not updated, using cached values
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_chart_news : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_1st_april : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_trade_button_text : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_alert_open : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config new_explore : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config drawing_mode : true
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri Mar 20 2026 at 11:12; null; RemoteConfig. Init config Layout_manage : true
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Session is connected
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:12; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:12; null; send ~m~60~m~{"m":"quote_hibernate_all","p":["qs-an-watchlist_1fe6f114"]}
+Fri Mar 20 2026 at 11:12; null; Set cookie to webManager, has cookie: false
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; Set cookie to webManager, has cookie: true
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; load url https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark
+Fri Mar 20 2026 at 11:12; null; onBeforeStartLoadingUrl https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark
+Fri Mar 20 2026 at 11:12; null; try to close connection
+Fri Mar 20 2026 at 11:12; null; isConnectionManagerInited = false
+Fri Mar 20 2026 at 11:12; null; channelState = null
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; Google play available = true
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Network 110 connection is lost.
+Fri Mar 20 2026 at 11:12; null; Available networks count 1
+Fri Mar 20 2026 at 11:12; null; Network 110 connection is lost.
+Fri Mar 20 2026 at 11:12; null; Available networks count 1
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Trying to track time. Navigated from watchlist screen to null screen. Spent 6 seconds.
+Fri Mar 20 2026 at 11:12; null; MainFragment is saving state
+Fri Mar 20 2026 at 11:12; null; MenuTabFragment is saving state
+Fri Mar 20 2026 at 11:12; null; MenuFragment is saving state
+Fri Mar 20 2026 at 11:12; null; ChartTabFragment is saving state
+Fri Mar 20 2026 at 11:12; null; ChartFragment is saving state
+Fri Mar 20 2026 at 11:12; null; WatchListTabFragment is saving state
+Fri Mar 20 2026 at 11:12; null; WatchlistFragment is saving state
+Fri Mar 20 2026 at 11:12; null; CommunityTabFragment is saving state
+Fri Mar 20 2026 at 11:12; null; CommunityFeedFragment is saving state
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is saving state
+Fri Mar 20 2026 at 11:12; null; IdeasFeedIdeasListFragment is saving state
+Fri Mar 20 2026 at 11:12; null; MarketsTabFragment is saving state
+Fri Mar 20 2026 at 11:12; null; MarketFragment is saving state
+Fri Mar 20 2026 at 11:12; null; onPageStarted url:https://www.tradingview.com/chart/?mobileapp_new=true&theme=dark 98568146
+Fri Mar 20 2026 at 11:12; null; send ~m~277~m~{"m":"quote_add_symbols","p":["qs-an-chart-reel_ce0c420a","CBOE:VIX","NASDAQ:TSLA","BITSTAMP:ETHUSD","BINANCE:BTCUSDT","BITSTAMP:BTCUSD","FX:GBPUSD","FX:USDJPY","NASDAQ:AAPL","TVC:USOIL","TVC:NDQ","FX:EURUSD","SP:SPX","TVC:DXY","TVC:GOLD","TVC:DJI","NASDAQ:NFLX","TVC:SILVER"]}
+Fri Mar 20 2026 at 11:12; null; send ~m~276~m~{"m":"quote_add_symbols","p":["qs-an-watchlist_1fe6f114","CBOE:VIX","NASDAQ:TSLA","BITSTAMP:ETHUSD","BINANCE:BTCUSDT","BITSTAMP:BTCUSD","FX:GBPUSD","FX:USDJPY","NASDAQ:AAPL","TVC:USOIL","TVC:NDQ","FX:EURUSD","SP:SPX","TVC:DXY","TVC:GOLD","TVC:DJI","NASDAQ:NFLX","TVC:SILVER"]}
+Fri Mar 20 2026 at 11:12; null; App minimized
+Fri Mar 20 2026 at 11:12; null; chart_loading_trace canceled
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; exception handled
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: app closed
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.network.webchart.WebChartConnect$loopRestartSocket$1$3.invokeSuspend(SourceFile:268)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:99)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:12; null; exception handled
+com.tradingview.tradingviewapp.feature.webchart.model.WebChartStopException: app closed
+	at com.tradingview.tradingviewapp.feature.webchart.implementation.network.webchart.WebChartConnect$loopRestartSocket$1$3.invokeSuspend(SourceFile:268)
+	at kotlin.coroutines.jvm.internal.BaseContinuationImpl.resumeWith(SourceFile:33)
+	at kotlinx.coroutines.DispatchedTask.run(SourceFile:99)
+	at kotlinx.coroutines.internal.LimitedDispatcher$Worker.run(SourceFile:113)
+	at kotlinx.coroutines.scheduling.TaskImpl.run(SourceFile:89)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler.runSafely(SourceFile:589)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.executeTask(SourceFile:823)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.runWorker(SourceFile:720)
+	at kotlinx.coroutines.scheduling.CoroutineScheduler$Worker.run(SourceFile:707)
+
+Fri Mar 20 2026 at 11:12; null; stop web chart connect
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; stop web chart connect
+Fri Mar 20 2026 at 11:12; null; start web chart connect
+Fri Mar 20 2026 at 11:12; null; start web chart connect
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Session updating
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; Check persistent cookies. Size = 3
+Fri Mar 20 2026 at 11:12; null; [CHART CONSOLE]: 15:ERROR:2026-03-20T15:12:29.373Z:Fetch:POST https://telemetry.tradingview.com/line-tools-storage/report. TypeError: Failed to fetch
+Fri Mar 20 2026 at 11:12; null; [CHART CONSOLE]: 15:ERROR:2026-03-20T15:12:29.376Z:Fetch:POST https://telemetry.tradingview.com/charts-android-free/report. TypeError: Failed to fetch
+Fri Mar 20 2026 at 11:13; null; [CHART CONSOLE]: 50:ERROR:Uncaught (in promise) Error: Loading CSS chunk 85376 failed.
+(https://static.tradingview.com/static/bundles/85376.b4b39d66cc4b12a9b9cf.css)
+Fri Mar 20 2026 at 11:13; null; [CHART CONSOLE]: 50:ERROR:Uncaught (in promise) Error: Loading CSS chunk 55880 failed.
+(https://static.tradingview.com/static/bundles/55880.3efe525df7676320eeaf.css)
+Fri Mar 20 2026 at 11:13; null; [CHART CONSOLE]: 50:ERROR:Uncaught (in promise) Error: Loading CSS chunk 95219 failed.
+(https://static.tradingview.com/static/bundles/95219.191053e2055af1188c53.css)

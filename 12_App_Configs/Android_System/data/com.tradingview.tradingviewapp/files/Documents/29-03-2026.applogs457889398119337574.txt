@@ -1,0 +1,66 @@
+Sun Mar 29 2026 at 06:39; null; Google play available = true
+Sun Mar 29 2026 at 06:39; null; Set en
+Sun Mar 29 2026 at 06:39; null; Current language: en
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_telemetry_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config show_heart_easter_egg : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_chart_news : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_gsn_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_tax_text_enabled : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_1st_april : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_snowplow_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_trade_button_text : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_new_promo_banner : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_alert_open : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config new_explore : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config an_earlybird_offer : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config drawing_mode : true
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Sun Mar 29 2026 at 06:39; null; RemoteConfig. Init config Layout_manage : true
+Sun Mar 29 2026 at 06:39; null; Failed to sync toggles
+com.google.firebase.remoteconfig.FirebaseRemoteConfigClientException: The client had an error while calling the backend!
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:216)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackend(SourceFile:379)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackendAndCacheResponse(SourceFile:347)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.$r8$lambda$2M_YxNX84RHSO_CvrLRaJfB-cIg(SourceFile:280)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler$$ExternalSyntheticLambda1.then(SourceFile:0)
+	at com.google.android.gms.tasks.zze.run(SourceFile:1)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+	at com.google.firebase.concurrent.CustomThreadFactory.$r8$lambda$XB8AY3Hcio74byWuTzgVEC3Hiek(SourceFile:47)
+	at com.google.firebase.concurrent.CustomThreadFactory$$ExternalSyntheticLambda0.run(SourceFile:0)
+	at java.lang.Thread.run(Thread.java:1564)
+Caused by: java.net.UnknownHostException: Unable to resolve host "firebaseremoteconfig.googleapis.com": No address associated with hostname
+	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:156)
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Inet6AddressImpl.java:103)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1152)
+	at com.android.okhttp.Dns$1.lookup(Dns.java:41)
+	at com.android.okhttp.internal.http.RouteSelector.resetNextInetSocketAddress(RouteSelector.java:178)
+	at com.android.okhttp.internal.http.RouteSelector.nextProxy(RouteSelector.java:144)
+	at com.android.okhttp.internal.http.RouteSelector.next(RouteSelector.java:86)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:176)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getOutputStream(DelegatingHttpsURLConnection.java:219)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:30)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.setFetchRequestBody(SourceFile:382)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:204)
+	... 10 more
+Caused by: android.system.GaiException: android_getaddrinfo failed: EAI_NODATA (No address associated with hostname)
+	at libcore.io.Linux.android_getaddrinfo(Native Method)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:134)
+	at libcore.io.BlockGuardOs.android_getaddrinfo(BlockGuardOs.java:222)
+	at libcore.io.ForwardingOs.android_getaddrinfo(ForwardingOs.java:134)
+	at java.net.Inet6AddressImpl.lookupHostByName(Inet6AddressImpl.java:135)
+	... 28 more
+

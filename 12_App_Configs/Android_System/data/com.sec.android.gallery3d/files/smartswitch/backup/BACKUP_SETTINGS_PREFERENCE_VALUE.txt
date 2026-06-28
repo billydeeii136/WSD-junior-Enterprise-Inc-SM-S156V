@@ -1,0 +1,1 @@
+{"full_screen_scrolling_v2":false,"auto_play_motion_photo":true,"auto_create_event":true,"shared_album_notification":true,"new_albums":true,"new_posts":true,"member_updates":true,"use_trash":true,"EssentialAlbums":true,"MxAlbumsMergeNames":true,"story_notification_state":true,"search_cat_disabled":"MyTag","save_recent_searches":true,"show_suggestions":true}

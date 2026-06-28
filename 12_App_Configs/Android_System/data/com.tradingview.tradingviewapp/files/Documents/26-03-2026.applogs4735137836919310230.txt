@@ -1,0 +1,47 @@
+Thu Mar 26 2026 at 12:30; null; WebView implementation: com.google.android.webview, versionName: 146.0.7680.119
+Thu Mar 26 2026 at 12:30; null; Google play available = true
+Thu Mar 26 2026 at 12:30; null; Set en
+Thu Mar 26 2026 at 12:30; null; Current language: en
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_telemetry_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config show_heart_easter_egg : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_chart_news : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_gsn_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_tax_text_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_1st_april : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_snowplow_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_trade_button_text : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_new_promo_banner : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_alert_open : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config new_explore : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_earlybird_offer : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config drawing_mode : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config Layout_manage : true
+Thu Mar 26 2026 at 12:30; null; Remote config was not updated, using cached values
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_telemetry_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config show_heart_easter_egg : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_chart_news : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_gsn_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_tax_text_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_1st_april : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_snowplow_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_trade_button_text : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_new_promo_banner : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_alert_open : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config new_explore : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config an_earlybird_offer : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config gopro_horizontal_layout : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config drawing_mode : true
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Thu Mar 26 2026 at 12:30; null; RemoteConfig. Init config Layout_manage : true

@@ -1,0 +1,53 @@
+Fri Jun 05 2026 at 22:18; null; Google play available = true
+Fri Jun 05 2026 at 22:18; null; Set en
+Fri Jun 05 2026 at 22:18; null; Current language: en
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_chart_news : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_1st_april : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_trade_button_text : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_alert_open : false
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config new_explore : false
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config drawing_mode : true
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri Jun 05 2026 at 22:18; null; RemoteConfig. Init config Layout_manage : true
+Fri Jun 05 2026 at 22:21; null; Failed to sync toggles
+com.google.firebase.remoteconfig.FirebaseRemoteConfigClientException: The client had an error while calling the backend!
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:216)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackend(SourceFile:379)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackendAndCacheResponse(SourceFile:347)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.$r8$lambda$2M_YxNX84RHSO_CvrLRaJfB-cIg(SourceFile:280)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler$$ExternalSyntheticLambda1.then(SourceFile:0)
+	at com.google.android.gms.tasks.zze.run(SourceFile:1)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+	at com.google.firebase.concurrent.CustomThreadFactory.$r8$lambda$XB8AY3Hcio74byWuTzgVEC3Hiek(SourceFile:47)
+	at com.google.firebase.concurrent.CustomThreadFactory$$ExternalSyntheticLambda0.run(SourceFile:0)
+	at java.lang.Thread.run(Thread.java:1564)
+Caused by: java.net.ConnectException: Failed to connect to firebaseremoteconfig.googleapis.com/216.239.34.223:443
+	at com.android.okhttp.internal.io.RealConnection.connectSocket(RealConnection.java:147)
+	at com.android.okhttp.internal.io.RealConnection.connect(RealConnection.java:116)
+	at com.android.okhttp.internal.http.StreamAllocation.findConnection(StreamAllocation.java:186)
+	at com.android.okhttp.internal.http.StreamAllocation.findHealthyConnection(StreamAllocation.java:128)
+	at com.android.okhttp.internal.http.StreamAllocation.newStream(StreamAllocation.java:97)
+	at com.android.okhttp.internal.http.HttpEngine.connect(HttpEngine.java:289)
+	at com.android.okhttp.internal.http.HttpEngine.sendRequest(HttpEngine.java:232)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:465)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.connect(HttpURLConnectionImpl.java:131)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getOutputStream(HttpURLConnectionImpl.java:262)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getOutputStream(DelegatingHttpsURLConnection.java:219)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getOutputStream(HttpsURLConnectionImpl.java:30)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.setFetchRequestBody(SourceFile:382)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:204)
+	... 10 more
+

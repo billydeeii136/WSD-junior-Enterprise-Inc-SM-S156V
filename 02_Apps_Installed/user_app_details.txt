@@ -1,0 +1,6 @@
+=== com.oracle.oci.console.ocimobile ===
+      applicationInfo=ApplicationInfo{5ec3c3c com.oracle.oci.console.ocimobile}
+    versionName=1.7.23
+      firstInstallTime=2026-05-24 08:11:43
+      firstInstallTime=1969-12-31 19:00:00
+      firstInstallTime=1969-12-31 19:00:00

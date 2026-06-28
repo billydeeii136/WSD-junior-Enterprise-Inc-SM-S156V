@@ -1,0 +1,66 @@
+Wed May 27 2026 at 03:13; null; Google play available = true
+Wed May 27 2026 at 03:13; null; Set en
+Wed May 27 2026 at 03:13; null; Current language: en
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_telemetry_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config show_heart_easter_egg : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_chart_news : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_gsn_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_tax_text_enabled : false
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_1st_april : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_snowplow_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_trade_button_text : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_new_promo_banner : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_alert_open : false
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config new_explore : false
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config an_earlybird_offer : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config drawing_mode : true
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Wed May 27 2026 at 03:13; null; RemoteConfig. Init config Layout_manage : true
+Wed May 27 2026 at 03:13; null; Failed to sync toggles
+com.google.firebase.remoteconfig.FirebaseRemoteConfigClientException: The client had an error while calling the backend!
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:216)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackend(SourceFile:379)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackendAndCacheResponse(SourceFile:347)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.$r8$lambda$2M_YxNX84RHSO_CvrLRaJfB-cIg(SourceFile:280)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler$$ExternalSyntheticLambda1.then(SourceFile:0)
+	at com.google.android.gms.tasks.zze.run(SourceFile:1)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+	at com.google.firebase.concurrent.CustomThreadFactory.$r8$lambda$XB8AY3Hcio74byWuTzgVEC3Hiek(SourceFile:47)
+	at com.google.firebase.concurrent.CustomThreadFactory$$ExternalSyntheticLambda0.run(SourceFile:0)
+	at java.lang.Thread.run(Thread.java:1564)
+Caused by: java.net.SocketException: Software caused connection abort
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:118)
+	at java.net.SocketInputStream.read(SocketInputStream.java:173)
+	at java.net.SocketInputStream.read(SocketInputStream.java:143)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readFromSocket(ConscryptEngineSocket.java:999)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.processDataFromSocket(ConscryptEngineSocket.java:963)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.readUntilDataAvailable(ConscryptEngineSocket.java:878)
+	at com.android.org.conscrypt.ConscryptEngineSocket$SSLInputStream.read(ConscryptEngineSocket.java:851)
+	at com.android.okhttp.okio.Okio$2.read(Okio.java:138)
+	at com.android.okhttp.okio.AsyncTimeout$2.read(AsyncTimeout.java:213)
+	at com.android.okhttp.okio.RealBufferedSource.request(RealBufferedSource.java:72)
+	at com.android.okhttp.okio.RealBufferedSource.require(RealBufferedSource.java:65)
+	at com.android.okhttp.okio.RealBufferedSource.readHexadecimalUnsignedLong(RealBufferedSource.java:271)
+	at com.android.okhttp.internal.http.Http1xStream$ChunkedSource.readChunkSize(Http1xStream.java:456)
+	at com.android.okhttp.internal.http.Http1xStream$ChunkedSource.read(Http1xStream.java:437)
+	at com.android.okhttp.okio.RealBufferedSource.read(RealBufferedSource.java:51)
+	at com.android.okhttp.okio.RealBufferedSource.exhausted(RealBufferedSource.java:61)
+	at com.android.okhttp.okio.GzipSource.read(GzipSource.java:101)
+	at com.android.okhttp.okio.RealBufferedSource$1.read(RealBufferedSource.java:372)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:309)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:373)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:183)
+	at java.io.InputStreamReader.read(InputStreamReader.java:177)
+	at java.io.BufferedReader.fill(BufferedReader.java:172)
+	at java.io.BufferedReader.read(BufferedReader.java:193)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.getFetchResponseBody(SourceFile:394)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:214)
+	... 10 more
+

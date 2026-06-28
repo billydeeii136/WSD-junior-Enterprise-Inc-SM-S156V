@@ -1,0 +1,48 @@
+Tue Jun 09 2026 at 06:49; null; Google play available = true
+Tue Jun 09 2026 at 06:49; null; Google play available = true
+Tue Jun 09 2026 at 06:49; null; Set en
+Tue Jun 09 2026 at 06:49; null; Current language: en
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_telemetry_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config show_heart_easter_egg : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_chart_news : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_gsn_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_tax_text_enabled : false
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_1st_april : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_snowplow_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_trade_button_text : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_new_promo_banner : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_alert_open : false
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config new_explore : false
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config an_earlybird_offer : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config drawing_mode : true
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Tue Jun 09 2026 at 06:49; null; RemoteConfig. Init config Layout_manage : true
+Tue Jun 09 2026 at 06:49; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.feature.newswidget.impl.pager.view.NewsPagerWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]
+Tue Jun 09 2026 at 06:49; null; Failed to sync toggles
+com.google.firebase.remoteconfig.FirebaseRemoteConfigClientException: Firebase Installations failed to get installation auth token for fetch.
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.$r8$lambda$2M_YxNX84RHSO_CvrLRaJfB-cIg(SourceFile:275)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler$$ExternalSyntheticLambda1.then(SourceFile:0)
+	at com.google.android.gms.tasks.zze.run(SourceFile:1)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1100)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at com.google.firebase.concurrent.CustomThreadFactory.$r8$lambda$XB8AY3Hcio74byWuTzgVEC3Hiek(SourceFile:47)
+	at com.google.firebase.concurrent.CustomThreadFactory$$ExternalSyntheticLambda0.run(SourceFile:0)
+	at java.lang.Thread.run(Thread.java:1572)
+Caused by: com.google.firebase.installations.FirebaseInstallationsException: Firebase Installations Service is unavailable. Please try again later.
+	at com.google.firebase.installations.remote.FirebaseInstallationServiceClient.generateAuthToken(SourceFile:448)
+	at com.google.firebase.installations.FirebaseInstallations.fetchAuthTokenFromServer(SourceFile:566)
+	at com.google.firebase.installations.FirebaseInstallations.doNetworkCallIfNecessary(SourceFile:389)
+	at com.google.firebase.installations.FirebaseInstallations.$r8$lambda$_LVWvNUQ4Iq8r5kiH7vh8J1nAu0(SourceFile:372)
+	at com.google.firebase.installations.FirebaseInstallations$$ExternalSyntheticLambda3.run(SourceFile:0)
+	at com.google.firebase.concurrent.SequentialExecutor$1.run(SourceFile:117)
+	at com.google.firebase.concurrent.SequentialExecutor$QueueWorker.workOnQueue(SourceFile:229)
+	at com.google.firebase.concurrent.SequentialExecutor$QueueWorker.run(SourceFile:174)
+	... 5 more
+
+Tue Jun 09 2026 at 06:49; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.widget.view.OneSymbolWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]
+Tue Jun 09 2026 at 06:49; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.widget.view.WatchlistWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]

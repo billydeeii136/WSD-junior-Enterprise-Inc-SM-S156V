@@ -1,0 +1,53 @@
+Thu Jun 04 2026 at 10:41; null; Google play available = true
+Thu Jun 04 2026 at 10:41; null; Set en
+Thu Jun 04 2026 at 10:41; null; Current language: en
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_telemetry_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config show_heart_easter_egg : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_chart_news : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_gsn_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_tax_text_enabled : false
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_1st_april : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_snowplow_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_trade_button_text : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_new_promo_banner : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_alert_open : false
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config new_explore : false
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config an_earlybird_offer : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config drawing_mode : true
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Thu Jun 04 2026 at 10:41; null; RemoteConfig. Init config Layout_manage : true
+Thu Jun 04 2026 at 10:41; null; Failed to sync toggles
+com.google.firebase.remoteconfig.FirebaseRemoteConfigClientException: The client had an error while calling the backend!
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:216)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackend(SourceFile:379)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.fetchFromBackendAndCacheResponse(SourceFile:347)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler.$r8$lambda$2M_YxNX84RHSO_CvrLRaJfB-cIg(SourceFile:280)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHandler$$ExternalSyntheticLambda1.then(SourceFile:0)
+	at com.google.android.gms.tasks.zze.run(SourceFile:1)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1154)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:652)
+	at com.google.firebase.concurrent.CustomThreadFactory.$r8$lambda$XB8AY3Hcio74byWuTzgVEC3Hiek(SourceFile:47)
+	at com.google.firebase.concurrent.CustomThreadFactory$$ExternalSyntheticLambda0.run(SourceFile:0)
+	at java.lang.Thread.run(Thread.java:1564)
+Caused by: java.io.IOException: unexpected end of stream on com.android.okhttp.Address@4891448a
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:203)
+	at com.android.okhttp.internal.http.Http1xStream.readResponseHeaders(Http1xStream.java:129)
+	at com.android.okhttp.internal.http.HttpEngine.readNetworkResponse(HttpEngine.java:750)
+	at com.android.okhttp.internal.http.HttpEngine.readResponse(HttpEngine.java:622)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.execute(HttpURLConnectionImpl.java:475)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponse(HttpURLConnectionImpl.java:411)
+	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getResponseCode(HttpURLConnectionImpl.java:542)
+	at com.android.okhttp.internal.huc.DelegatingHttpsURLConnection.getResponseCode(DelegatingHttpsURLConnection.java:106)
+	at com.android.okhttp.internal.huc.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:30)
+	at com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient.fetch(SourceFile:208)
+	... 10 more
+Caused by: java.io.EOFException: \n not found: size=0 content=...
+	at com.android.okhttp.okio.RealBufferedSource.readUtf8LineStrict(RealBufferedSource.java:202)
+	at com.android.okhttp.internal.http.Http1xStream.readResponse(Http1xStream.java:188)
+	... 19 more
+

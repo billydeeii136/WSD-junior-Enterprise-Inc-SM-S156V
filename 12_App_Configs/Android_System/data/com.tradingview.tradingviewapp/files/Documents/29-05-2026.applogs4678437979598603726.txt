@@ -1,0 +1,26 @@
+Fri May 29 2026 at 17:57; null; Google play available = true
+Fri May 29 2026 at 17:57; null; Set en
+Fri May 29 2026 at 17:57; null; Current language: en
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_telemetry_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config show_heart_easter_egg : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_chart_news : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_gsn_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_tax_text_enabled : false
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_1st_april : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_snowplow_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_trade_button_text : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_new_promo_banner : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_alert_open : false
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config new_explore : false
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config an_earlybird_offer : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config drawing_mode : true
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Fri May 29 2026 at 17:57; null; RemoteConfig. Init config Layout_manage : true
+Fri May 29 2026 at 17:57; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.feature.newswidget.impl.pager.view.NewsPagerWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]
+Fri May 29 2026 at 17:57; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.widget.view.OneSymbolWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]
+Fri May 29 2026 at 17:57; null; onReceive Intent { act=android.intent.action.BOOT_COMPLETED flg=0x89000010 cmp=com.tradingview.tradingviewapp/.widget.view.WatchlistWidgetProvider (has extras) } | Bundle[mParcelledData.dataSize=84]

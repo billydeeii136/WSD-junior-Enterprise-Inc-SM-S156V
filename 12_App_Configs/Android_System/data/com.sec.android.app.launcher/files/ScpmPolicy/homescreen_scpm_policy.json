@@ -1,0 +1,15 @@
+{"policy_version":177770,"update_applist": [
+    {
+      "package_name": "com.samsung.android.messaging",
+      "app_version": "15.0.0.1",
+      "available_sdk_version": 15,
+      "store_info": "GalaxyStore"
+    },
+    {
+      "package_name": "com.samsung.android.app.contacts",
+      "app_version": "15.0.0.1",
+      "available_sdk_version": 15,
+      "store_info": "GalaxyStore"
+    }
+  ]
+}

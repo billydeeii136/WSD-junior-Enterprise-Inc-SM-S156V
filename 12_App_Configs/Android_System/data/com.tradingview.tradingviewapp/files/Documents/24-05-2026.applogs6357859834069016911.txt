@@ -1,0 +1,48 @@
+Sun May 24 2026 at 05:06; null; Google play available = true
+Sun May 24 2026 at 05:06; null; Set en
+Sun May 24 2026 at 05:06; null; Current language: en
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_telemetry_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config show_heart_easter_egg : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_chart_news : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_gsn_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_tax_text_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_1st_april : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_snowplow_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_trade_button_text : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_new_promo_banner : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_alert_open : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config new_explore : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_earlybird_offer : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config drawing_mode : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config Layout_manage : true
+Sun May 24 2026 at 05:06; null; Remote config was not updated, using cached values
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_telemetry_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config show_heart_easter_egg : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config easter_egg_snow_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_chart_news : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_gsn_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_native_gopro_screen_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_tax_text_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_1st_april : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_snowplow_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_trade_button_text : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_overview_technicals_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_exoplayer_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_new_promo_banner : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_alert_open : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config new_explore : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config an_earlybird_offer : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config payments_saving_sheet_enabled : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config drawing_mode : true
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config subscriptions_period_sheet_enabled : false
+Sun May 24 2026 at 05:06; null; RemoteConfig. Init config Layout_manage : true
+Sun May 24 2026 at 05:06; null; Check persistent cookies. Size = 3
+Sun May 24 2026 at 05:06; null; Check persistent cookies. Size = 3
+Sun May 24 2026 at 05:06; null; Check persistent cookies. Size = 3
+Sun May 24 2026 at 05:06; null; Firebase token registered
