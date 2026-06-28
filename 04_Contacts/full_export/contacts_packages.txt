@@ -1,0 +1,6 @@
+Error: java.lang.SecurityException: Shell does not have permission to access user 150
+ com.android.server.am.ActivityManagerService.handleIncomingUser:8 android.app.ActivityManager.handleIncomingUser:5755 com.android.server.pm.PackageManagerShellCommand.translateUserId:24 
+package:com.samsung.android.app.contacts
+package:com.samsung.android.providers.contacts
+package:com.sec.android.widgetapp.easymodecontactswidget
+package:com.google.android.contacts
