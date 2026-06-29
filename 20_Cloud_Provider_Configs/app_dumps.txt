@@ -48,3 +48,153 @@ Activity Resolver Table:
           StaticType: "text/plain"
 
 Receiver Resolver Table:
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      text/plain:
+        a4a00c7 com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.ReceiveContent filter ea926f4
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Base MIME Types:
+      text:
+        a4a00c7 com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.ReceiveContent filter ea926f4
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Schemes:
+      com.cloudflare.warp:
+        c9c1e1d com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.settings.account.team.TeamSignInActivity filter 713d892
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.cloudflare.warp"
+          Authority: ".cloudflareaccess.com": -1 WILD
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        f5414e1 com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity filter c2fa206
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.twofortyfouram.locale.intent.action.EDIT_SETTING:
+        25be263 com.cloudflare.onedotonedotonedotone/com.cloudflare.app.ui.activity.PluginActivity filter babbe60
+          Action: "com.twofortyfouram.locale.intent.action.EDIT_SETTING"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        a4a00c7 com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.ReceiveContent filter ea926f4
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        825c88d com.cloudflare.onedotonedotonedotone/androidx.profileinstaller.ProfileInstallReceiver filter 5db7f90
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        825c88d com.cloudflare.onedotonedotonedotone/androidx.profileinstaller.ProfileInstallReceiver filter 53f8a42
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      com.google.android.c2dm.intent.RECEIVE:
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        685a5f2 com.oracle.cegbu.prime.project/.app.AppFlowActivity filter aa39443
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        da4bac0 com.oracle.cegbu.prime.project/androidx.profileinstaller.ProfileInstallReceiver filter 561319f
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        da4bac0 com.oracle.cegbu.prime.project/androidx.profileinstaller.ProfileInstallReceiver filter 8a33f9
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      androidx.profileinstaller.action.SKIP_FILE:
+        da4bac0 com.oracle.cegbu.prime.project/androidx.profileinstaller.ProfileInstallReceiver filter 2442f3e
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        da4bac0 com.oracle.cegbu.prime.project/androidx.profileinstaller.ProfileInstallReceiver filter 77ac2ec
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.oracle.cegbu.prime.project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (202b601):
+    sourcePackage=com.oracle.cegbu.prime.project
+    uid=10356 gids=[] type=0 prot=signature
+    perm=PermissionInfo{6b58ccf com.oracle.cegbu.prime.project.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    flags=0x0
+
+Registered ContentProviders:
+  com.oracle.cegbu.prime.project/io.heap.core.HeapContentProvider:
+    Provider{34e365c com.oracle.cegbu.prime.project/io.heap.core.HeapContentProvider}
+  com.oracle.cegbu.prime.project/androidx.core.content.FileProvider:
+    Provider{4055d65 com.oracle.cegbu.prime.project/androidx.core.content.FileProvider}
+  com.oracle.cegbu.prime.project/io.heap.autocapture.HeapViewAutocaptureContentProvider:
+    Provider{9dbba3a com.oracle.cegbu.prime.project/io.heap.autocapture.HeapViewAutocaptureContentProvider}
+  com.oracle.cegbu.prime.project/androidx.startup.InitializationProvider:
+    Provider{82826eb com.oracle.cegbu.prime.project/androidx.startup.InitializationProvider}
+  com.oracle.cegbu.prime.project/io.heap.autocapture.compose.HeapComposeAutocaptureContentProvider:
+    Provider{9b65c48 com.oracle.cegbu.prime.project/io.heap.autocapture.compose.HeapComposeAutocaptureContentProvider}
+
+ContentProvider Authorities:
+  [com.oracle.cegbu.prime.project]:
+    Provider{4055d65 com.oracle.cegbu.prime.project/androidx.core.content.FileProvider}
+      applicationInfo=ApplicationInfo{461fca6 com.oracle.cegbu.prime.project}
+  [com.oracle.cegbu.prime.project.HeapComposeAutocaptureContentProvider]:
+    Provider{9b65c48 com.oracle.cegbu.prime.project/io.heap.autocapture.compose.HeapComposeAutocaptureContentProvider}
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        e658ed8 com.oraclecloudfoundations/.MainActivity filter 5d3d231
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        8219d16 com.oraclecloudfoundations/androidx.profileinstaller.ProfileInstallReceiver filter 9e2606d
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        8219d16 com.oraclecloudfoundations/androidx.profileinstaller.ProfileInstallReceiver filter 930c697
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+      androidx.profileinstaller.action.SKIP_FILE:
+        8219d16 com.oraclecloudfoundations/androidx.profileinstaller.ProfileInstallReceiver filter 610c084
+          Action: "androidx.profileinstaller.action.SKIP_FILE"
+      androidx.profileinstaller.action.BENCHMARK_OPERATION:
+        8219d16 com.oraclecloudfoundations/androidx.profileinstaller.ProfileInstallReceiver filter 1274a2
+          Action: "androidx.profileinstaller.action.BENCHMARK_OPERATION"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.oraclecloudfoundations.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (b1e2f28):
+    sourcePackage=com.oraclecloudfoundations
+    uid=10357 gids=[] type=0 prot=signature
+    perm=PermissionInfo{6862f58 com.oraclecloudfoundations.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    flags=0x0
+
+Registered ContentProviders:
+  com.oraclecloudfoundations/com.reactnativecommunity.webview.RNCWebViewFileProvider:
+    Provider{f9f28b1 com.oraclecloudfoundations/com.reactnativecommunity.webview.RNCWebViewFileProvider}
+  com.oraclecloudfoundations/androidx.startup.InitializationProvider:
+    Provider{f107196 com.oraclecloudfoundations/androidx.startup.InitializationProvider}
+
+ContentProvider Authorities:
+  [com.oraclecloudfoundations.fileprovider]:
+    Provider{f9f28b1 com.oraclecloudfoundations/com.reactnativecommunity.webview.RNCWebViewFileProvider}
+      applicationInfo=ApplicationInfo{f287441 com.oraclecloudfoundations}
+  [com.oraclecloudfoundations.androidx-startup]:
+    Provider{f107196 com.oraclecloudfoundations/androidx.startup.InitializationProvider}
+      applicationInfo=ApplicationInfo{2eb7de6 com.oraclecloudfoundations}
+
+Key Set Manager:
+  [com.oraclecloudfoundations]
+      Signing KeySets: 405
+
