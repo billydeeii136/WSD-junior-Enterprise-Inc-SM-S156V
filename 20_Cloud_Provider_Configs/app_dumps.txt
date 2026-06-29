@@ -1,0 +1,50 @@
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      text/plain:
+        f0520c0 com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.main.maincontrol.ReceiveContent filter 9a9a1f9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Base MIME Types:
+      text:
+        f0520c0 com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.main.maincontrol.ReceiveContent filter 9a9a1f9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Schemes:
+      cf1app:
+        2cdd2fd com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.main.SplashActivity filter 94dd243
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "cf1app"
+          Authority: "oneapp.cloudflare.com": -1
+          Path: "PatternMatcher{LITERAL: /team}"
+      com.cloudflare.zt:
+        c2a053e com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.settings.account.team.TeamSignInActivity filter 7714f9f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.cloudflare.zt"
+          Authority: ".cloudflareaccess.com": -1 WILD
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        2cdd2fd com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.main.SplashActivity filter 49a1bf2
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      com.twofortyfouram.locale.intent.action.EDIT_SETTING:
+        57b88ec com.cloudflare.cloudflareoneagent/com.cloudflare.app.ui.activity.PluginActivity filter bd964b5
+          Action: "com.twofortyfouram.locale.intent.action.EDIT_SETTING"
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        f0520c0 com.cloudflare.cloudflareoneagent/com.cloudflare.app.presentation.main.maincontrol.ReceiveContent filter 9a9a1f9
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+Receiver Resolver Table:
