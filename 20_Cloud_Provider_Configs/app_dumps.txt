@@ -198,3 +198,403 @@ Key Set Manager:
   [com.oraclecloudfoundations]
       Signing KeySets: 405
 
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      https:
+        c67d291 com.ibm.security.verifyapp/.activities.ConnectAccountActivity filter 78305f6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "idaas.ice.ibmcloud.com": -1
+          Path: "PatternMatcher{GLOB: /register}"
+          Path: "PatternMatcher{GLOB: /qrlogin}"
+          AutoVerify=true
+
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        eed7b1b com.ibm.security.verifyapp/.activities.LaunchActivity filter 881d4b8
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.intent.action.BATTERY_OKAY:
+        3463293 com.ibm.security.verifyapp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy filter 8fe82d0
+          Action: "android.intent.action.BATTERY_OKAY"
+          Action: "android.intent.action.BATTERY_LOW"
+      android.intent.action.ACTION_POWER_DISCONNECTED:
+        82606cd com.ibm.security.verifyapp/androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy filter dd18b82
+          Action: "android.intent.action.ACTION_POWER_DISCONNECTED"
+          Action: "android.intent.action.ACTION_POWER_CONNECTED"
+      com.ibm.security.verifyapp.TRANSACTION_DENY:
+        deadf7 com.ibm.security.verifyapp/.util.push.NotificationActionReceiver filter bdb8464
+          Action: "com.ibm.security.verifyapp.TRANSACTION_DENY"
+          Action: "com.ibm.security.verifyapp.TRANSACTION_APPROVE"
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        e133d3d com.ibm.security.verifyapp/androidx.profileinstaller.ProfileInstallReceiver filter 2604000
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      android.intent.action.DEVICE_STORAGE_LOW:
+        d1942c9 com.ibm.security.verifyapp/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 690ddce
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      android.net.conn.CONNECTIVITY_CHANGE:
+        a9764ef com.ibm.security.verifyapp/androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy filter 310fbfc
+          Action: "android.net.conn.CONNECTIVITY_CHANGE"
+      android.intent.action.DEVICE_STORAGE_OK:
+        d1942c9 com.ibm.security.verifyapp/androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy filter 690ddce
+          Action: "android.intent.action.DEVICE_STORAGE_LOW"
+          Action: "android.intent.action.DEVICE_STORAGE_OK"
+      com.ibm.security.verifyapp.TRANSACTION_APPROVE:
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Non-Data Actions:
+      android.intent.action.MAIN:
+        bf8bde5 com.google.android.apps.cloudconsole/.common.ExternalMainContainerActivity filter 6e2d0ba
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      android.accounts.action.ACCOUNT_REMOVED:
+        17c5361 com.google.android.apps.cloudconsole/com.google.android.libraries.phenotype.client.stable.AccountRemovedBroadcastReceiver filter 15d3e86
+          Action: "android.accounts.action.ACCOUNT_REMOVED"
+      android.accounts.LOGIN_ACCOUNTS_CHANGED:
+        407bb6b com.google.android.apps.cloudconsole/.common.AccountsChangedReceiver filter 22796c8
+          Action: "android.accounts.LOGIN_ACCOUNTS_CHANGED"
+      EXTRA_CHOSEN_COMPONENT:
+        ebe2ce3 com.google.android.apps.cloudconsole/dev.fluttercommunity.plus.share.SharePlusPendingIntent filter 33876e0
+          Action: "EXTRA_CHOSEN_COMPONENT"
+      com.google.android.c2dm.intent.RECEIVE:
+        f49c49d com.google.android.apps.cloudconsole/com.google.firebase.iid.FirebaseInstanceIdReceiver filter abebd12
+          Action: "com.google.android.c2dm.intent.RECEIVE"
+      com.google.android.gms.phenotype.UPDATE:
+        f64a347 com.google.android.apps.cloudconsole/com.google.android.libraries.phenotype.client.stable.PhenotypeUpdateBackgroundBroadcastReceiver filter 7835774
+          Action: "com.google.android.gms.phenotype.UPDATE"
+
+Service Resolver Table:
+  Non-Data Actions:
+      com.google.android.build.data.Properties:
+        9b2555b com.google.android.apps.cloudconsole/com.google.android.build.data.PropertiesServiceHolder filter 65241f8
+          Action: "com.google.android.build.data.Properties"
+      com.google.firebase.MESSAGING_EVENT:
+        4830d99 com.google.android.apps.cloudconsole/.services.CloudConsoleMessagingService filter 747985e
+          Action: "com.google.firebase.MESSAGING_EVENT"
+        66dea55 com.google.android.apps.cloudconsole/com.google.firebase.messaging.FirebaseMessagingService filter cf0dc6a
+          Action: "com.google.firebase.MESSAGING_EVENT"
+          mPriority=-500, mOrder=0, mHasStaticPartialTypes=false, mHasDynamicPartialTypes=false
+      com.google.android.libraries.phenotype.registration.PhenotypeMetadataHolderService:
+        9cb43f com.google.android.apps.cloudconsole/com.google.android.libraries.phenotype.registration.PhenotypeMetadataHolderService filter 95e210c
+          Action: "com.google.android.libraries.phenotype.registration.PhenotypeMetadataHolderService"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.google.android.apps.cloudconsole.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION] (7e8a2bf):
+    sourcePackage=com.google.android.apps.cloudconsole
+    uid=10465 gids=[] type=0 prot=signature
+    perm=PermissionInfo{c9185f2 com.google.android.apps.cloudconsole.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION}
+    flags=0x0
+
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      http:
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter 62fa3f2
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "string": -1
+          Path: "PatternMatcher{LITERAL: /deep_link_loadingFragment}"
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter 568ba43
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "string": -1
+          Path: "PatternMatcher{LITERAL: /deep_link_prosecutedUpdateFragment}"
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter 929e8c0
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "string": -1
+          Path: "PatternMatcher{LITERAL: /deep_link_notificationTabScreenResolver}"
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter 42c9f9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "string": -1
+          Path: "PatternMatcher{LITERAL: /deep_link_resource_explorer}"
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter 5900d3e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "string": -1
+          Path: "PatternMatcher{LITERAL: /deep_link_identitiesScreen}"
+        7176b54 com.amazon.aws.console.mobile/.ui.MainActivity filter e52b79f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      mspasskey:
+        945743a com.azure.authenticator/.ui.LaunchActivity filter 6cbece1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "microsoft-authenticator"
+          Scheme: "otpauth"
+          Scheme: "samsung-otpauth"
+          Scheme: "ms-msa"
+          Scheme: "mspasskey"
+          Scheme: "authapp"
+          Authority: "activateMfa": -1
+          Authority: "totp": -1
+          Authority: "totp": -1
+          Authority: "msitregistration": -1
+          Authority: "account-add": -1
+          Authority: "account-wizard": -1
+      samsung-otpauth:
+        945743a com.azure.authenticator/.ui.LaunchActivity filter 6cbece1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "microsoft-authenticator"
+          Scheme: "otpauth"
+          Scheme: "samsung-otpauth"
+          Scheme: "ms-msa"
+          Scheme: "mspasskey"
+          Scheme: "authapp"
+          Authority: "activateMfa": -1
+          Authority: "totp": -1
+          Authority: "totp": -1
+          Authority: "msitregistration": -1
+          Authority: "account-add": -1
+          Authority: "account-wizard": -1
+      otpauth:
+        945743a com.azure.authenticator/.ui.LaunchActivity filter 6cbece1
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "microsoft-authenticator"
+          Scheme: "otpauth"
+          Scheme: "samsung-otpauth"
+          Scheme: "ms-msa"
+          Scheme: "mspasskey"
+          Scheme: "authapp"
+          Authority: "activateMfa": -1
+          Authority: "totp": -1
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      vnd.android.cursor.dir/event:
+        263b9b8 com.microsoft.office.outlook/.calendar.CalendarDispatcherActivity filter 2ebf2f6
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "vnd.android.cursor.dir/event"
+      application/ics:
+        263b9b8 com.microsoft.office.outlook/.calendar.CalendarDispatcherActivity filter b5c4882
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "content"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          StaticType: "application/ics"
+      text/calendar:
+        263b9b8 com.microsoft.office.outlook/.calendar.CalendarDispatcherActivity filter 6197cd
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "content"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          StaticType: "text/calendar"
+      time/epoch:
+        263b9b8 com.microsoft.office.outlook/.calendar.CalendarDispatcherActivity filter 35c5391
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.APP_CALENDAR"
+          Scheme: "content"
+          Authority: "com.android.calendar": -1
+          StaticType: "time/epoch"
+      */*:
+        69807d0 com.microsoft.office.outlook/.compose.ComposeLauncherActivity filter 13dd0fc
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SENDTO"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        69807d0 com.microsoft.office.outlook/.compose.ComposeLauncherActivity filter be6f385
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      vnd.android.cursor.item/event:
+        263b9b8 com.microsoft.office.outlook/.calendar.CalendarDispatcherActivity filter 2c196f7
+          Action: "android.intent.action.INSERT"
+          Category: "android.intent.category.DEFAULT"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      text/comma-separated-values:
+        d8955bb com.microsoft.office.excel/.excelMainActivity filter 621916
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-excel.sheet.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.macroEnabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          StaticType: "application/vnd.oasis.opendocument.spreadsheet"
+          StaticType: "text/csv"
+          StaticType: "text/comma-separated-values"
+          StaticType: "application/vnd.ms-excel"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+          StaticType: "application/vnd.ms-excel.template.macroEnabled.12"
+          StaticType: "application/xlsb"
+          StaticType: "application/xlsm"
+        e2495a1 com.microsoft.office.excel/com.microsoft.android.crosssell.activities.ExcelCrossSellHandlerActivity filter 6b0f3c6
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-excel.sheet.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.macroEnabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          StaticType: "application/vnd.oasis.opendocument.spreadsheet"
+          StaticType: "text/csv"
+          StaticType: "text/comma-separated-values"
+          StaticType: "application/vnd.ms-excel"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+          StaticType: "application/vnd.ms-excel.template.macroEnabled.12"
+          StaticType: "application/xlsb"
+          StaticType: "application/xlsm"
+      application/vnd.oasis.opendocument.text:
+        4612eb4 com.microsoft.office.excel/com.microsoft.android.crosssell.activities.WordCrossSellHandlerActivity filter bb88652
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-word.document.macroenabled.12"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      text/comma-separated-values:
+        4f717d9 com.microsoft.office.word/com.microsoft.android.crosssell.activities.ExcelCrossSellHandlerActivity filter 14f759e
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-excel.sheet.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.macroEnabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroenabled.12"
+          StaticType: "application/vnd.ms-excel.sheet.binary.macroEnabled.12"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          StaticType: "application/vnd.oasis.opendocument.spreadsheet"
+          StaticType: "text/csv"
+          StaticType: "text/comma-separated-values"
+          StaticType: "application/vnd.ms-excel"
+          StaticType: "application/vnd.openxmlformats-officedocument.spreadsheetml.template"
+          StaticType: "application/vnd.ms-excel.template.macroEnabled.12"
+          StaticType: "application/xlsb"
+          StaticType: "application/xlsm"
+      application/vnd.oasis.opendocument.text:
+        f295297 com.microsoft.office.word/.WordActivity filter 9a68133
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-word.document.macroenabled.12"
+          StaticType: "application/vnd.ms-word.document.macroEnabled.12"
+          StaticType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          StaticType: "application/vnd.openxmlformats-officedocument.wordprocessingml.template"
+          StaticType: "application/msword"
+          StaticType: "application/vnd.oasis.opendocument.text"
+          StaticType: "application/vnd.ms-word.document.12"
+          StaticType: "application/rtf"
+          StaticType: "text/rtf"
+          StaticType: "text/plain"
+          StaticType: "application/docm"
+        430604c com.microsoft.office.word/com.microsoft.android.crosssell.activities.WordCrossSellHandlerActivity filter db94daa
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Action: "com.dropbox.android.intent.action.DBXC_EDIT"
+          Action: "com.dropbox.android.intent.action.DBXC_VIEW"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/vnd.ms-word.document.macroenabled.12"
+          StaticType: "application/vnd.ms-word.document.macroEnabled.12"
+          StaticType: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+DUMP OF SERVICE package:
+Unable to find package: com.microsoft.office.powerpoint
+
+DUMP OF SERVICE activity:
+ACTIVITY MANAGER SETTINGS (dumpsys activity settings) activity_manager_constants:
+  max_cached_processes=534
+  background_settle_time=60000
+  fgservice_min_shown_time=2000
+  fgservice_min_report_time=3000
+  fgservice_screen_on_before_time=1000
+  fgservice_screen_on_after_time=5000
+  fgs_boot_completed_allowlist=1073743640
+  content_provider_retain_time=20000
+  gc_timeout=5000
+  gc_min_interval=60000
+  force_bg_check_on_restricted=true
+  full_pss_min_interval=1200000
+  full_pss_lowered_interval=300000
+  power_check_interval=300000
+  power_check_max_cpu_1=25
+  power_check_max_cpu_2=25
+  power_check_max_cpu_3=10
+  power_check_max_cpu_4=2
+  service_usage_interaction_time=1800000
+  service_usage_interaction_time_post_s=60000
+  usage_stats_interaction_interval=7200000
+  usage_stats_interaction_interval_post_s=600000
+  service_restart_duration=1000
+  service_reset_run_duration=60000
+  service_restart_duration_factor=4
+  service_min_restart_time_between=10000
+  service_max_inactivity=1800000
+  service_bg_start_timeout=15000
+  service_bg_activity_start_timeout=10000
+  service_crash_restart_duration=1800000
+  service_crash_max_retry=16
+  process_start_async=true
+  memory_info_throttle_time=300000
+  top_to_fgs_grace_duration=15000
+  top_to_almost_perceptible_grace_duration=15000
+  min_crash_interval=120000
+  process_crash_count_reset_interval=43200000
+  process_crash_count_limit=12
+  imperceptible_kill_exempt_proc_states=[0, 1, 2, 4, 12]
+  imperceptible_kill_exempt_packages=[]
+  min_assoc_log_duration=300000
+  binder_heavy_hitter_watcher_enabled=false
+  binder_heavy_hitter_watcher_batchsize=2000
+  binder_heavy_hitter_watcher_threshold=0.333
+  binder_heavy_hitter_auto_sampler_enabled=false
