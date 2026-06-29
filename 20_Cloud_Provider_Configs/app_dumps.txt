@@ -598,3 +598,503 @@ ACTIVITY MANAGER SETTINGS (dumpsys activity settings) activity_manager_constants
   binder_heavy_hitter_watcher_batchsize=2000
   binder_heavy_hitter_watcher_threshold=0.333
   binder_heavy_hitter_auto_sampler_enabled=false
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      image/jpeg:
+        15c5142 com.microsoft.skydrive/.photoviewer.EditPhotoActivity filter 1ce553
+          Action: "android.intent.action.EDIT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image/jpeg"
+          StaticType: "image/png"
+      application/pdf:
+        6cbf1cf com.microsoft.skydrive/.pdfviewer.PdfIntentHandlerActivity filter d9d375c
+          Action: "android.intent.action.EDIT"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "file"
+          Scheme: "content"
+          Authority: "": -1 WILD
+          StaticType: "application/pdf"
+      image/png:
+        15c5142 com.microsoft.skydrive/.photoviewer.EditPhotoActivity filter 1ce553
+          Action: "android.intent.action.EDIT"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image/jpeg"
+          StaticType: "image/png"
+      */*:
+        177dfb com.microsoft.skydrive/.intent.actionsend.ReceiveActionSendActivity filter d854e18
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        d55fed7 com.microsoft.skydrive/.intent.getcontent.ReceiveGetContentActivity filter 28d33c4
+          Action: "android.intent.action.GET_CONTENT"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.OPENABLE"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        a230ca9 com.microsoft.skydrive/.navigation.UrlFileIntentHandlerActivity filter 27e122e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "file"
+          Authority: "": -1 WILD
+          Authority: "": -1 WILD
+          Path: "PatternMatcher{GLOB: /.*.url}"
+          Path: "PatternMatcher{GLOB: /.*.URL}"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      video/*:
+DUMP OF SERVICE package:
+Unable to find package: com.microsoft.teams
+
+DUMP OF SERVICE activity:
+ACTIVITY MANAGER SETTINGS (dumpsys activity settings) activity_manager_constants:
+  max_cached_processes=534
+  background_settle_time=60000
+  fgservice_min_shown_time=2000
+  fgservice_min_report_time=3000
+  fgservice_screen_on_before_time=1000
+  fgservice_screen_on_after_time=5000
+  fgs_boot_completed_allowlist=1073743640
+  content_provider_retain_time=20000
+  gc_timeout=5000
+  gc_min_interval=60000
+  force_bg_check_on_restricted=true
+  full_pss_min_interval=1200000
+  full_pss_lowered_interval=300000
+  power_check_interval=300000
+  power_check_max_cpu_1=25
+  power_check_max_cpu_2=25
+  power_check_max_cpu_3=10
+  power_check_max_cpu_4=2
+  service_usage_interaction_time=1800000
+  service_usage_interaction_time_post_s=60000
+  usage_stats_interaction_interval=7200000
+  usage_stats_interaction_interval_post_s=600000
+  service_restart_duration=1000
+  service_reset_run_duration=60000
+  service_restart_duration_factor=4
+  service_min_restart_time_between=10000
+  service_max_inactivity=1800000
+  service_bg_start_timeout=15000
+  service_bg_activity_start_timeout=10000
+  service_crash_restart_duration=1800000
+  service_crash_max_retry=16
+  process_start_async=true
+  memory_info_throttle_time=300000
+  top_to_fgs_grace_duration=15000
+  top_to_almost_perceptible_grace_duration=15000
+  min_crash_interval=120000
+  process_crash_count_reset_interval=43200000
+  process_crash_count_limit=12
+  imperceptible_kill_exempt_proc_states=[0, 1, 2, 4, 12]
+  imperceptible_kill_exempt_packages=[]
+  min_assoc_log_duration=300000
+  binder_heavy_hitter_watcher_enabled=false
+  binder_heavy_hitter_watcher_batchsize=2000
+  binder_heavy_hitter_watcher_threshold=0.333
+  binder_heavy_hitter_auto_sampler_enabled=false
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      paypal_internal:
+        e98911b com.paypal.android.p2pmobile/.common.activities.InternalDeepLinkHandlerActivity filter 90e32b8
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "paypal_internal"
+          Authority: "": -1 WILD
+      paypal-internal:
+        e98911b com.paypal.android.p2pmobile/.common.activities.InternalDeepLinkHandlerActivity filter cfd891
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "paypal-internal"
+          Authority: "": -1 WILD
+      com.paypal.android.p2pmobile:
+        44d543c com.paypal.android.p2pmobile/.common.activities.AddPaymentFlowActivity filter 6ff55c5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "com.paypal.android.p2pmobile"
+          Authority: "options_details_payment_account_card": -1
+        44d543c com.paypal.android.p2pmobile/.common.activities.AddPaymentFlowActivity filter 237bb1a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "com.paypal.android.p2pmobile"
+          Authority: "options_details_wallet_details": -1
+        dba9372 com.paypal.android.p2pmobile/.onlinebackup.activities.ManageOnlineBackupsActivity filter d89b3c3
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "com.paypal.android.p2pmobile"
+          Authority: "backup_funding": -1
+        8fe1d70 com.paypal.android.p2pmobile/.trading.ui.disputes.DisputesDeeplinkActivity filter 5cad8e9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.paypal.android.p2pmobile"
+          Authority: "trading_dispute": -1
+        2ab896e com.paypal.android.p2pmobile/.trading.ui.provision.ui.ProvisioningActivity filter ffd380f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "com.paypal.android.p2pmobile"
+          Authority: "trading_provision": -1
+      mailto:
+        da193f6 com.paypal.android.p2pmobile/.common.activities.DeepLinkActivity filter bcfc264
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.SENDTO"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      venmosdk:
+        5534cd1 com.venmo/.p2p.compose.ComposeHostContainer filter 859336
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "venmosdk"
+          AutoVerify=true
+      venmobranchsdk:
+        2764961 com.venmo/.android.platform.AppExperienceLauncherActivity filter 6660055
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "venmobranchsdk"
+      paypal:
+        2764961 com.venmo/.android.platform.AppExperienceLauncherActivity filter dc44e0
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "paypal"
+          Authority: "assistant": -1
+        d7aa610 com.venmo/com.paypal.android.platform.core.auth.paypal.ui.login.weblogin.IdentityDeepLinkActivity filter c31c509
+          Action: "android.intent.action.IDENTITY"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "paypal"
+          Authority: "identity_qrc": -1
+      tacocats:
+        84c133c com.venmo/com.paypal.pyplcheckout.home.view.activities.PYPLInitiateCheckoutActivity filter 2a8a8c5
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.venmo"
+          Scheme: "tacocats"
+          Authority: "paypalxo": -1
+          Authority: "paypalxo": -1
+          AutoVerify=true
+      http:
+        2764961 com.venmo/.android.platform.AppExperienceLauncherActivity filter 6e64574
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "https"
+          Scheme: "http"
+          Authority: "venmo.com": -1
+          AutoVerify=true
+      https:
+        2764961 com.venmo/.android.platform.AppExperienceLauncherActivity filter fe68947
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      cashme:
+        ee30c48 com.squareup.cash/.ui.MainActivity filter c028692
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.BROWSABLE"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "cashme"
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+          Authority: "cash.me": -1
+          Authority: "cash.app": -1
+          Authority: "cash.me": -1
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      com.onefinance.one:
+        c162920 com.onefinance.one/com.auth0.react.RedirectActivity filter 4b772d9
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "com.onefinance.one"
+          Authority: "auth.onefinance.com": -1
+          Path: "PatternMatcher{PREFIX: /android/com.onefinance.one/callback}"
+          AutoVerify=true
+      onepay:
+        fe60287 com.onefinance.one/.MainActivity filter e2655dd
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "onepay"
+      scribeup:
+        3f0349e com.onefinance.one/io.scribeup.scribeupsdk.ui.CustomTabLauncherActivity filter d82bb7f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "scribeup"
+          Authority: "com.onefinance.one": -1
+          Path: "PatternMatcher{LITERAL: /closeSafari}"
+      http:
+        fe60287 com.onefinance.one/.MainActivity filter 1164023
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Scheme: "http"
+          Authority: "hello.one.app": -1
+          Authority: "hello.onepay.com": -1
+          Authority: "one.app.link": -1
+          Authority: "one-alternate.app.link": -1
+          Authority: "ablink.account.one.app": -1
+          Authority: "ablink.update.one.app": -1
+          Authority: "ablink.account.onepay.com": -1
+          Authority: "ablink.info.onepay.com": -1
+          Authority: "ablink.update.onepay.com": -1
+          Authority: "ablink.research.onepay.com": -1
+          Authority: "url3092.onepay.com": -1
+          Authority: "url5737.servicing.onepay.com": -1
+          AutoVerify=true
+      https:
+        fe60287 com.onefinance.one/.MainActivity filter a6a1552
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      creditwise:
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter 393fb4e
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "summary": -1
+          AutoVerify=true
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter 8e7f46f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "creditreport": -1
+          Path: "PatternMatcher{LITERAL: /accounts}"
+          AutoVerify=true
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter 417157c
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "creditreport": -1
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter 481e05
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "improvement": -1
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter 4b87e5a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "coronavirus-faq": -1
+        ce86649 com.capitalone.credittracker/.shared.ui.DeepLinkActivityRequiresFCR filter ca9688b
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "creditwise"
+          Authority: "keyfactor": -1
+          Path: "PatternMatcher{LITERAL: /ontimepayments}"
+          Path: "PatternMatcher{LITERAL: /oldestcreditline}"
+          Path: "PatternMatcher{LITERAL: /utilization}"
+          Path: "PatternMatcher{LITERAL: /recentinquiries}"
+          Path: "PatternMatcher{LITERAL: /newaccounts}"
+          Path: "PatternMatcher{LITERAL: /creditbalance}"
+          AutoVerify=true
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      text/plain:
+        6b6f7ac com.theoldpointnationalbankofphoebus3609.mobile/com.q2.app.core.ui.MainActivity filter 6660c75
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Base MIME Types:
+      text:
+        6b6f7ac com.theoldpointnationalbankofphoebus3609.mobile/com.q2.app.core.ui.MainActivity filter 6660c75
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+
+  Schemes:
+      app:
+        6b6f7ac com.theoldpointnationalbankofphoebus3609.mobile/com.q2.app.core.ui.MainActivity filter 8bd240a
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "app"
+          Authority: "com.theoldpointnationalbankofphoebus3609.mobile": -1
+          Path: "PatternMatcher{PREFIX: /open}"
+      pendo-b483aa68:
+        417faf1 com.theoldpointnationalbankofphoebus3609.mobile/sdk.pendo.io.activities.PendoGateActivity filter 41176d6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "pendo-b483aa68"
+
+  Non-Data Actions:
+      SAC_VIA_PUSH:
+        33f947b com.theoldpointnationalbankofphoebus3609.mobile/com.q2.q2_2fa.userauthorization.UserAuthorizationActivity filter 371e298
+          Action: "SAC_VIA_PUSH"
+          Category: "android.intent.category.DEFAULT"
+      android.intent.action.MAIN:
+        800a5fe com.theoldpointnationalbankofphoebus3609.mobile/com.q2.app.core.ui.LauncherActivity filter b4e415f
+          Action: "android.intent.action.MAIN"
+          Category: "android.intent.category.LAUNCHER"
+      b483aa68:
+        417faf1 com.theoldpointnationalbankofphoebus3609.mobile/sdk.pendo.io.activities.PendoGateActivity filter d28fd57
+          Action: "b483aa68"
+          Category: "android.intent.category.DEFAULT"
+
+  MIME Typed Actions:
+      android.intent.action.SEND_MULTIPLE:
+        6b6f7ac com.theoldpointnationalbankofphoebus3609.mobile/com.q2.app.core.ui.MainActivity filter 6660c75
+          Action: "android.intent.action.SEND_MULTIPLE"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      http:
+        6d29ea6 com.walmart.android/com.walmart.glass.integration.splash.SplashActivity filter 2df1483
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Scheme: "http"
+          Authority: "w-mt.co": -1
+          Path: "PatternMatcher{PREFIX: /g/}"
+          Path: "PatternMatcher{PREFIX: /l/g/}"
+          Path: "PatternMatcher{PREFIX: /q/}"
+          AutoVerify=true
+        6d29ea6 com.walmart.android/com.walmart.glass.integration.splash.SplashActivity filter d490fb
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "www.speedpassplus.info": -1
+          Path: "PatternMatcher{PREFIX: /qr/detect}"
+          Path: "PatternMatcher{PREFIX: /QR/detect}"
+          AutoVerify=true
+      https:
+        6d29ea6 com.walmart.android/com.walmart.glass.integration.splash.SplashActivity filter d7e3b3d
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "https"
+          Authority: "www.walmart.com": -1
+          Path: "PatternMatcher{LITERAL: }"
+          Path: "PatternMatcher{LITERAL: /}"
+          Path: "PatternMatcher{LITERAL: /acccheckin}"
+          Path: "PatternMatcher{LITERAL: /account}"
+          Path: "PatternMatcher{LITERAL: /account/}"
+          Path: "PatternMatcher{LITERAL: /account/ccpa}"
+          Path: "PatternMatcher{LITERAL: /account/delivery-addresses}"
+          Path: "PatternMatcher{LITERAL: /account/fashion}"
+          Path: "PatternMatcher{LITERAL: /account/giftcards}"
+          Path: "PatternMatcher{LITERAL: /account/passkeys}"
+          Path: "PatternMatcher{LITERAL: /account/petHub}"
+          Path: "PatternMatcher{LITERAL: /account/plus/accept-invite}"
+          Path: "PatternMatcher{LITERAL: /account/plus/manage}"
+          Path: "PatternMatcher{LITERAL: /account/plus/overview}"
+          Path: "PatternMatcher{LITERAL: /account/plus/rx-benefit}"
+          Path: "PatternMatcher{LITERAL: /account/profile}"
+          Path: "PatternMatcher{LITERAL: /account/setcompromised}"
+          Path: "PatternMatcher{LITERAL: /account/signup}"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      http:
+        539a904 com.netflix.mediaclient/.ui.launch.NetflixComLaunchActivity filter 8245eed
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+          Scheme: "https"
+          Authority: "www.netflix.com": -1
+          Authority: "www.netflix.com": -1
+          Authority: "www.netflix.com": -1
+          Authority: "www.netflix.com": -1
+          Path: "PatternMatcher{GLOB: /browse}"
+          Path: "PatternMatcher{GLOB: /.*/browse}"
+          Path: "PatternMatcher{GLOB: /browse/genre/.*}"
+          Path: "PatternMatcher{GLOB: /.*/browse/genre/.*}"
+          Path: "PatternMatcher{GLOB: /browse/coming-soon}"
+          Path: "PatternMatcher{GLOB: /browse/my-list}"
+          Path: "PatternMatcher{GLOB: /.*/browse/coming-soon}"
+          Path: "PatternMatcher{GLOB: /browse/audio-description}"
+          Path: "PatternMatcher{GLOB: /.*/browse/audio-description}"
+          Path: "PatternMatcher{GLOB: /specials/.*}"
+          Path: "PatternMatcher{GLOB: /Kids/title/.*}"
+          Path: "PatternMatcher{GLOB: /Kids/character/.*}"
+          Path: "PatternMatcher{GLOB: /game}"
+          Path: "PatternMatcher{GLOB: /game/.*}"
+          Path: "PatternMatcher{GLOB: /.*/game/.*}"
+          Path: "PatternMatcher{GLOB: /games}"
+          Path: "PatternMatcher{GLOB: /games/.*}"
+          Path: "PatternMatcher{GLOB: /.*/games/.*}"
+          Path: "PatternMatcher{GLOB: /title/.*}"
+          Path: "PatternMatcher{GLOB: /.*/title/.*}"
+          Path: "PatternMatcher{GLOB: /watch/.*}"
+          Path: "PatternMatcher{GLOB: /.*/watch/.*}"
+          Path: "PatternMatcher{GLOB: /nmwatch/.*}"
+          Path: "PatternMatcher{GLOB: /.*/nmwatch/.*}"
+          Path: "PatternMatcher{GLOB: /clips}"
+          Path: "PatternMatcher{GLOB: /Clips}"
+          Path: "PatternMatcher{GLOB: /CLIPS}"
+          Path: "PatternMatcher{GLOB: /.*/clips}"
+          Path: "PatternMatcher{GLOB: /.*/Clips}"
+          Path: "PatternMatcher{GLOB: /.*/CLIPS}"
+          Path: "PatternMatcher{GLOB: /clips/.*}"
+          Path: "PatternMatcher{GLOB: /Clips/.*}"
+          Path: "PatternMatcher{GLOB: /CLIPS/.*}"
+          Path: "PatternMatcher{GLOB: /search}"
+          Path: "PatternMatcher{GLOB: /search/.*}"
+          Path: "PatternMatcher{GLOB: /.*/search}"
