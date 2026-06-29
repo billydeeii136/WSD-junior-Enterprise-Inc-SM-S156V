@@ -1098,3 +1098,103 @@ Activity Resolver Table:
           Path: "PatternMatcher{GLOB: /search}"
           Path: "PatternMatcher{GLOB: /search/.*}"
           Path: "PatternMatcher{GLOB: /.*/search}"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      */*:
+        ce774e0 com.yahoo.mobile.client.android.mail/com.yahoo.mail.ui.activities.MailPlusPlusActivity filter 1de4a3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ce774e0 com.yahoo.mobile.client.android.mail/com.yahoo.mail.ui.activities.MailPlusPlusActivity filter 1feff0c
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Wild MIME Types:
+      *:
+        ce774e0 com.yahoo.mobile.client.android.mail/com.yahoo.mail.ui.activities.MailPlusPlusActivity filter 1de4a3f
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        ce774e0 com.yahoo.mobile.client.android.mail/com.yahoo.mail.ui.activities.MailPlusPlusActivity filter 1feff0c
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Schemes:
+      yahoo.mail:
+        877ea6a com.yahoo.mobile.client.android.mail/.activity.MainActivity filter b22fff8
+          Action: "com.yahoo.mail.action.LAUNCH_MAIN"
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "yahoo.mail"
+      mailto:
+        ce774e0 com.yahoo.mobile.client.android.mail/com.yahoo.mail.ui.activities.MailPlusPlusActivity filter d9c65e
+          Action: "android.intent.action.VIEW"
+          Action: "com.yahoo.android.mail.send_message"
+          Action: "android.intent.action.SENDTO"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "mailto"
+      http:
+        877ea6a com.yahoo.mobile.client.android.mail/.activity.MainActivity filter 6d54237
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Category: "android.intent.category.BROWSABLE"
+          Scheme: "http"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      application/gmail-ls:
+        3ab3869 com.google.android.gm/.ConversationListActivityGmail filter 977638f
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "application/gmail-ls"
+        7c5261c com.google.android.gm/.ConversationListActivityGoogleMail filter 25d8ffa
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          StaticType: "application/gmail-ls"
+      */*:
+        3a19ef9 com.google.android.gm/.AutoSendActivity filter 7d6be3e
+          Action: "com.google.android.gm.action.AUTO_SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        21e9b13 com.google.android.gm/.ComposeActivityGmailExternal filter 285e27c
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          Category: "com.google.android.voicesearch.SELF_NOTE"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        21e9b13 com.google.android.gm/.ComposeActivityGmailExternal filter 5eb6705
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        9737d98 com.google.android.gm/com.google.android.apps.dynamite.DynamiteDeepLinkMultiple filter 200f9f1
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "*"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+      vnd.android.cursor.item/vnd.com.google.android.gm.label:
+        5f88ba1 com.google.android.gm/.PublicGmailActivity filter 4e4b1c6
+          Action: "android.intent.action.VIEW"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "content"
+          Authority: "com.google.android.gm": -1
+          StaticType: "vnd.android.cursor.item/vnd.com.google.android.gm.label"
+      text/plain:
+        9737d98 com.google.android.gm/com.google.android.apps.dynamite.DynamiteDeepLinkMultiple filter 7f809d6
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "text/plain"
+      application/gm-email-ls:

@@ -1,0 +1,200 @@
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      image/heif:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter 9808290
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image/jpg"
+          StaticType: "image/jpeg"
+          StaticType: "image/heif"
+      image/jpeg:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter 9808290
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image/jpg"
+          StaticType: "image/jpeg"
+          StaticType: "image/heif"
+      image/jpg:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter 9808290
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image/jpg"
+          StaticType: "image/jpeg"
+          StaticType: "image/heif"
+      application/etdx:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter f1237af
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/etdx"
+          StaticType: "application/octet-stream"
+      application/octet-stream:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter f1237af
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/etdx"
+          StaticType: "application/octet-stream"
+
+  Base MIME Types:
+      image:
+        ade1542 com.epson.mobilephone.creative/.main.EpsonPrintSharedActivity filter 9808290
+          Action: "android.intent.action.SEND"
+          Action: "android.intent.action.VIEW"
+          Action: "android.intent.action.SEND_MULTIPLE"
+          Category: "android.intent.category.DEFAULT"
+DUMP OF SERVICE package:
+Unable to find package: com.epson.epsonmart
+
+DUMP OF SERVICE activity:
+ACTIVITY MANAGER SETTINGS (dumpsys activity settings) activity_manager_constants:
+  max_cached_processes=534
+  background_settle_time=60000
+  fgservice_min_shown_time=2000
+  fgservice_min_report_time=3000
+  fgservice_screen_on_before_time=1000
+  fgservice_screen_on_after_time=5000
+  fgs_boot_completed_allowlist=1073743640
+  content_provider_retain_time=20000
+  gc_timeout=5000
+  gc_min_interval=60000
+  force_bg_check_on_restricted=true
+  full_pss_min_interval=1200000
+  full_pss_lowered_interval=300000
+  power_check_interval=300000
+  power_check_max_cpu_1=25
+  power_check_max_cpu_2=25
+  power_check_max_cpu_3=10
+  power_check_max_cpu_4=2
+  service_usage_interaction_time=1800000
+  service_usage_interaction_time_post_s=60000
+  usage_stats_interaction_interval=7200000
+  usage_stats_interaction_interval_post_s=600000
+  service_restart_duration=1000
+  service_reset_run_duration=60000
+  service_restart_duration_factor=4
+  service_min_restart_time_between=10000
+  service_max_inactivity=1800000
+  service_bg_start_timeout=15000
+  service_bg_activity_start_timeout=10000
+  service_crash_restart_duration=1800000
+  service_crash_max_retry=16
+  process_start_async=true
+  memory_info_throttle_time=300000
+  top_to_fgs_grace_duration=15000
+  top_to_almost_perceptible_grace_duration=15000
+  min_crash_interval=120000
+  process_crash_count_reset_interval=43200000
+  process_crash_count_limit=12
+  imperceptible_kill_exempt_proc_states=[0, 1, 2, 4, 12]
+  imperceptible_kill_exempt_packages=[]
+  min_assoc_log_duration=300000
+  binder_heavy_hitter_watcher_enabled=false
+  binder_heavy_hitter_watcher_batchsize=2000
+  binder_heavy_hitter_watcher_threshold=0.333
+  binder_heavy_hitter_auto_sampler_enabled=false
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Full MIME Types:
+      application/pdf:
+        d43f348 com.android.bips/.PdfPrintActivity filter bbeb5e1
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/pdf"
+      image/*:
+        9c3b93a com.android.bips/.ImagePrintActivity filter 7a1b9eb
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  Base MIME Types:
+      application:
+        d43f348 com.android.bips/.PdfPrintActivity filter bbeb5e1
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/pdf"
+
+  Wild MIME Types:
+      image:
+        9c3b93a com.android.bips/.ImagePrintActivity filter 7a1b9eb
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+
+  MIME Typed Actions:
+      android.intent.action.SEND:
+        9c3b93a com.android.bips/.ImagePrintActivity filter 7a1b9eb
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "image"
+          mPriority=0, mOrder=0, mHasStaticPartialTypes=true, mHasDynamicPartialTypes=false
+        d43f348 com.android.bips/.PdfPrintActivity filter bbeb5e1
+          Action: "android.intent.action.SEND"
+          Category: "android.intent.category.DEFAULT"
+          StaticType: "application/pdf"
+
+Receiver Resolver Table:
+  Non-Data Actions:
+      androidx.profileinstaller.action.SAVE_PROFILE:
+        8a42f06 com.android.bips/androidx.profileinstaller.ProfileInstallReceiver filter b8fcf1d
+          Action: "androidx.profileinstaller.action.SAVE_PROFILE"
+      androidx.profileinstaller.action.INSTALL_PROFILE:
+        8a42f06 com.android.bips/androidx.profileinstaller.ProfileInstallReceiver filter 8e009c7
+          Action: "androidx.profileinstaller.action.INSTALL_PROFILE"
+DUMP OF SERVICE package:
+Activity Resolver Table:
+  Schemes:
+      printjob:
+        604c2b0 com.android.printspooler/.ui.PrintActivity filter 778b529
+          Action: "android.print.PRINT_DIALOG"
+          Category: "android.intent.category.DEFAULT"
+          Scheme: "printjob"
+          Path: "PatternMatcher{GLOB: *}"
+
+Domain verification status:
+
+Permissions:
+  Permission [com.android.printspooler.permission.ACCESS_ALL_PRINT_JOBS] (49ca57):
+    sourcePackage=com.android.printspooler
+    uid=10183 gids=[] type=0 prot=signature
+    perm=PermissionInfo{15bd944 com.android.printspooler.permission.ACCESS_ALL_PRINT_JOBS}
+    flags=0x0
+
+Permissions:
+  Permission [android.permission.START_PRINT_SERVICE_CONFIG_ACTIVITY] (ee66a2d):
+    sourcePackage=com.android.printspooler
+    uid=10183 gids=[] type=0 prot=signature
+    perm=PermissionInfo{8431b62 android.permission.START_PRINT_SERVICE_CONFIG_ACTIVITY}
+    flags=0x0
+
+Key Set Manager:
+  [com.android.printspooler]
+      Signing KeySets: 2
+
+Packages:
+  Package [com.android.printspooler] (6b6b4f3):
+    appId=10183
+    pkg=Package{ddf45b0 com.android.printspooler}
+    codePath=/system/app/PrintSpooler
+    resourcePath=/system/app/PrintSpooler
+    legacyNativeLibraryDir=/system/app/PrintSpooler/lib
+    extractNativeLibs=true
+    primaryCpuAbi=arm64-v8a
+    secondaryCpuAbi=null
+    cpuAbiOverride=null
+    versionCode=36 minSdk=36 targetSdk=36
+    minExtensionVersions=[]
+    versionName=16
+    hiddenApiEnforcementPolicy=0
+    usesNonSdkApi=true
+    splits=[base]
+    apkSigningVersion=3
+    flags=[ SYSTEM HAS_CODE ALLOW_CLEAR_USER_DATA ALLOW_BACKUP ]
+    privateFlags=[ PRIVATE_FLAG_ACTIVITIES_RESIZE_MODE_RESIZEABLE_VIA_SDK_VERSION ALLOW_AUDIO_PLAYBACK_CAPTURE PRIVATE_FLAG_ALLOW_NATIVE_HEAP_POINTER_TAGGING ]
