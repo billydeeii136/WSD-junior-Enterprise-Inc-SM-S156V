@@ -1,0 +1,11 @@
+Network Id      SSID                         Security type
+0            DIRECT-hu-EPSON-WF-2950 Series   wpa2-psk
+0            DIRECT-hu-EPSON-WF-2950 Series   wpa3-sae^
+1            GAPines76                        wpa2-psk
+1            GAPines76                        wpa3-sae^
+2            SouthwestWiFi                    open
+2            SouthwestWiFi                    owe^
+3            SpectrumSetup-D7                 wpa2-psk
+3            SpectrumSetup-D7                 wpa3-sae^
+4            Tony                             wpa2-psk
+4            Tony                             wpa3-sae^
