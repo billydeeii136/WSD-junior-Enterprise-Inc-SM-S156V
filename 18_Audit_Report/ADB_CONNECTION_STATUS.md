@@ -1,41 +1,36 @@
 # ADB Connection Status Report
-Updated: 2026-06-29T14:32:15Z
+Updated: 2026-06-29T15:24:23Z
 
 ## Connected Devices
 
 | # | Device | Serial | USB | WiFi IP | WiFi Port | Status |
 |---|--------|--------|-----|---------|-----------|--------|
-| 1 | SM-S156V (Galaxy A15) | RZCYA00HSTF | CONNECTED (usb:20-2) | 10.0.0.152 | 5555 | ACTIVE |
+| 1 | SM-S156V (Galaxy A15) | RZCYA00HSTF | ❌ | 10.0.0.152 | 5555 | ✅ ACTIVE |
+| 2 | SM-S176V (Galaxy A17 5G) | R5GL427M2DR | ✅ usb:20-2 | 10.0.0.136 | 5555 | ✅ ACTIVE |
+| 3 | SM-S176V (Galaxy A17 5G) | R5GL42JRL8A | ❌ | 10.0.0.137 | mDNS | ✅ ACTIVE |
 
-## Disconnected Devices (Require Wireless Debugging)
+## Disconnected Devices (Require Pairing Codes)
 
-| # | Device | MAC Address | Last Known IP | WiFi Port | Status | Action Needed |
-|---|--------|-------------|---------------|-----------|--------|---------------|
-| 2 | Samsung (unknown model) | 54:e0:19:bb:8d:6f | 10.0.0.6 | 5555/44327 | OFFLINE | Enable wireless debugging on device |
-| 3 | Samsung (unknown model) | f8:25:51:0c:97:42 | 10.0.0.98 | 5555/44327 | OFFLINE | Enable wireless debugging on device |
-| 4 | Samsung (unknown model) | 64:9a:63:27:31:ce | 10.0.0.5 | 5555/44327 | OFFLINE | Verify WiFi connection + enable debugging |
-| 5 | Samsung (unknown model) | 64:9a:63:27:91:0e | 10.0.0.89 | 5555/44327 | OFFLINE | Verify WiFi connection + enable debugging |
+| # | Device | MAC Address | Last Known IP | Status | Action Needed |
+|---|--------|-------------|---------------|--------|---------------|
+| 4 | Samsung (unknown model) | 54:e0:19:bb:8d:6f | 10.0.0.213 | OFFLINE | Provide pairing code |
+| 5 | Samsung (unknown model) | 1a:5e:4b:33:35:a3 | 10.0.0.48 | OFFLINE | Provide pairing code |
 
-## USB Scan Results
+## Extraction Status
 
-- Only 1 Samsung device detected on USB: RZCYA00HSTF (SM-S156V)
-- Location ID: 0x14200000 / 8
-- Speed: Up to 480 Mb/s
-- No other Android/Samsung devices found on USB bus
-
-## Notes
-
-- Phone 1 IP changed from 10.0.0.202 to 10.0.0.152 (DHCP reassignment)
-- Wireless debugging was disabled on Phone 1; re-enabled via USB using `adb tcpip 5555`
-- Phones 2-5 require wireless debugging to be manually enabled on each device
-- Phone auto-extract daemon (PID 5021) continues monitoring for new ADB connections
+| Phone | Model | Serial | Files | Size | Repo | Status |
+|-------|-------|--------|-------|------|------|--------|
+| 1 | SM-S156V (Galaxy A15) | RZCYA00HSTF | 2,120 | ~45MB | billydeeii136/WSD-junior-Enterprise-Inc-SM-S156V | ✅ COMPLETE |
+| 2 | SM-S176V (Galaxy A17 5G) | R5GL427M2DR | 24 | 1.8MB | billydeeii136/WSD-junior-Enterprise-Inc-SM-S176V | ✅ COMPLETE |
+| 3 | SM-S176V (Galaxy A17 5G) | R5GL42JRL8A | 18 | 3.1MB | billydeeii136/WSD-junior-Enterprise-Inc-SM-S176V-2 | ✅ COMPLETE |
+| 4 | TBD | TBD | TBD | TBD | TBD | ⏳ WAITING |
+| 5 | TBD | TBD | TBD | TBD | TBD | ⏳ WAITING |
 
 ## To Connect Remaining Phones
 
 On each remaining Samsung phone:
-1. Settings → About phone → Tap Build Number 7 times
-2. Settings → Developer options → Wireless debugging → ON
-3. Settings → Developer options → Wireless debugging → Pair with pairing code
-4. Report the IP:port and pairing code to this terminal
-5. I will auto-pair and extract all data
+1. Settings → Developer options → Wireless debugging → ON
+2. Tap "Pair with pairing code"
+3. Report the IP:port and 6-digit code to this terminal
+4. I will pair and extract instantly
 
