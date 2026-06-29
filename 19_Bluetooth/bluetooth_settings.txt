@@ -1,0 +1,14 @@
+apm_user_toggled_bluetooth=1
+bluetooth_a2dp_bt_uhq_state=0
+bluetooth_a2dp_uhqa_support=0
+bluetooth_addr_valid=1
+bluetooth_address=48:EF:1C:B9:61:05
+bluetooth_apm_state=0
+bluetooth_automatic_turn_on=0
+bluetooth_cast_mode=0
+bluetooth_internal_automatic_turn_on_timer=null
+bluetooth_name=WSD junior Enterprise Inc
+bluetooth_settings_foreground=0
+bluetooth_settings_foreground_qp=0
+sysui_quick_qs_tiles=Wifi,Bluetooth,SoundMode,RotationLock,AirplaneMode,Flashlight
+universal_switch_bluetooth_key_mapped=0
